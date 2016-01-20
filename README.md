@@ -10,6 +10,7 @@ A variety of JSON data sources for use in product development, API testing, proo
 - npm Modules: 2000 of the most popular npm modules and their descriptions
 - SAT Words:  about 5000 or so exam terms and their short definitions, categorized by nouns, adjectives, and verbs
 - Sensor Data: large source of Raspberry Pi sensor data with 11 attributes.
+- Colors: HEX, RGB, and Crayola color equivalents.
 
 
 ###Coming Soon
