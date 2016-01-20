@@ -7,8 +7,10 @@ A variety of JSON data sources for use in product development, API testing, proo
 ###Current JSON Data Sources
 
 - Nostradamus Quatrains:  Century 9 and Century 10.  More coming.
-- npm modules: 2000 of the most popular npm modules and their descriptions
-- SAT words:  about 5000 or so exam terms and their short definitions, categorized by noun, adjective, and verb
+- npm Modules: 2000 of the most popular npm modules and their descriptions
+- SAT Words:  about 5000 or so exam terms and their short definitions, categorized by nouns, adjectives, and verbs
+- Sensor Data: large source of Raspberry Pi sensor data with 11 attributes.
+
 
 ###Coming Soon
 
