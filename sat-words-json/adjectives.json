@@ -1,0 +1,7724 @@
+{
+  "adjectives":[
+    {
+      "term":"abnormal",
+      "def":"not conforming to rule or system"
+    },
+    {
+      "term":"abominable",
+      "def":"very hateful, detestable"
+    },
+    {
+      "term":"aboriginal",
+      "def":"original or indigenous to a place"
+    },
+    {
+      "term":"abortive",
+      "def":"unsuccessful"
+    },
+    {
+      "term":"aboveboard",
+      "def":" in open sight, without concealment, or deception "
+    },
+    {
+      "term":"abrasive",
+      "def":"rough enough to wear away the outer surface"
+    },
+    {
+      "term":"absolute",
+      "def":"free from imperfection, complete"
+    },
+    {
+      "term":"abstemious",
+      "def":"restraint especially in the consumption of food or alcohol"
+    },
+    {
+      "term":"abstruse",
+      "def":"difficult to comprehend"
+    },
+    {
+      "term":"abundant",
+      "def":"fully sufficient, in great quantity "
+    },
+    {
+      "term":"abusive",
+      "def":"treating badly or injuriously"
+    },
+    {
+      "term":"abysmal",
+      "def":"extremely hopeless, bad, or severe"
+    },
+    {
+      "term":"accessory",
+      "def":" aiding in a secondary way, being additional,"
+    },
+    {
+      "term":"acerbic",
+      "def":"acid in temper, mood or tone"
+    },
+    {
+      "term":"acetic",
+      "def":"of, pertaining to, or producing vinegar"
+    },
+    {
+      "term":"achillean",
+      "def":"invincible"
+    },
+    {
+      "term":"achromatic",
+      "def":"without colour"
+    },
+    {
+      "term":"acidulous",
+      "def":"slightly sour, sub-acid"
+    },
+    {
+      "term":"acoustic",
+      "def":"designed to carry sound or to aid in hearing"
+    },
+    {
+      "term":"acquisitive",
+      "def":"acquired"
+    },
+    {
+      "term":"acrid",
+      "def":"sharp and harsh, or bitter and not to the taste, pungent "
+    },
+    {
+      "term":"acrimonious",
+      "def":"of or pertaining to words, arguments, quarrels"
+    },
+    {
+      "term":"actionable",
+      "def":"affording grounds for legal action"
+    },
+    {
+      "term":"actuarial",
+      "def":"of or pertaining to actuaries"
+    },
+    {
+      "term":"acute",
+      "def":"sharp"
+    },
+    {
+      "term":"ad hoc",
+      "def":"specifically for"
+    },
+    {
+      "term":"ad infinitum",
+      "def":"to infinity"
+    },
+    {
+      "term":"adamant",
+      "def":"resistant to reason, determined, inflexible"
+    },
+    {
+      "term":"adept",
+      "def":"well skilled, completely versed, thoroughly proficient"
+    },
+    {
+      "term":"adjacent",
+      "def":"close, or contiguous, neighboring, bordering on "
+    },
+    {
+      "term":"adjutant",
+      "def":"a military officer"
+    },
+    {
+      "term":"admissible",
+      "def":" accepted or allowed, acceptable"
+    },
+    {
+      "term":"adroit",
+      "def":"dexterous"
+    },
+    {
+      "term":"adventitious",
+      "def":"from an external source, not innate or inherent"
+    },
+    {
+      "term":"adverse",
+      "def":"unfavorable, antagonistic in purpose or effect, hostile"
+    },
+    {
+      "term":"advisory",
+      "def":"able to give advice"
+    },
+    {
+      "term":"aerial",
+      "def":"of, in, or from the air, atmospheric"
+    },
+    {
+      "term":"aesthetic",
+      "def":"having a sense of beauty"
+    },
+    {
+      "term":"affable",
+      "def":"pleasant, easy to approach"
+    },
+    {
+      "term":"affirmative",
+      "def":"pertaining to truth, asserting that something is true"
+    },
+    {
+      "term":"affluent",
+      "def":"having lots of wealth, property or other material goods"
+    },
+    {
+      "term":"afire",
+      "def":"on fire"
+    },
+    {
+      "term":"afoot",
+      "def":"on foot"
+    },
+    {
+      "term":"aforesaid",
+      "def":" a previously stated statement"
+    },
+    {
+      "term":"afresh",
+      "def":"anew"
+    },
+    {
+      "term":"aghast",
+      "def":"terrified, struck with amazement"
+    },
+    {
+      "term":"agile",
+      "def":"active, quick and coordinated"
+    },
+    {
+      "term":"agnostic",
+      "def":"the doubt of a higher power/being"
+    },
+    {
+      "term":"agog",
+      "def":"in eager desire, eager, astir"
+    },
+    {
+      "term":"agrarian",
+      "def":"of, or relating to, the ownership and cultivation of land"
+    },
+    {
+      "term":"akin",
+      "def":"related by blood, similar"
+    },
+    {
+      "term":"albeit",
+      "def":"although, even if"
+    },
+    {
+      "term":"albino",
+      "def":"a person, plant  or animal with a deficiency in pigmentation"
+    },
+    {
+      "term":"aloof",
+      "def":"reserved and remote, physically or emotionally distant"
+    },
+    {
+      "term":"alternative",
+      "def":"relating to a choice between two or more possibilities"
+    },
+    {
+      "term":"amateur",
+      "def":"non-professional"
+    },
+    {
+      "term":"amatory",
+      "def":"of or relating to love"
+    },
+    {
+      "term":"ambidextrous",
+      "def":"having equal ability in both hands"
+    },
+    {
+      "term":"ambiguous",
+      "def":"to be vague, non-specific"
+    },
+    {
+      "term":"ambitious",
+      "def":"possessing, or controlled by ambition"
+    },
+    {
+      "term":"ambivalent",
+      "def":"experiencing contradictory feelings, beliefs, or motivations"
+    },
+    {
+      "term":"ambrosial",
+      "def":"succulently sweet or fragrant"
+    },
+    {
+      "term":"amenable",
+      "def":"open to influence or advice, agreeable"
+    },
+    {
+      "term":"amiable",
+      "def":"friendly, sociable"
+    },
+    {
+      "term":"amicable",
+      "def":"peaceable, characterized by showing goodwill"
+    },
+    {
+      "term":"amiss",
+      "def":"wrong, faulty, out of order, improper"
+    },
+    {
+      "term":"amoral",
+      "def":"being neither moral nor immoral"
+    },
+    {
+      "term":"amorous",
+      "def":"inclined to love, having a propensity to love"
+    },
+    {
+      "term":"amorphous",
+      "def":"lacking definite form"
+    },
+    {
+      "term":"amphibious",
+      "def":"able to live in water and on land"
+    },
+    {
+      "term":"ample",
+      "def":"large, great in size, extent, capacity, or bulk, spacious"
+    },
+    {
+      "term":"analgesic",
+      "def":"of or relating to analgesia, anodyne"
+    },
+    {
+      "term":"analogous",
+      "def":"corresponding to something else, bearing some resemblance"
+    },
+    {
+      "term":"ancillary",
+      "def":"subordinate, secondary, auxiliary, accessory "
+    },
+    {
+      "term":"angelic",
+      "def":"belonging to, resembling, or proceeding from, angels"
+    },
+    {
+      "term":"anglo-saxon",
+      "def":"native or inhabitant of england prior to the norman conquest"
+    },
+    {
+      "term":"angular",
+      "def":"relating to an angle or angles, having an angle or angles"
+    },
+    {
+      "term":"anhydrous",
+      "def":"free from water"
+    },
+    {
+      "term":"anomalous",
+      "def":"deviating from what is standard, expected or normal"
+    },
+    {
+      "term":"antediluvian",
+      "def":"old, ancient"
+    },
+    {
+      "term":"antemeridian",
+      "def":"of or relating to morning, that happens in the morning"
+    },
+    {
+      "term":"antemundane",
+      "def":"being or occurring prior to the creation of the world"
+    },
+    {
+      "term":"antenatal",
+      "def":"occurring or existing before birth"
+    },
+    {
+      "term":"anterior",
+      "def":"before in place"
+    },
+    {
+      "term":"anthropocentric",
+      "def":"giving preference to humans above all other considerations"
+    },
+    {
+      "term":"anthropoid",
+      "def":"having characteristics of a human being"
+    },
+    {
+      "term":"anthropomorphous",
+      "def":"resembling a human being"
+    },
+    {
+      "term":"antique",
+      "def":"of, or belonging to the past, not modern"
+    },
+    {
+      "term":"antiseptic",
+      "def":"of, or relating to antisepsis, or the use of antiseptics"
+    },
+    {
+      "term":"antislavery",
+      "def":"opposed to the practice of slavery "
+    },
+    {
+      "term":"antispasmodic",
+      "def":"referring to something that suppresses spasms, like a drug"
+    },
+    {
+      "term":"anxious",
+      "def":"greatly concerned, respecting something future or unknown"
+    },
+    {
+      "term":"apocryphal",
+      "def":"of doubtful authenticity"
+    },
+    {
+      "term":"apolitical",
+      "def":"having no interest or involvement in politics"
+    },
+    {
+      "term":"appalling",
+      "def":"causing dismay or horror"
+    },
+    {
+      "term":"apparent",
+      "def":"capable of being seen, or easily seen"
+    },
+    {
+      "term":"appellate",
+      "def":"describing something that is appealed to"
+    },
+    {
+      "term":"applicable",
+      "def":"suitable for application, relevant, appropriate"
+    },
+    {
+      "term":"apposite",
+      "def":"appropriate, relevant, well-suited, fit "
+    },
+    {
+      "term":"apprehensive",
+      "def":"anticipating something with anxiety or fear"
+    },
+    {
+      "term":"appropriate",
+      "def":"suitable or fitting for a particular purpose"
+    },
+    {
+      "term":"apropos",
+      "def":"of an appropriate or pertinent nature"
+    },
+    {
+      "term":"aquatic",
+      "def":"relating to water"
+    },
+    {
+      "term":"aqueous",
+      "def":"consisting mostly of water"
+    },
+    {
+      "term":"arable",
+      "def":"suitable for cultivation, such as by ploughing"
+    },
+    {
+      "term":"arbitrary",
+      "def":"random, not based on reason or system"
+    },
+    {
+      "term":"arboreal",
+      "def":"of or relating to trees"
+    },
+    {
+      "term":"arcane",
+      "def":"known or understood by very few"
+    },
+    {
+      "term":"archaic",
+      "def":"of or characterized by antiquity"
+    },
+    {
+      "term":"ardent",
+      "def":"intensely devoted, fervent, passionate "
+    },
+    {
+      "term":"arduous",
+      "def":"difficult and tiring"
+    },
+    {
+      "term":"arid",
+      "def":"extremely dry"
+    },
+    {
+      "term":"arrant",
+      "def":"complete, total"
+    },
+    {
+      "term":"arrogant",
+      "def":"haughty, conceited"
+    },
+    {
+      "term":"artesian",
+      "def":"pertaining to a well in which water rises from pressure"
+    },
+    {
+      "term":"artful",
+      "def":"performed with, or characterized by, art or skill"
+    },
+    {
+      "term":"arthurian",
+      "def":"of or relating to the legend of king arthur"
+    },
+    {
+      "term":"artless",
+      "def":"having or displaying no guile, cunning, or deceit"
+    },
+    {
+      "term":"ascendant",
+      "def":"rising, moving upward"
+    },
+    {
+      "term":"aseptic",
+      "def":"free of disease-causing microbes"
+    },
+    {
+      "term":"asexual",
+      "def":"having no distinct sex, having no interest in sex"
+    },
+    {
+      "term":"ashen",
+      "def":"of the pale gray color of ash"
+    },
+    {
+      "term":"asinine",
+      "def":"foolish, unintelligent or silly"
+    },
+    {
+      "term":"askance",
+      "def":"turned to the side, especially of the eyes"
+    },
+    {
+      "term":"askew",
+      "def":"turned or twisted to one side"
+    },
+    {
+      "term":"assiduous",
+      "def":"diligent, industrious"
+    },
+    {
+      "term":"assonant",
+      "def":"having successive similar vowel sounds"
+    },
+    {
+      "term":"astral",
+      "def":"relating to or resembling the stars, starry"
+    },
+    {
+      "term":"astringent",
+      "def":"sharp, caustic, severe"
+    },
+    {
+      "term":"astute",
+      "def":"shrewd, sharp"
+    },
+    {
+      "term":"asunder",
+      "def":"apart, divided"
+    },
+    {
+      "term":"atheist",
+      "def":"of or relating to atheists or atheism, atheistic "
+    },
+    {
+      "term":"athirst",
+      "def":"thirsty"
+    },
+    {
+      "term":"atrocious",
+      "def":"frightful, evil, cruel or monstrous"
+    },
+    {
+      "term":"atypical",
+      "def":"not conforming to the normal type"
+    },
+    {
+      "term":"auburn",
+      "def":"of a reddish-brown colour"
+    },
+    {
+      "term":"audacious",
+      "def":"showing willingness to take bold risks, recklessly daring "
+    },
+    {
+      "term":"audible",
+      "def":"capable of being heard"
+    },
+    {
+      "term":"auditory",
+      "def":"of, or relating to hearing"
+    },
+    {
+      "term":"august",
+      "def":"inspiring reverence or admiration, majestic"
+    },
+    {
+      "term":"aural",
+      "def":"of or pertaining to the ear"
+    },
+    {
+      "term":"auriferous",
+      "def":"containing or producing gold, gold-bearing"
+    },
+    {
+      "term":"auroral",
+      "def":"pertaining to the dawn"
+    },
+    {
+      "term":"austere",
+      "def":"severe or strict in manner, attitude, or appearance"
+    },
+    {
+      "term":"authentic",
+      "def":"of the same origin as claimed, genuine "
+    },
+    {
+      "term":"authoritarian",
+      "def":"of, or relating to, absolute obedience to an authority"
+    },
+    {
+      "term":"autumnal",
+      "def":"of or relating to autumn"
+    },
+    {
+      "term":"auxiliary",
+      "def":"helping, giving assistance or support"
+    },
+    {
+      "term":"avant-garde",
+      "def":"innovative, pioneering, especially when obviously so"
+    },
+    {
+      "term":"avid",
+      "def":"having or showing keen interest"
+    },
+    {
+      "term":"avuncular",
+      "def":"in the manner of an uncle, pertaining to an uncle"
+    },
+    {
+      "term":"awry",
+      "def":"crooked, distorted, out of place "
+    },
+    {
+      "term":"azure",
+      "def":"a light, purplish shade of blue"
+    },
+    {
+      "term":"bacchanalian",
+      "def":"riotously drunken"
+    },
+    {
+      "term":"baconian",
+      "def":"of or pertaining to the philosopher Francis Bacon"
+    },
+    {
+      "term":"baleful",
+      "def":"threatening harm, menacing"
+    },
+    {
+      "term":"banal",
+      "def":"so lacking in originality as to be obvious and boring"
+    },
+    {
+      "term":"barren",
+      "def":"empty, vacant"
+    },
+    {
+      "term":"bashful",
+      "def":"shy, inclined to avoid notice"
+    },
+    {
+      "term":"bass",
+      "def":"of sound which is low in pitch or frequency"
+    },
+    {
+      "term":"bawdy",
+      "def":"soiled, dirty"
+    },
+    {
+      "term":"beatific",
+      "def":"blessed, blissful, heavenly"
+    },
+    {
+      "term":"bellicose",
+      "def":"demonstrating aggression and willingness to fight"
+    },
+    {
+      "term":"belligerent",
+      "def":"hostile, aggressive"
+    },
+    {
+      "term":"beneficial",
+      "def":"helpful or good to something or someone"
+    },
+    {
+      "term":"benevolent",
+      "def":"having a disposition to do good"
+    },
+    {
+      "term":"benign",
+      "def":"gentle, kindly"
+    },
+    {
+      "term":"bent",
+      "def":"curved, crooked"
+    },
+    {
+      "term":"bereft",
+      "def":"deprived"
+    },
+    {
+      "term":"berserk",
+      "def":"furiously violent or out of control"
+    },
+    {
+      "term":"bestial",
+      "def":"beast-like"
+    },
+    {
+      "term":"bibulous",
+      "def":"very absorbent"
+    },
+    {
+      "term":"bicameral",
+      "def":"pertaining to, two separate legislative chambers or houses"
+    },
+    {
+      "term":"biennial",
+      "def":"happening every two years"
+    },
+    {
+      "term":"bilateral",
+      "def":"having two sides"
+    },
+    {
+      "term":"bilingual",
+      "def":"fluent in two languages"
+    },
+    {
+      "term":"bilious",
+      "def":"peevish, irritable"
+    },
+    {
+      "term":"bizarre",
+      "def":"strangely unconventional in style or appearance"
+    },
+    {
+      "term":"bland",
+      "def":"mild, soft, gentle"
+    },
+    {
+      "term":"blasé",
+      "def":"uninterested because of frequent exposure or indulgence"
+    },
+    {
+      "term":"blatant",
+      "def":"obvious"
+    },
+    {
+      "term":"bleak",
+      "def":"bare, desolate"
+    },
+    {
+      "term":"blithe",
+      "def":"showing a casual indifference which is callous or improper"
+    },
+    {
+      "term":"blithesome",
+      "def":"happy or spriteful, carefree"
+    },
+    {
+      "term":"bloated",
+      "def":"swollen, puffed up"
+    },
+    {
+      "term":"bodily",
+      "def":"of, relating to, or concerning the body"
+    },
+    {
+      "term":"bogus",
+      "def":"counterfeit or fake, not genuine "
+    },
+    {
+      "term":"boisterous",
+      "def":"noisy, energetic, rowdy"
+    },
+    {
+      "term":"bombastic",
+      "def":"ostentatiously lofty in style"
+    },
+    {
+      "term":"bon mot",
+      "def":"a witty remark or comment, clever saying, witticism"
+    },
+    {
+      "term":"bona fide",
+      "def":"genuine, real"
+    },
+    {
+      "term":"booming",
+      "def":"having a great period of prosperity"
+    },
+    {
+      "term":"bosom",
+      "def":"in a very close relationship"
+    },
+    {
+      "term":"bountiful",
+      "def":"having a quantity or amount that is generous or plentiful"
+    },
+    {
+      "term":"bovine",
+      "def":"of, relating to, or affecting cattle"
+    },
+    {
+      "term":"brackish",
+      "def":"salty or slightly salty, as a mixture of fresh and sea water"
+    },
+    {
+      "term":"brash",
+      "def":"impetuous or rash"
+    },
+    {
+      "term":"brazen",
+      "def":"bold and without shame"
+    },
+    {
+      "term":"brimstone",
+      "def":"about or pertaining to hell"
+    },
+    {
+      "term":"brindled",
+      "def":"of a brownish, tawny or gray colour, with streaks or spots"
+    },
+    {
+      "term":"brittle",
+      "def":"liable to break or snap easily under stress or pressure"
+    },
+    {
+      "term":"brusque",
+      "def":"rudely abrupt, unfriendly"
+    },
+    {
+      "term":"bulbous",
+      "def":"having the shape of or resembling a bulb, bloated"
+    },
+    {
+      "term":"bumptious",
+      "def":"obtrusively pushy, self-assertive to a pretentious extreme "
+    },
+    {
+      "term":"buoyant",
+      "def":"having buoyancy, able to float"
+    },
+    {
+      "term":"burly",
+      "def":"large, well-built, and muscular"
+    },
+    {
+      "term":"buxom",
+      "def":"having a voluptuous figure, especially having large breasts"
+    },
+    {
+      "term":"caitiff",
+      "def":"especially despicable, cowardly"
+    },
+    {
+      "term":"calculable",
+      "def":"able to be calculated"
+    },
+    {
+      "term":"callosity",
+      "def":"hardheartedness"
+    },
+    {
+      "term":"callous",
+      "def":"showing a cruel and insensitive disregard for others"
+    },
+    {
+      "term":"callow",
+      "def":"immature or inexperienced"
+    },
+    {
+      "term":"calorific",
+      "def":"pertaining to conversion into heat"
+    },
+    {
+      "term":"calvish",
+      "def":"like a calf, stupid"
+    },
+    {
+      "term":"candid",
+      "def":"free from prejudice, impartial"
+    },
+    {
+      "term":"canine",
+      "def":"of, or pertaining to, a dog or dogs"
+    },
+    {
+      "term":"canny",
+      "def":"careful, prudent, cautious"
+    },
+    {
+      "term":"cantankerous",
+      "def":"ill-tempered, cranky, surly, crabby"
+    },
+    {
+      "term":"capacious",
+      "def":"having a lot of space inside, roomy"
+    },
+    {
+      "term":"capillary",
+      "def":"of or pertaining to hair"
+    },
+    {
+      "term":"capricious",
+      "def":"given to sudden, unaccountable changes of mood or behavior"
+    },
+    {
+      "term":"captious",
+      "def":"apt to notice and make much of trivial defaults"
+    },
+    {
+      "term":"cardiac",
+      "def":"pertaining to the heart"
+    },
+    {
+      "term":"cardinal",
+      "def":"of fundamental importance, crucial, pivotal "
+    },
+    {
+      "term":"carnal",
+      "def":"relating to the physical and especially sexual appetites"
+    },
+    {
+      "term":"carnivorous",
+      "def":"feeding on other animals, meat-eaters"
+    },
+    {
+      "term":"categorical",
+      "def":"absolute, having no exception"
+    },
+    {
+      "term":"catholic",
+      "def":"all embracing, general"
+    },
+    {
+      "term":"causal",
+      "def":"of, relating to, or being a cause of something, causing"
+    },
+    {
+      "term":"caustic",
+      "def":"capable of destroying or eating away by chemical action"
+    },
+    {
+      "term":"celibate",
+      "def":"abstaining from marriage and sexual relations"
+    },
+    {
+      "term":"censorious",
+      "def":"addicted to censure and scolding"
+    },
+    {
+      "term":"censurable",
+      "def":"deserving of censure, blameworthy"
+    },
+    {
+      "term":"centenary",
+      "def":"of, pertaining to, or completing a period of 100 years"
+    },
+    {
+      "term":"cerebral",
+      "def":"intellectual rather than emotional or physical"
+    },
+    {
+      "term":"ceremonial",
+      "def":"of, relating to, or used in a ceremony, ritual or formal"
+    },
+    {
+      "term":"chameleon",
+      "def":"describing something that changes color"
+    },
+    {
+      "term":"characteristic",
+      "def":"being a distinguishing feature of a person or thing"
+    },
+    {
+      "term":"chary",
+      "def":"cautious, wary"
+    },
+    {
+      "term":"chaste",
+      "def":"abstaining from sexual intercourse, celibate"
+    },
+    {
+      "term":"chattel",
+      "def":"a movable article of personal property"
+    },
+    {
+      "term":"chauvinist",
+      "def":"a person who believes one gender is superior to the other"
+    },
+    {
+      "term":"cherubic",
+      "def":"of, or relating to a cherub, angelic"
+    },
+    {
+      "term":"choral",
+      "def":"of, relating to, written for, or performed by a choir"
+    },
+    {
+      "term":"chromatic",
+      "def":"relating to or characterised by hue"
+    },
+    {
+      "term":"chronic",
+      "def":"that continues over an extended period of time"
+    },
+    {
+      "term":"churlish",
+      "def":"boorish, vulgar"
+    },
+    {
+      "term":"circuitous",
+      "def":"roundabout, longer than the most direct way"
+    },
+    {
+      "term":"circumspect",
+      "def":"wary and unwilling to take risks"
+    },
+    {
+      "term":"clairvoyant",
+      "def":"having the power to see beyond the natural range of vision"
+    },
+    {
+      "term":"clandestine",
+      "def":"kept secret or done secretly"
+    },
+    {
+      "term":"clarion",
+      "def":"loud and clear"
+    },
+    {
+      "term":"clement",
+      "def":"lenient or merciful, charitable"
+    },
+    {
+      "term":"clumsy",
+      "def":"awkward, lacking coordination, not graceful, not dextrous"
+    },
+    {
+      "term":"cogent",
+      "def":"to the point, relevant"
+    },
+    {
+      "term":"cognate",
+      "def":"related by birth, of the same parentage"
+    },
+    {
+      "term":"cognizant",
+      "def":"having awareness of (something)"
+    },
+    {
+      "term":"cohesive",
+      "def":"having unity"
+    },
+    {
+      "term":"collateral",
+      "def":"parallel, along the same vein, side by side"
+    },
+    {
+      "term":"collective",
+      "def":"gathered into a mass, sum, or body"
+    },
+    {
+      "term":"colloquial",
+      "def":"ordinary or familiar language rather than formal language"
+    },
+    {
+      "term":"comely",
+      "def":"(woman) pleasant to look at, agreeable"
+    },
+    {
+      "term":"comestible",
+      "def":"suitable to be eaten, edible"
+    },
+    {
+      "term":"comical",
+      "def":"funny, amusing"
+    },
+    {
+      "term":"commensurate",
+      "def":"corresponding in size or degree"
+    },
+    {
+      "term":"committal",
+      "def":"of or relating to a committee"
+    },
+    {
+      "term":"commodious",
+      "def":"spacious and convenient, roomy and comfortable "
+    },
+    {
+      "term":"comparable",
+      "def":"able to be compared"
+    },
+    {
+      "term":"comparative",
+      "def":"perceptible by comparison, relative"
+    },
+    {
+      "term":"compatible",
+      "def":"able to co-exist or occur together without conflict"
+    },
+    {
+      "term":"competent",
+      "def":"having the necessary ability, knowledge, or skill"
+    },
+    {
+      "term":"complacent",
+      "def":"smug or uncritical satisfaction with one's achievements"
+    },
+    {
+      "term":"complaisant",
+      "def":"willing  to please others, obliging"
+    },
+    {
+      "term":"compliant",
+      "def":"inclined to agree with others, especially submissively"
+    },
+    {
+      "term":"component",
+      "def":"making up a larger whole, as a component word"
+    },
+    {
+      "term":"comprehensible",
+      "def":"able to be understood"
+    },
+    {
+      "term":"comprehensive",
+      "def":"complete, including all or nearly all elements or aspects"
+    },
+    {
+      "term":"compressible",
+      "def":"able to be compressed"
+    },
+    {
+      "term":"compulsory",
+      "def":"required, obligatory, mandatory"
+    },
+    {
+      "term":"concerted",
+      "def":"planned or devised together"
+    },
+    {
+      "term":"conciliatory",
+      "def":"intended or likely to placate or pacify"
+    },
+    {
+      "term":"concise",
+      "def":"brief but comprehensive"
+    },
+    {
+      "term":"conclusive",
+      "def":"serving to prove a case, convincing"
+    },
+    {
+      "term":"concomitant",
+      "def":"accompanying, concurrent"
+    },
+    {
+      "term":"concurrent",
+      "def":"happening at the same time, simultaneous"
+    },
+    {
+      "term":"conditional",
+      "def":"subject to one or more requirements being met"
+    },
+    {
+      "term":"conducive",
+      "def":"tending to contribute to, encourage"
+    },
+    {
+      "term":"conductible",
+      "def":"able to conduct"
+    },
+    {
+      "term":"confident",
+      "def":"being very sure of or positive about something"
+    },
+    {
+      "term":"confluent",
+      "def":"(of wind) which converges, esp. When seen on a weather chart"
+    },
+    {
+      "term":"conformable",
+      "def":"corresponding in shape, similar"
+    },
+    {
+      "term":"conformist",
+      "def":"a person who conforms to the standards of a group"
+    },
+    {
+      "term":"congenial",
+      "def":"having the same or very similar nature or personality"
+    },
+    {
+      "term":"congenital",
+      "def":"present since birth"
+    },
+    {
+      "term":"congruent",
+      "def":"agreeing, accordant, congruous"
+    },
+    {
+      "term":"coniferous",
+      "def":"bearing cones, as the pine and cypress"
+    },
+    {
+      "term":"conjugal",
+      "def":"of, or relating to marriage, or the relationship of spouses"
+    },
+    {
+      "term":"connubial",
+      "def":"of or relating to the state of being married"
+    },
+    {
+      "term":"consanguineous",
+      "def":"related by birth, having the same ancestry"
+    },
+    {
+      "term":"conscientious",
+      "def":"thorough, careful, or vigilant"
+    },
+    {
+      "term":"consecutive",
+      "def":"following, in succession, without interruption"
+    },
+    {
+      "term":"conservative",
+      "def":"tending to resist change"
+    },
+    {
+      "term":"conservatory",
+      "def":"a college for the study of classical music or other arts"
+    },
+    {
+      "term":"consonant",
+      "def":"characterized by harmony or agreement"
+    },
+    {
+      "term":"conspicuous",
+      "def":"obvious or easy to notice, attracting notice or attention"
+    },
+    {
+      "term":"constituent",
+      "def":"part of a whole"
+    },
+    {
+      "term":"consumptive",
+      "def":"tending to consume, destructive, wasteful"
+    },
+    {
+      "term":"contagious",
+      "def":"of a disease, easily transmitted to others"
+    },
+    {
+      "term":"contemporaneous",
+      "def":"existing or occurring in the same period of time"
+    },
+    {
+      "term":"contemporary",
+      "def":"from the same time period, coexistent in time"
+    },
+    {
+      "term":"contemptible",
+      "def":"deserving of or held in contempt,  despicable"
+    },
+    {
+      "term":"contemptuous",
+      "def":"scornful, disdainful"
+    },
+    {
+      "term":"contentious",
+      "def":"causing or likely to cause an argument, controversial"
+    },
+    {
+      "term":"contiguous",
+      "def":"connected, touching, abutting"
+    },
+    {
+      "term":"contingent",
+      "def":"possible or liable, but not certain to occur, incidental"
+    },
+    {
+      "term":"contraband",
+      "def":"prohibited from being traded"
+    },
+    {
+      "term":"contradictory",
+      "def":"mutually opposed or inconsistent"
+    },
+    {
+      "term":"contrite",
+      "def":"feeling or expressing remorse or penitence"
+    },
+    {
+      "term":"contumacious",
+      "def":"stubbornly or willfully disobedient to authority"
+    },
+    {
+      "term":"contumelious",
+      "def":"(of behavior) scornful and insulting, insolent"
+    },
+    {
+      "term":"convalescent",
+      "def":"recovering one's health and strength after illness"
+    },
+    {
+      "term":"conventional",
+      "def":"based on or in accordance with what is generally done"
+    },
+    {
+      "term":"convergent",
+      "def":"coming closer together, to focus"
+    },
+    {
+      "term":"conversant",
+      "def":"closely familiar, current, having frequent interaction"
+    },
+    {
+      "term":"convertible",
+      "def":"able to be converted"
+    },
+    {
+      "term":"convex",
+      "def":"curved or bowed outward like the outside of a circle"
+    },
+    {
+      "term":"convivial",
+      "def":"of or relating to a feast or entertainment"
+    },
+    {
+      "term":"convoluted",
+      "def":"extremely complex and difficult to follow (argument, often)"
+    },
+    {
+      "term":"copious",
+      "def":"abundant in supply or quantity"
+    },
+    {
+      "term":"cordial",
+      "def":"warm and friendly, courteous"
+    },
+    {
+      "term":"corporal",
+      "def":"of the human body, physical"
+    },
+    {
+      "term":"corporate",
+      "def":"of, or relating to a corporation"
+    },
+    {
+      "term":"corporeal",
+      "def":"tangible, material"
+    },
+    {
+      "term":"corpulent",
+      "def":"large in body, fat, overweight"
+    },
+    {
+      "term":"correlative",
+      "def":"mutually related, corresponding"
+    },
+    {
+      "term":"corrigible",
+      "def":"able to be corrected or set right"
+    },
+    {
+      "term":"corrosive",
+      "def":"having the power of gradually wearing, or destroying matter"
+    },
+    {
+      "term":"corruptible",
+      "def":"showing a willingness to act dishonestly"
+    },
+    {
+      "term":"cosmetic",
+      "def":"external or superficial, pertaining only to the surface"
+    },
+    {
+      "term":"cosmic",
+      "def":"of or from or pertaining to the cosmos or universe"
+    },
+    {
+      "term":"cosmopolitan",
+      "def":"familiar with and at ease in many different countries"
+    },
+    {
+      "term":"courageous",
+      "def":"of a person, displaying or possessing bravery"
+    },
+    {
+      "term":"courtesy",
+      "def":"given or done as a polite gesture"
+    },
+    {
+      "term":"covert",
+      "def":"not openly acknowledged or displayed"
+    },
+    {
+      "term":"coy",
+      "def":"artfully or affectedly shy or reserved"
+    },
+    {
+      "term":"crass",
+      "def":"lacking in sensitivity or due consideration"
+    },
+    {
+      "term":"craven",
+      "def":"cowardly"
+    },
+    {
+      "term":"credible",
+      "def":"believable or plausible"
+    },
+    {
+      "term":"creditable",
+      "def":"credible or believable"
+    },
+    {
+      "term":"credulous",
+      "def":"having or showing too great a readiness to believe things"
+    },
+    {
+      "term":"crematory",
+      "def":"pertaining to the act of cremating bodies"
+    },
+    {
+      "term":"crepuscular",
+      "def":"of or resembling twilight, dim"
+    },
+    {
+      "term":"crestfallen",
+      "def":"sad because of a recent disappointment"
+    },
+    {
+      "term":"critical",
+      "def":"inclined to find fault or to judge with severity"
+    },
+    {
+      "term":"crustaceous",
+      "def":"of the nature of or pertaining to a crust or shell"
+    },
+    {
+      "term":"cryptic",
+      "def":"having a meaning that is mysterious or obscure"
+    },
+    {
+      "term":"culinary",
+      "def":"relating to cookery or the activity of cooking"
+    },
+    {
+      "term":"culpable",
+      "def":"deserving blame"
+    },
+    {
+      "term":"cumbersome",
+      "def":"burdensome or hindering, as a weight or drag"
+    },
+    {
+      "term":"cumulative",
+      "def":"increasing in quantity or force by successive additions"
+    },
+    {
+      "term":"cunning",
+      "def":"having or showing skill in achieving one's ends by deceit"
+    },
+    {
+      "term":"curable",
+      "def":"able of being cured"
+    },
+    {
+      "term":"cursive",
+      "def":"(handwriting) in flowing strokes with the letters connected"
+    },
+    {
+      "term":"cursory",
+      "def":"hasty and therefore not thorough or detailed"
+    },
+    {
+      "term":"curt",
+      "def":"brief or terse, especially to the point of being rude"
+    },
+    {
+      "term":"cycloid",
+      "def":"resembling a circle, cyclical"
+    },
+    {
+      "term":"cynic",
+      "def":"churlish or satirical"
+    },
+    {
+      "term":"cynical",
+      "def":"believing that people are motivated by self-interest"
+    },
+    {
+      "term":"dank",
+      "def":"unpleasantly moist or humid"
+    },
+    {
+      "term":"dapper",
+      "def":"neat, trim"
+    },
+    {
+      "term":"darkle",
+      "def":"uncannily or threateningly dark or obscure"
+    },
+    {
+      "term":"dastard",
+      "def":"meanly shrinking from danger, cowardly"
+    },
+    {
+      "term":"daunting",
+      "def":"causing fear or discouragement"
+    },
+    {
+      "term":"dauntless",
+      "def":"invulnerable to fear or intimidation"
+    },
+    {
+      "term":"debatable",
+      "def":"open to discussion or argument"
+    },
+    {
+      "term":"debonair",
+      "def":"gracious, courteous"
+    },
+    {
+      "term":"decapod",
+      "def":"having ten legs"
+    },
+    {
+      "term":"deceitful",
+      "def":"deliberately misleading or cheating"
+    },
+    {
+      "term":"deciduous",
+      "def":"falling off or shed at a particular season, point of growth"
+    },
+    {
+      "term":"decimal",
+      "def":"pertaining to or proceeding by tenths or the power of ten"
+    },
+    {
+      "term":"decisive",
+      "def":"settling an issue, producing a definite result"
+    },
+    {
+      "term":"declamatory",
+      "def":"bombastic, ostentatiously lofty in style"
+    },
+    {
+      "term":"declarative",
+      "def":"a statement in the form of a formal announcement"
+    },
+    {
+      "term":"decorous",
+      "def":"in keeping with good taste and propriety"
+    },
+    {
+      "term":"decrepit",
+      "def":"weakened or worn out from age or wear"
+    },
+    {
+      "term":"defamatory",
+      "def":"damaging to someone's reputation, especially if untrue"
+    },
+    {
+      "term":"defensible",
+      "def":"capable of being defended against armed attack"
+    },
+    {
+      "term":"defensive",
+      "def":"used or intended to defend or protect"
+    },
+    {
+      "term":"deferential",
+      "def":"respectful, reverential"
+    },
+    {
+      "term":"defiant",
+      "def":"showing open resistance, provocative"
+    },
+    {
+      "term":"deficient",
+      "def":"lacking something essential, often construed with in"
+    },
+    {
+      "term":"definite",
+      "def":"having distinct limits"
+    },
+    {
+      "term":"definitive",
+      "def":"explicitly defined"
+    },
+    {
+      "term":"deft",
+      "def":"quick and neat in action, skillful"
+    },
+    {
+      "term":"defunct",
+      "def":"no longer existing or functioning"
+    },
+    {
+      "term":"degenerate",
+      "def":"having fallen below a desirable level, especially morally"
+    },
+    {
+      "term":"deist",
+      "def":"someone who believes in the existence of a supreme being"
+    },
+    {
+      "term":"delectable",
+      "def":"pleasing to the taste, delicious"
+    },
+    {
+      "term":"deleterious",
+      "def":"causing harm or damage"
+    },
+    {
+      "term":"delirious",
+      "def":"in a state of wild excitement or ecstasy"
+    },
+    {
+      "term":"demented",
+      "def":"insane or mentally ill"
+    },
+    {
+      "term":"demonstrable",
+      "def":"clearly apparent or capable of being logically proved"
+    },
+    {
+      "term":"demonstrative",
+      "def":"that serves to demonstrate, show or prove"
+    },
+    {
+      "term":"demulcent",
+      "def":"soothing or softening"
+    },
+    {
+      "term":"demure",
+      "def":"reserved, modest, and shy"
+    },
+    {
+      "term":"dendroid",
+      "def":"(of an organism or structure) tree-shaped, branching"
+    },
+    {
+      "term":"deplorable",
+      "def":"deserving strong condemnation, shockingly bad"
+    },
+    {
+      "term":"deponent",
+      "def":"(Greek Grammar) having passive form but an active meaning"
+    },
+    {
+      "term":"derelict",
+      "def":"abandoned, forsaken, dilapidated, neglected "
+    },
+    {
+      "term":"derisible",
+      "def":"subject to or deserving of contemptuous ridicule"
+    },
+    {
+      "term":"derivative",
+      "def":"imitative of the work of someone else"
+    },
+    {
+      "term":"derogatory",
+      "def":"showing a degrading or disrespectful attitude"
+    },
+    {
+      "term":"descendant",
+      "def":"descending from a biological ancestor"
+    },
+    {
+      "term":"desiccant",
+      "def":"causing dryness"
+    },
+    {
+      "term":"desolate",
+      "def":"barren or laid waste"
+    },
+    {
+      "term":"desperate",
+      "def":"being filled with, or in a state of despair, hopeless "
+    },
+    {
+      "term":"despicable",
+      "def":"fit or deserving to be despised, contemptible"
+    },
+    {
+      "term":"despondent",
+      "def":"in low spirits from loss of hope or courage"
+    },
+    {
+      "term":"despotic",
+      "def":"characteristic of an absolute ruler or absolute rule"
+    },
+    {
+      "term":"destitute",
+      "def":"without the basic necessities of life"
+    },
+    {
+      "term":"desultory",
+      "def":"lacking a plan, purpose, or enthusiasm"
+    },
+    {
+      "term":"determinate",
+      "def":"having exact and discernible limits or form"
+    },
+    {
+      "term":"detrimental",
+      "def":"tending to cause harm"
+    },
+    {
+      "term":"devious",
+      "def":"showing skillful use of underhanded tactics to achieve goals"
+    },
+    {
+      "term":"devoid",
+      "def":"empty, having none of, completely without"
+    },
+    {
+      "term":"devout",
+      "def":"devoted to religion or to religious feelings and duties"
+    },
+    {
+      "term":"dexterous",
+      "def":"skillful with one's hands"
+    },
+    {
+      "term":"diabolic",
+      "def":"showing wickedness typical of a devil"
+    },
+    {
+      "term":"diacritical",
+      "def":"capable of distinguishing or of making a distinction"
+    },
+    {
+      "term":"diaphanous",
+      "def":"light, delicate, and translucent"
+    },
+    {
+      "term":"diatomic",
+      "def":"consisting of two atoms"
+    },
+    {
+      "term":"didactic",
+      "def":"intended to teach, particularly having a moral lesson"
+    },
+    {
+      "term":"differential",
+      "def":"of, or relating to a difference"
+    },
+    {
+      "term":"diffident",
+      "def":"lacking confidence in oneself"
+    },
+    {
+      "term":"diffusible",
+      "def":"able to intermingle by diffusion"
+    },
+    {
+      "term":"dilatory",
+      "def":"slow to act, sluggish"
+    },
+    {
+      "term":"diligent",
+      "def":"performing with intense concentration, focus"
+    },
+    {
+      "term":"diminutive",
+      "def":"small, little, tiny"
+    },
+    {
+      "term":"dimly",
+      "def":"dull and subdued, indistinct"
+    },
+    {
+      "term":"diplomatic",
+      "def":"of the relationships between the governments of countries "
+    },
+    {
+      "term":"discernible",
+      "def":"possible to perceive or recognize (something)"
+    },
+    {
+      "term":"discerning",
+      "def":"showing good or outstanding judgment and understanding"
+    },
+    {
+      "term":"disciplinary",
+      "def":"corrective, administering or used for discipline"
+    },
+    {
+      "term":"disconsolate",
+      "def":"cheerless, dreary"
+    },
+    {
+      "term":"discordant",
+      "def":"not in harmony or accord"
+    },
+    {
+      "term":"discourteous",
+      "def":"showing rudeness and a lack of consideration for others"
+    },
+    {
+      "term":"discreet",
+      "def":"respectful of privacy or secrecy, quiet, diplomatic "
+    },
+    {
+      "term":"discrepant",
+      "def":"showing difference, inconsistent, dissimilar "
+    },
+    {
+      "term":"discrete",
+      "def":"separate, distinct, individual, non-continuous"
+    },
+    {
+      "term":"discursive",
+      "def":"digressing from subject to subject"
+    },
+    {
+      "term":"disheveled",
+      "def":"untidy, disordered (of clothes, appearance)"
+    },
+    {
+      "term":"dishonest",
+      "def":"not honest"
+    },
+    {
+      "term":"disingenuous",
+      "def":"not candid or sincere"
+    },
+    {
+      "term":"disinterested",
+      "def":"having no stake or interest in the outcome, free of bias"
+    },
+    {
+      "term":"disjunctive",
+      "def":"not connected, separated"
+    },
+    {
+      "term":"dismal",
+      "def":"disappointingly inadequate"
+    },
+    {
+      "term":"disobedient",
+      "def":"not obedient"
+    },
+    {
+      "term":"disparate",
+      "def":"essentially different in kind, not allowing comparison"
+    },
+    {
+      "term":"dispassionate",
+      "def":"not showing, and not affected by emotion, bias, or prejudice"
+    },
+    {
+      "term":"disputatious",
+      "def":"(of a person) fond of having heated arguments"
+    },
+    {
+      "term":"disreputable",
+      "def":"not respectable, lacking repute, discreditable"
+    },
+    {
+      "term":"dissentient",
+      "def":"in opposition to a majority or official opinion"
+    },
+    {
+      "term":"dissentious",
+      "def":"not in agreement or harmony"
+    },
+    {
+      "term":"dissimilar",
+      "def":"not similar, unlike, different"
+    },
+    {
+      "term":"dissolute",
+      "def":"lax in morals, licentious"
+    },
+    {
+      "term":"dissonant",
+      "def":"unsuitable in combination"
+    },
+    {
+      "term":"distensible",
+      "def":"capable of swelling or stretching"
+    },
+    {
+      "term":"distraught",
+      "def":"deeply upset and agitated"
+    },
+    {
+      "term":"diurnal",
+      "def":"happening during daylight, or active during that time"
+    },
+    {
+      "term":"divergent",
+      "def":"tending to be different or develop in different directions"
+    },
+    {
+      "term":"diverse",
+      "def":"showing a great deal of variety"
+    },
+    {
+      "term":"divertible",
+      "def":"capable of being diverted"
+    },
+    {
+      "term":"divisible",
+      "def":"capable of being divided without a remainder"
+    },
+    {
+      "term":"divisive",
+      "def":"having a quality that divides or separates"
+    },
+    {
+      "term":"docile",
+      "def":"yielding to control or supervision, direction, or management"
+    },
+    {
+      "term":"dogged",
+      "def":"persistent in effort, stubbornly tenacious"
+    },
+    {
+      "term":"dogmatic",
+      "def":"opinionated, pragmatic"
+    },
+    {
+      "term":"doleful",
+      "def":"mournful, bringing feelings of sadness"
+    },
+    {
+      "term":"dolesome",
+      "def":"doleful, dismal, gloomy"
+    },
+    {
+      "term":"dolorous",
+      "def":"feeling or expressing great sorrow or distress"
+    },
+    {
+      "term":"domestic",
+      "def":"of or relating to the home"
+    },
+    {
+      "term":"dominant",
+      "def":"most important, powerful, or influential"
+    },
+    {
+      "term":"dormant",
+      "def":"inactive, idle"
+    },
+    {
+      "term":"dour",
+      "def":"stern, harsh and forbidding"
+    },
+    {
+      "term":"dowdy",
+      "def":"plain and unfashionable in style or dress"
+    },
+    {
+      "term":"drastic",
+      "def":"extreme, severe"
+    },
+    {
+      "term":"droll",
+      "def":"amusing in an odd way"
+    },
+    {
+      "term":"drowsy",
+      "def":"inclined to drowse, heavy with sleepiness, lethargic, dozy "
+    },
+    {
+      "term":"dubious",
+      "def":"hesitating or doubting"
+    },
+    {
+      "term":"ductile",
+      "def":"capable of being made into thin wire without breaking"
+    },
+    {
+      "term":"dulcet",
+      "def":"sweet and soothing"
+    },
+    {
+      "term":"duteous",
+      "def":"willingly obedient out of a sense of duty and respect"
+    },
+    {
+      "term":"dutiable",
+      "def":"on which duty must be paid when imported or sold"
+    },
+    {
+      "term":"dutiful",
+      "def":"accepting of one's obligations and willing to do them well"
+    },
+    {
+      "term":"dynamic",
+      "def":"characterized by constant change, activity, or progress"
+    },
+    {
+      "term":"earnest",
+      "def":"ardent in the pursuit of an object, eager to obtain or do"
+    },
+    {
+      "term":"eatable",
+      "def":"able to be eaten, edible "
+    },
+    {
+      "term":"ebullient",
+      "def":"cheerful and full of energy"
+    },
+    {
+      "term":"eccentric",
+      "def":"unconventional and slightly strange"
+    },
+    {
+      "term":"eclectic",
+      "def":"made up of things selected from various sources"
+    },
+    {
+      "term":"ecstatic",
+      "def":"feeling or characterized by extreme happiness"
+    },
+    {
+      "term":"ecumenical",
+      "def":"interdenominational, sometimes by extension, interreligious"
+    },
+    {
+      "term":"edible",
+      "def":"that can be eaten without harm, non-toxic to humans"
+    },
+    {
+      "term":"editorial",
+      "def":"of, or relating to the preparing of material for publication"
+    },
+    {
+      "term":"effective",
+      "def":"successful in producing a desired or intended result"
+    },
+    {
+      "term":"effectual",
+      "def":"producing the intended result, entirely adequate "
+    },
+    {
+      "term":"effervescent",
+      "def":"giving off bubbles, fizzy"
+    },
+    {
+      "term":"effete",
+      "def":"of substances, quantities etc: exhausted, spent, worn-out"
+    },
+    {
+      "term":"efficacious",
+      "def":"effective"
+    },
+    {
+      "term":"efficient",
+      "def":"making good use of time or energy"
+    },
+    {
+      "term":"efflorescent",
+      "def":"bursting into flower"
+    },
+    {
+      "term":"effulgent",
+      "def":"shining, resplendent, with radiant splendor"
+    },
+    {
+      "term":"effusive",
+      "def":"expressing feelings in an unrestrained or heartfelt manner"
+    },
+    {
+      "term":"egalitarian",
+      "def":"characterized by equality for all people"
+    },
+    {
+      "term":"egocentric",
+      "def":"regarding the self as the center of all things"
+    },
+    {
+      "term":"elated",
+      "def":"very happy or proud, jubilant, in high spirits"
+    },
+    {
+      "term":"eleemosynary",
+      "def":"relating to charity, alms, or almsgiving"
+    },
+    {
+      "term":"eligible",
+      "def":"having the right to do or obtain something"
+    },
+    {
+      "term":"elite",
+      "def":"of high birth or social position, aristocratic or patrician"
+    },
+    {
+      "term":"elliptical",
+      "def":"in a shape reminding of an ellipse, oval "
+    },
+    {
+      "term":"eloquent",
+      "def":"fluently persuasive and articulate"
+    },
+    {
+      "term":"elusive",
+      "def":"evading capture, comprehension or remembrance"
+    },
+    {
+      "term":"emergent",
+      "def":"in the process"
+    },
+    {
+      "term":"emeritus",
+      "def":"having retired but retaining his title as an honor"
+    },
+    {
+      "term":"eminent",
+      "def":"(a person) famous and respected within a particular sphere"
+    },
+    {
+      "term":"emollient",
+      "def":"having the quality of softening or soothing the skin"
+    },
+    {
+      "term":"emphatic",
+      "def":"expressing something forcibly and clearly"
+    },
+    {
+      "term":"empirical",
+      "def":"pertaining to or based on experience"
+    },
+    {
+      "term":"encyclical",
+      "def":"intended for general circulation"
+    },
+    {
+      "term":"endemic",
+      "def":"natural to or characteristic of a specific people or place"
+    },
+    {
+      "term":"energetic",
+      "def":"possessing, exerting, or displaying energy "
+    },
+    {
+      "term":"enigmatic",
+      "def":"perplexing, mysterious, resembling an enigma"
+    },
+    {
+      "term":"enormous",
+      "def":"deviating from the norm, unusual, extraordinary"
+    },
+    {
+      "term":"enthusiastic",
+      "def":"with zealous fervor, excited, motivated"
+    },
+    {
+      "term":"ephemeral",
+      "def":"lasting a very short time, short-lived, transitory"
+    },
+    {
+      "term":"epicurean",
+      "def":"pursuing pleasure, esp. in reference to food or comfort"
+    },
+    {
+      "term":"epidemic",
+      "def":"like or having to do with an epidemic, widespread"
+    },
+    {
+      "term":"epistolary",
+      "def":"of or relating to letters, or the writing of letters"
+    },
+    {
+      "term":"epizootic",
+      "def":"like or having to do with an epidemic among animals"
+    },
+    {
+      "term":"equable",
+      "def":"unvarying, calm and steady, constant and uniform"
+    },
+    {
+      "term":"equestrian",
+      "def":"of horseback riding or horseback riders"
+    },
+    {
+      "term":"equine",
+      "def":"of or relating to a horse or horses"
+    },
+    {
+      "term":"equitable",
+      "def":"characterized by equity or fairness, fair, reasonable"
+    },
+    {
+      "term":"equivalent",
+      "def":"similar or identical in value, meaning or effect"
+    },
+    {
+      "term":"equivocal",
+      "def":"of doubtful nature or character, questionable, dubious"
+    },
+    {
+      "term":"errant",
+      "def":"straying from the proper course or standard"
+    },
+    {
+      "term":"erratic",
+      "def":"unsteady, prone to unexpected changes, not consistent"
+    },
+    {
+      "term":"erroneous",
+      "def":"containing error, mistaken, incorrect, wrong"
+    },
+    {
+      "term":"ersatz",
+      "def":"made in imitation, artificial"
+    },
+    {
+      "term":"erudite",
+      "def":"characterized by great knowledge, learned or scholarly"
+    },
+    {
+      "term":"esoteric",
+      "def":"understood by or meant for only a select few"
+    },
+    {
+      "term":"estimable",
+      "def":"worthy of esteem, admirable"
+    },
+    {
+      "term":"ethereal",
+      "def":"light, airy, or tenuous, delicate"
+    },
+    {
+      "term":"eugenic",
+      "def":"of bringing about improvement in produced offspring"
+    },
+    {
+      "term":"euphonious",
+      "def":"pleasant-sounding, agreeable to the ear"
+    },
+    {
+      "term":"euphoric",
+      "def":"feeling of great well-being or intense feeling of happiness"
+    },
+    {
+      "term":"eureka",
+      "def":"an exclamation of triumph at a discovery"
+    },
+    {
+      "term":"evanescent",
+      "def":"vanishing, fading away, fleeting"
+    },
+    {
+      "term":"evangelical",
+      "def":"pertaining to the gospel(s) of the christian new testament"
+    },
+    {
+      "term":"evasive",
+      "def":"tending to avoid making revelations about oneself"
+    },
+    {
+      "term":"eventual",
+      "def":"happening at some indefinite future time"
+    },
+    {
+      "term":"evidential",
+      "def":"of or providing evidence"
+    },
+    {
+      "term":"exact",
+      "def":"strictly accurate or correct"
+    },
+    {
+      "term":"exceptionable",
+      "def":"liable to exception  or objection, objectionable"
+    },
+    {
+      "term":"excess",
+      "def":"more than is normal, necessary or specified"
+    },
+    {
+      "term":"excitable",
+      "def":"easily excited"
+    },
+    {
+      "term":"excusable",
+      "def":"possible to excuse"
+    },
+    {
+      "term":"execrable",
+      "def":"utterly detestable, abominable, abhorrent"
+    },
+    {
+      "term":"exemplary",
+      "def":"worthy of imitation, commendable"
+    },
+    {
+      "term":"exhaustive",
+      "def":"including every possible element"
+    },
+    {
+      "term":"exigent",
+      "def":"urgent, needing immediate action"
+    },
+    {
+      "term":"existential",
+      "def":"of, or relating to existence"
+    },
+    {
+      "term":"exorbitant",
+      "def":"exceeding proper limits, extravagant"
+    },
+    {
+      "term":"exotic",
+      "def":"foreign, with the connotation of excitingly foreign"
+    },
+    {
+      "term":"expedient",
+      "def":"simple, easy, or quick, convenient"
+    },
+    {
+      "term":"expeditious",
+      "def":"fast, prompt, speedy"
+    },
+    {
+      "term":"explicit",
+      "def":"very specific, clear, or detailed"
+    },
+    {
+      "term":"expository",
+      "def":"serving to explain, explicate, or elucidate"
+    },
+    {
+      "term":"expressive",
+      "def":"effectively conveying thought or feeling"
+    },
+    {
+      "term":"extant",
+      "def":"in existence, still existing, not destroyed or lost"
+    },
+    {
+      "term":"extemporaneous",
+      "def":"without preparation or advanced thought, offhand"
+    },
+    {
+      "term":"extempore",
+      "def":"carried out with no preparation, impromptu"
+    },
+    {
+      "term":"extensible",
+      "def":"capable of being extended"
+    },
+    {
+      "term":"extensive",
+      "def":"in the nature of an extent, wide, widespread"
+    },
+    {
+      "term":"external",
+      "def":"outside of something"
+    },
+    {
+      "term":"extinct",
+      "def":"no longer in existence, that has ended or died out"
+    },
+    {
+      "term":"extrajudicial",
+      "def":"carried out without legal authority"
+    },
+    {
+      "term":"extraneous",
+      "def":"not belonging to, or dependent upon, a thing"
+    },
+    {
+      "term":"extraordinary",
+      "def":"not ordinary, exceptional, unusual"
+    },
+    {
+      "term":"extravagant",
+      "def":"spending much more than is necessary or wise, wasteful"
+    },
+    {
+      "term":"extremist",
+      "def":"holding extreme views, especially on a political subject"
+    },
+    {
+      "term":"extrinsic",
+      "def":"external, separable from the thing itself, inessential"
+    },
+    {
+      "term":"exuberance",
+      "def":"effusively and almost uninhibitedly enthusiastic"
+    },
+    {
+      "term":"exuberant",
+      "def":"very high-spirited, extremely energetic or enthusiastic"
+    },
+    {
+      "term":"fabulous",
+      "def":"extraordinary, especially in being very large"
+    },
+    {
+      "term":"facetious",
+      "def":"not meant to be taken seriously or literally"
+    },
+    {
+      "term":"facile",
+      "def":"moving, acting, working, proceeding, etc , with ease"
+    },
+    {
+      "term":"factious",
+      "def":"of, pertaining to, or caused by factions"
+    },
+    {
+      "term":"fallacious",
+      "def":"containing a fallacy,  logically unsound"
+    },
+    {
+      "term":"fallible",
+      "def":"capable of making mistakes or being wrong"
+    },
+    {
+      "term":"fanatical",
+      "def":"having an extreme zeal or enthusiasm for something"
+    },
+    {
+      "term":"fanciless",
+      "def":"having no fancy, without ideas or imagination"
+    },
+    {
+      "term":"farcical",
+      "def":"resembling a farce, ludicrous, absurd"
+    },
+    {
+      "term":"fastidious",
+      "def":"excessively particular, demanding, or fussy about details"
+    },
+    {
+      "term":"fatuous",
+      "def":"foolish or inane, especially in an unconscious manner, silly"
+    },
+    {
+      "term":"faulty",
+      "def":"having or displaying faults not adequate or acceptable"
+    },
+    {
+      "term":"feasible",
+      "def":"that can be done in practice"
+    },
+    {
+      "term":"febrile",
+      "def":"feverish, or having a high temperature"
+    },
+    {
+      "term":"feckless",
+      "def":"ineffective, incompetent, futile"
+    },
+    {
+      "term":"fecund",
+      "def":"highly fertile, able to produce offspring"
+    },
+    {
+      "term":"felicitous",
+      "def":"well-suited for the occasion, as an action or expression"
+    },
+    {
+      "term":"felonious",
+      "def":"having the quality of felony, malignant, malicious"
+    },
+    {
+      "term":"feminine",
+      "def":"of the female sex, biologically female, not male, womanly"
+    },
+    {
+      "term":"feral",
+      "def":"existing in a natural state, not domesticated, wild"
+    },
+    {
+      "term":"ferocious",
+      "def":"marked by extreme and violent energy"
+    },
+    {
+      "term":"fertile",
+      "def":"capable of growing abundant crops, productive"
+    },
+    {
+      "term":"fervent",
+      "def":"having or showing great warmth or intensity of spirit"
+    },
+    {
+      "term":"fervid",
+      "def":"heated or vehement in spirit, enthusiasm, etc"
+    },
+    {
+      "term":"festal",
+      "def":"festive, relating to a festival or feast"
+    },
+    {
+      "term":"festive",
+      "def":"having the atmosphere,or attitude of a celebration "
+    },
+    {
+      "term":"fetid",
+      "def":"having an offensive odor, stinking"
+    },
+    {
+      "term":"feudal",
+      "def":"of, or relating to the  feudal system"
+    },
+    {
+      "term":"fickle",
+      "def":"likely to change, casually changeable"
+    },
+    {
+      "term":"fictitious",
+      "def":"not real, invented, contrived"
+    },
+    {
+      "term":"fiducial",
+      "def":"accepted as a fixed basis of reference"
+    },
+    {
+      "term":"figurative",
+      "def":"metaphorical, as opposed to literal"
+    },
+    {
+      "term":"filial",
+      "def":"of, pertaining to, or befitting a son or daughter"
+    },
+    {
+      "term":"financial",
+      "def":"pertaining or relating to money matters"
+    },
+    {
+      "term":"finicky",
+      "def":"fastidious and fussy, difficult to please, exacting"
+    },
+    {
+      "term":"finite",
+      "def":"having bounds or limits, not infinite, measurable"
+    },
+    {
+      "term":"fiscal",
+      "def":"related to the treasury of a country, company, or region"
+    },
+    {
+      "term":"fitful",
+      "def":"irregular, unsteady, characterized by fits"
+    },
+    {
+      "term":"flaccid",
+      "def":"soft and limp, not firm, flabby"
+    },
+    {
+      "term":"flagrant",
+      "def":"obvious and offensive, blatant, scandalous"
+    },
+    {
+      "term":"flamboyant",
+      "def":"showy, bold or audacious in behaviour, appearance, etc "
+    },
+    {
+      "term":"flammable",
+      "def":"capable of burning, especially a liquid"
+    },
+    {
+      "term":"fledgling",
+      "def":"untried or inexperienced"
+    },
+    {
+      "term":"flexible",
+      "def":"capable of being flexed, bent or twisted, without breaking"
+    },
+    {
+      "term":"flimsy",
+      "def":"likely to bend or break under pressure, weak, shaky"
+    },
+    {
+      "term":"flippant",
+      "def":"frivolously disrespectful, shallow or lacking in seriousness"
+    },
+    {
+      "term":"floral",
+      "def":"of, pertaining to, or connected with flowers"
+    },
+    {
+      "term":"florid",
+      "def":"having a rosy or pale red colour, ruddy"
+    },
+    {
+      "term":"fluent",
+      "def":"able to speak a language accurately, rapidly and confidently"
+    },
+    {
+      "term":"fluvial",
+      "def":"of or pertaining to a river"
+    },
+    {
+      "term":"fog",
+      "def":"a cloudlike mass or layer of minute water droplets"
+    },
+    {
+      "term":"foible",
+      "def":"a minor weakness or failing of character, slight flaw"
+    },
+    {
+      "term":"foppish",
+      "def":"like a fop, a man overly concerned with his appearance"
+    },
+    {
+      "term":"forby",
+      "def":"close by, near"
+    },
+    {
+      "term":"forcible",
+      "def":"done or effected by force"
+    },
+    {
+      "term":"foreign",
+      "def":"from a different country"
+    },
+    {
+      "term":"forensic",
+      "def":"relating to the use of science in investigation of evidence"
+    },
+    {
+      "term":"forlorn",
+      "def":"desolate or dreary, as in feeling, condition"
+    },
+    {
+      "term":"formidable",
+      "def":"causing fear, apprehension, or dread"
+    },
+    {
+      "term":"forte",
+      "def":"a person's strong suit, talent, or skill"
+    },
+    {
+      "term":"fortuitous",
+      "def":"happening or produced by chance, accidental"
+    },
+    {
+      "term":"fourth",
+      "def":"being one of four equal parts"
+    },
+    {
+      "term":"fractious",
+      "def":"refractory or unruly"
+    },
+    {
+      "term":"fragile",
+      "def":"easily broken or destroyed and often of subtle  structure"
+    },
+    {
+      "term":"frantic",
+      "def":"desperate or wild with excitement, passion, fear, pain, etc"
+    },
+    {
+      "term":"fraternal",
+      "def":"of brothers (fraternal twins)"
+    },
+    {
+      "term":"fraudulent",
+      "def":"dishonest, based on fraud or deception"
+    },
+    {
+      "term":"fraught",
+      "def":"filled or charged"
+    },
+    {
+      "term":"frenetic",
+      "def":"frantic, frenzied"
+    },
+    {
+      "term":"fretful",
+      "def":"irritable, bad-tempered, grumpy or peevish"
+    },
+    {
+      "term":"frightful",
+      "def":"frightened"
+    },
+    {
+      "term":"frigid",
+      "def":"very cold, lacking warmth, icy"
+    },
+    {
+      "term":"frivolous",
+      "def":"silly, especially at an inappropriate time"
+    },
+    {
+      "term":"frolicsome",
+      "def":"given to frolicking, playful"
+    },
+    {
+      "term":"frontal",
+      "def":"of, in, or at the front"
+    },
+    {
+      "term":"frontier",
+      "def":"lying on the exterior part, bordering"
+    },
+    {
+      "term":"froward",
+      "def":"willfully contrary, not easily managed"
+    },
+    {
+      "term":"frowzy",
+      "def":"dirty and untidy, slovenly"
+    },
+    {
+      "term":"frugal",
+      "def":"avoiding unnecessary expenditure either of money"
+    },
+    {
+      "term":"fugacious",
+      "def":"fleeting, fading quickly, transient"
+    },
+    {
+      "term":"fulsome",
+      "def":"offensive to good taste, especially as being excessive"
+    },
+    {
+      "term":"fundamental",
+      "def":"pertaining to the foundation or basis"
+    },
+    {
+      "term":"fungible",
+      "def":"being of such nature or kind as to be freely exchangeable"
+    },
+    {
+      "term":"fungous",
+      "def":"of or pertaining to a fungus, fungal"
+    },
+    {
+      "term":"furrier",
+      "def":"comparative form of furry, more furry"
+    },
+    {
+      "term":"furtive",
+      "def":"taken, done, used, etc , surreptitiously or by stealth"
+    },
+    {
+      "term":"fusible",
+      "def":"able to be fused or melted"
+    },
+    {
+      "term":"futile",
+      "def":"incapable of producing any result, ineffective, useless"
+    },
+    {
+      "term":"futurist",
+      "def":"in the style of futurism"
+    },
+    {
+      "term":"gaily",
+      "def":"merrily, joyfully"
+    },
+    {
+      "term":"gallant",
+      "def":"brave, valiant"
+    },
+    {
+      "term":"galore",
+      "def":"in abundance"
+    },
+    {
+      "term":"galvanic",
+      "def":"of or pertaining to galvanism, electric"
+    },
+    {
+      "term":"gargantuan",
+      "def":"of the giant gargantua or his appetite"
+    },
+    {
+      "term":"garish",
+      "def":"overly ostentatious, so colourful as to be in bad taste"
+    },
+    {
+      "term":"garrulous",
+      "def":"excessively talkative, rambling"
+    },
+    {
+      "term":"gaseous",
+      "def":"relating to, or existing as, gas"
+    },
+    {
+      "term":"gastric",
+      "def":"of or relating to the stomach"
+    },
+    {
+      "term":"gauche",
+      "def":"awkward or lacking in social graces, bumbling"
+    },
+    {
+      "term":"gaunt",
+      "def":"lean, angular, and bony"
+    },
+    {
+      "term":"generic",
+      "def":"very comprehensive, pertaining or appropriate to big groups"
+    },
+    {
+      "term":"genial",
+      "def":"warmly and pleasantly cheerful, cordial"
+    },
+    {
+      "term":"genital",
+      "def":"of, or relating to biological reproduction"
+    },
+    {
+      "term":"genitive",
+      "def":"the case which expresses origin or possession (grammar)"
+    },
+    {
+      "term":"genteel",
+      "def":"polite and well-mannered"
+    },
+    {
+      "term":"gentile",
+      "def":"non-jewish"
+    },
+    {
+      "term":"germane",
+      "def":"related to the topic being discussed or considered"
+    },
+    {
+      "term":"germinal",
+      "def":"pertaining or belonging to a germ"
+    },
+    {
+      "term":"ghastly",
+      "def":"horrifyingly shocking"
+    },
+    {
+      "term":"ghoulish",
+      "def":"of or pertaining to ghouls"
+    },
+    {
+      "term":"giddy",
+      "def":"to make dizzy or unsteady"
+    },
+    {
+      "term":"gigantic",
+      "def":"very large"
+    },
+    {
+      "term":"gingerly",
+      "def":"with great care or caution"
+    },
+    {
+      "term":"glacial",
+      "def":"of, or relating to glaciers"
+    },
+    {
+      "term":"globose",
+      "def":"having a globular form"
+    },
+    {
+      "term":"globular",
+      "def":"roughly spherical in shape"
+    },
+    {
+      "term":"glorious",
+      "def":"attributes, qualities, or acts that are worthy of glory"
+    },
+    {
+      "term":"glutinous",
+      "def":"glue-like, sticky, viscid"
+    },
+    {
+      "term":"gluttonous",
+      "def":"given to excessive eating, prone to overeating"
+    },
+    {
+      "term":"gnarled",
+      "def":"knotty and misshapen"
+    },
+    {
+      "term":"gordian",
+      "def":"resembling the gordian knot in intricacy"
+    },
+    {
+      "term":"gothic",
+      "def":"a style of architecture from the mid-12th century"
+    },
+    {
+      "term":"graceless",
+      "def":"without grace"
+    },
+    {
+      "term":"grandiloquent",
+      "def":"overly wordy, pompous, flowery, or elaborate"
+    },
+    {
+      "term":"grandiose",
+      "def":"large and impressive, in size, scope or extent"
+    },
+    {
+      "term":"granular",
+      "def":"consisting of, or resembling, granules or grains"
+    },
+    {
+      "term":"gratis",
+      "def":"free, without charge"
+    },
+    {
+      "term":"gratuitous",
+      "def":"being without apparent reason, cause, or justification"
+    },
+    {
+      "term":"gregarious",
+      "def":"fond of the company of others, sociable"
+    },
+    {
+      "term":"grievous",
+      "def":"causing grief, pain or sorrow"
+    },
+    {
+      "term":"grisly",
+      "def":"horrifyingly repellent, terrifying, gruesome"
+    },
+    {
+      "term":"gritty",
+      "def":"containing sand or grit, full of hard particles"
+    },
+    {
+      "term":"grotesque",
+      "def":"distorted and unnatural in shape or size, abnormal, hideous"
+    },
+    {
+      "term":"gruff",
+      "def":"to have a rough, surly, or harsh nature"
+    },
+    {
+      "term":"guileless",
+      "def":"sincere, honest, straightforward, frank"
+    },
+    {
+      "term":"gullible",
+      "def":"easily deceived or cheated"
+    },
+    {
+      "term":"gustatory",
+      "def":"of, or relating to, the sense of taste"
+    },
+    {
+      "term":"habitable",
+      "def":"safe and comfortable, fit for habitation"
+    },
+    {
+      "term":"habitual",
+      "def":"behaving in a regular manner, as a habit"
+    },
+    {
+      "term":"hackneyed",
+      "def":"made commonplace or trite, stale"
+    },
+    {
+      "term":"haggard",
+      "def":"looking exhausted and unwell, in poor condition"
+    },
+    {
+      "term":"halcyon",
+      "def":"calm, peaceful, tranquil"
+    },
+    {
+      "term":"hale",
+      "def":"free from disease or infirmity, robust, vigorous"
+    },
+    {
+      "term":"haphazard",
+      "def":"random, chaotic, incomplete, not thorough"
+    },
+    {
+      "term":"hapless",
+      "def":"unlucky, luckless, unfortunate"
+    },
+    {
+      "term":"hard-hearted",
+      "def":"unfeeling, unmerciful, pitiless"
+    },
+    {
+      "term":"hardy",
+      "def":"having rugged physical strength, inured to fatigue"
+    },
+    {
+      "term":"harmonious",
+      "def":"marked by agreement in feeling, attitude, or action"
+    },
+    {
+      "term":"harrowing",
+      "def":"extremely disturbing or distressing, grievous"
+    },
+    {
+      "term":"haughty",
+      "def":"disdainfully proud, snobbish, scornfully arrogant"
+    },
+    {
+      "term":"headstrong",
+      "def":"determined to do as one pleases, and not as others want"
+    },
+    {
+      "term":"heartrending",
+      "def":"that causes great grief, anguish or distress"
+    },
+    {
+      "term":"heathenish",
+      "def":"somewhat like a heathen"
+    },
+    {
+      "term":"heinous",
+      "def":"hateful, odious, abominable, totally reprehensible"
+    },
+    {
+      "term":"herbaceous",
+      "def":"of, pertaining to, or characteristic of an herb"
+    },
+    {
+      "term":"herbivorous",
+      "def":"feeding only on plants"
+    },
+    {
+      "term":"herculean",
+      "def":"requiring the great strength of a hercules, hard to perform"
+    },
+    {
+      "term":"hereditary",
+      "def":"passing naturally from parent to offspring through the genes"
+    },
+    {
+      "term":"heretical",
+      "def":"of or pertaining to heresy or heretics"
+    },
+    {
+      "term":"hermetic",
+      "def":"made airtight by fusion or sealing"
+    },
+    {
+      "term":"hesitant",
+      "def":"tending to hesitate, wait, or proceed with caution"
+    },
+    {
+      "term":"heterodox",
+      "def":"religious teachings not different enough to be heretical"
+    },
+    {
+      "term":"heterogeneous",
+      "def":"diverse in kind or nature, composed of diverse parts"
+    },
+    {
+      "term":"heteromorphic",
+      "def":"having different forms in different stages of the life cycle"
+    },
+    {
+      "term":"hexangular",
+      "def":"having six angles or corners"
+    },
+    {
+      "term":"hexapod",
+      "def":"having six feet, six-footed"
+    },
+    {
+      "term":"hibernal",
+      "def":"of or pertaining to winter, brumal or hiemal"
+    },
+    {
+      "term":"hibernian",
+      "def":"characteristic of ireland or its inhabitants, irish"
+    },
+    {
+      "term":"hidebound",
+      "def":"bound with the hide of an animal"
+    },
+    {
+      "term":"hideous",
+      "def":"frightful, shocking, extremely ugly"
+    },
+    {
+      "term":"hindmost",
+      "def":"furthest behind or nearest the rear, last"
+    },
+    {
+      "term":"hirsute",
+      "def":"hairy, shaggy"
+    },
+    {
+      "term":"histrionic",
+      "def":"of, or relating to actors or acting"
+    },
+    {
+      "term":"hoarse",
+      "def":"afflicted by a dry, quite harsh voice"
+    },
+    {
+      "term":"hoary",
+      "def":"white or gray with age"
+    },
+    {
+      "term":"homologous",
+      "def":"showing a degree of correspondence or similarity"
+    },
+    {
+      "term":"hospitable",
+      "def":"cordial and generous towards guests"
+    },
+    {
+      "term":"humane",
+      "def":"having regard for the health and well-being of another"
+    },
+    {
+      "term":"humanitarian",
+      "def":"having concern for or helping to improve people's welfare"
+    },
+    {
+      "term":"humble",
+      "def":"not proud or arrogant, modest"
+    },
+    {
+      "term":"humdrum",
+      "def":"lacking variety, boring, dull"
+    },
+    {
+      "term":"hydraulic",
+      "def":"operated by, or employing water or other liquids in motion"
+    },
+    {
+      "term":"hydroelectric",
+      "def":"generating electricity by using the energy of moving water"
+    },
+    {
+      "term":"hydrous",
+      "def":"containing combined water, hydrated"
+    },
+    {
+      "term":"hypercritical",
+      "def":"meticulously or excessively critical"
+    },
+    {
+      "term":"hypnotic",
+      "def":"of or pertaining to hypnosis  or hypnotism"
+    },
+    {
+      "term":"hypochondriac",
+      "def":"an excessive preoccupation with and worry about one's health"
+    },
+    {
+      "term":"hypocritical",
+      "def":"characterized by hypocrisy or being a hypocrite"
+    },
+    {
+      "term":"hypodermic",
+      "def":"pertaining to parts under the skin"
+    },
+    {
+      "term":"hypothetical",
+      "def":"based upon a hypothesis, conjectural"
+    },
+    {
+      "term":"ichthyic",
+      "def":"of, pertaining to, or like fish, piscine"
+    },
+    {
+      "term":"idolatrous",
+      "def":"worshipping idols"
+    },
+    {
+      "term":"idyllic",
+      "def":"of or pertaining to idylls, charmingly simple or rustic"
+    },
+    {
+      "term":"ignoble",
+      "def":"not noble, plebeian, common"
+    },
+    {
+      "term":"ignominious",
+      "def":"discreditable, humiliating"
+    },
+    {
+      "term":"ill-natured",
+      "def":"bad-tempered, irritable or malevolent"
+    },
+    {
+      "term":"illegitimate",
+      "def":"born out of wedlock"
+    },
+    {
+      "term":"illiberal",
+      "def":"restrictive to individual choice and freedom, authoritarian"
+    },
+    {
+      "term":"illicit",
+      "def":"lacking licitness, but not invalid"
+    },
+    {
+      "term":"illimitable",
+      "def":"impervious to limitation, without limit"
+    },
+    {
+      "term":"illiterate",
+      "def":"unable to read and write"
+    },
+    {
+      "term":"illogical",
+      "def":"contrary to logic, lacking sense or sound reasoning"
+    },
+    {
+      "term":"illusive",
+      "def":"subject to or pertaining to an illusion"
+    },
+    {
+      "term":"illusory",
+      "def":"resulting from an illusion, deceptive, imaginary, unreal"
+    },
+    {
+      "term":"illustrious",
+      "def":"highly distinguished, renowned, famous"
+    },
+    {
+      "term":"imaginary",
+      "def":"existing only in the imagination"
+    },
+    {
+      "term":"immaculate",
+      "def":"free from spot or stain, immaculately clean"
+    },
+    {
+      "term":"immaterial",
+      "def":"having no matter or substance"
+    },
+    {
+      "term":"immature",
+      "def":"not fully formed or developed, unripe"
+    },
+    {
+      "term":"immeasurable",
+      "def":"impossible to measure"
+    },
+    {
+      "term":"immense",
+      "def":"huge, gigantic, very large"
+    },
+    {
+      "term":"immigrant",
+      "def":"of or relating to immigrants or the act of immigrating"
+    },
+    {
+      "term":"imminent",
+      "def":"about to happen, occur, or take place very soon"
+    },
+    {
+      "term":"immiscible",
+      "def":"(of two or more liquids) that are not mutually soluble"
+    },
+    {
+      "term":"immoderate",
+      "def":"excessive or lacking, not consistent"
+    },
+    {
+      "term":"immoral",
+      "def":"not moral, inconsistent with rectitude or good morals"
+    },
+    {
+      "term":"immovable",
+      "def":"incapable of being physically moved, fixed"
+    },
+    {
+      "term":"immune",
+      "def":"exempt, not subject to"
+    },
+    {
+      "term":"immutable",
+      "def":"unchangeable, changeless"
+    },
+    {
+      "term":"impalpable",
+      "def":"incapable of being perceived by touch, intangible"
+    },
+    {
+      "term":"impartial",
+      "def":"treating all parties, rivals, or disputants equally, fair"
+    },
+    {
+      "term":"impassable",
+      "def":"incapable of being passed over, crossed, or negotiated"
+    },
+    {
+      "term":"impassible",
+      "def":"not allowing passage over, through, along, etc"
+    },
+    {
+      "term":"impassioned",
+      "def":"filled with intense emotion or passion, fervent"
+    },
+    {
+      "term":"impassive",
+      "def":"having, or revealing, no emotion"
+    },
+    {
+      "term":"impeccable",
+      "def":"faultless, flawless, irreproachable"
+    },
+    {
+      "term":"impecunious",
+      "def":"having little or no money, poor"
+    },
+    {
+      "term":"impenitent",
+      "def":"not feeling regret over one's sins"
+    },
+    {
+      "term":"imperative",
+      "def":"essential"
+    },
+    {
+      "term":"imperceptible",
+      "def":"not perceptible, not detectable, too small to be observed"
+    },
+    {
+      "term":"imperfectible",
+      "def":"incapable of being made perfect"
+    },
+    {
+      "term":"imperial",
+      "def":"related to an empire, emperor, or empress"
+    },
+    {
+      "term":"imperious",
+      "def":"domineering, arrogant, or overbearing"
+    },
+    {
+      "term":"impermissible",
+      "def":"not permissible, not to be permitted or allowed"
+    },
+    {
+      "term":"impersonal",
+      "def":"not personal, not having personality"
+    },
+    {
+      "term":"impersuadable",
+      "def":"not to be persuaded, obstinate, unyielding"
+    },
+    {
+      "term":"impertinent",
+      "def":"insolent, ill-mannered"
+    },
+    {
+      "term":"imperturbable",
+      "def":"incapable of being upset or agitated, not easily excited"
+    },
+    {
+      "term":"impervious",
+      "def":"not permitting penetration or passage, impenetrable"
+    },
+    {
+      "term":"impetuous",
+      "def":"of, pertaining to, or characterized by sudden or rash action"
+    },
+    {
+      "term":"impious",
+      "def":"not pious or religious, lacking reverence for god, etc"
+    },
+    {
+      "term":"implacable",
+      "def":"not to be appeased, mollified, or pacified"
+    },
+    {
+      "term":"implausible",
+      "def":"not plausible, unlikely, dubious"
+    },
+    {
+      "term":"impliable",
+      "def":"not pliable, inflexible, unyielding"
+    },
+    {
+      "term":"implicit",
+      "def":"implied indirectly, without being directly expressed"
+    },
+    {
+      "term":"impolitic",
+      "def":"not in accordance with good policy, unwise, inexpedient"
+    },
+    {
+      "term":"impotent",
+      "def":"lacking physical strength or vigor, weak"
+    },
+    {
+      "term":"impracticable",
+      "def":"not practicable, impossible or difficult in practice"
+    },
+    {
+      "term":"impromptu",
+      "def":"improvised, without prior preparation, unplanned"
+    },
+    {
+      "term":"improper",
+      "def":"not proper, not strictly belonging, applicable, etc"
+    },
+    {
+      "term":"improvident",
+      "def":"failing to provide for the future, reckless"
+    },
+    {
+      "term":"imprudent",
+      "def":"not prudent, wanting in prudence or discretion, indiscreet"
+    },
+    {
+      "term":"impudent",
+      "def":"lacking discretion, incautious, rash"
+    },
+    {
+      "term":"impure",
+      "def":"not pure, mixed with extraneous matter, contaminated"
+    },
+    {
+      "term":"in medias res",
+      "def":"in the midst of things, to begin in the middle of the action"
+    },
+    {
+      "term":"inaccessible",
+      "def":"not able to be accessed, out of reach, inconvenient"
+    },
+    {
+      "term":"inaccurate",
+      "def":"mistaken or incorrect, not accurate"
+    },
+    {
+      "term":"inactive",
+      "def":"not active, temporarily or permanently"
+    },
+    {
+      "term":"inadequate",
+      "def":"not adequate, unequal to the purpose, insufficient"
+    },
+    {
+      "term":"inadmissible",
+      "def":"not admissible, cannot be admitted as evidence at a trial"
+    },
+    {
+      "term":"inadvertent",
+      "def":"unintentional"
+    },
+    {
+      "term":"inadvisable",
+      "def":"unwise, not recommended, not prudent, not to be advised"
+    },
+    {
+      "term":"inalienable",
+      "def":"incapable of being alienated, surrendered, or transferred"
+    },
+    {
+      "term":"inane",
+      "def":"lacking sense/meaning, to the point of boredom or annoyance"
+    },
+    {
+      "term":"inanimate",
+      "def":"lacking the quality or ability of motion"
+    },
+    {
+      "term":"inapprehensible",
+      "def":"that cannot be apprehended, not apprehensible"
+    },
+    {
+      "term":"inapt",
+      "def":"not apt, unsuitable, inept"
+    },
+    {
+      "term":"inarticulate",
+      "def":"lacking the ability to express oneself, esp. through speech"
+    },
+    {
+      "term":"inaudible",
+      "def":"not able to be heard or not loud enough to be heard"
+    },
+    {
+      "term":"inauspicious",
+      "def":"not auspicious, ill-omened, unfortunate, unlucky"
+    },
+    {
+      "term":"inborn",
+      "def":"naturally present at birth, innate"
+    },
+    {
+      "term":"inbred",
+      "def":"resulting from or involved in inbreeding"
+    },
+    {
+      "term":"incarnate",
+      "def":"embodied in flesh, given a bodily, especially a human, form"
+    },
+    {
+      "term":"incendiary",
+      "def":"capable of causing fire"
+    },
+    {
+      "term":"inceptive",
+      "def":"beginning, of or relating to inception"
+    },
+    {
+      "term":"incessant",
+      "def":"continuing without interruption, ceaseless, unending"
+    },
+    {
+      "term":"inchoate",
+      "def":"not yet completed or fully developed"
+    },
+    {
+      "term":"inchoative",
+      "def":"at the beginning, still in an unformed state"
+    },
+    {
+      "term":"incident",
+      "def":"arising as the result of an event, inherent"
+    },
+    {
+      "term":"incidental",
+      "def":"loosely associated, existing as a by-product, tangent"
+    },
+    {
+      "term":"incipient",
+      "def":"a beginning, or first stage"
+    },
+    {
+      "term":"incisal",
+      "def":"relating to the cutting edge of the incisor and cusped teeth"
+    },
+    {
+      "term":"incisive",
+      "def":"penetrating, cutting, biting, trenchant"
+    },
+    {
+      "term":"inclement",
+      "def":"stormy, of rough weather"
+    },
+    {
+      "term":"inclusive",
+      "def":"the stated limit or extreme in consideration"
+    },
+    {
+      "term":"incoercible",
+      "def":"not to be coerced, incapable of being compelled or forced"
+    },
+    {
+      "term":"incoherent",
+      "def":"not coherent, not in a consistent fashion"
+    },
+    {
+      "term":"incombustible",
+      "def":"not capable of catching fire and burning, not flammable"
+    },
+    {
+      "term":"incomparable",
+      "def":"so much better than another as to be beyond comparison"
+    },
+    {
+      "term":"incompatible",
+      "def":"of two things, impossible to coexist, irreconcilable"
+    },
+    {
+      "term":"incompetent",
+      "def":"unskilled, lacking normally expected degree of ability"
+    },
+    {
+      "term":"incomplete",
+      "def":"not complete, not finished, not having all its parts"
+    },
+    {
+      "term":"incomprehensible",
+      "def":"impossible or very difficult to understand"
+    },
+    {
+      "term":"incompressible",
+      "def":"not compressible"
+    },
+    {
+      "term":"inconceivable",
+      "def":"unable to be conceived, unbelievable"
+    },
+    {
+      "term":"incongruous",
+      "def":"out of keeping or place, inappropriate, unbecoming"
+    },
+    {
+      "term":"inconsequential",
+      "def":"having no consequence, of little importance"
+    },
+    {
+      "term":"inconsiderable",
+      "def":"too trivial or unimportant to be worthy of attention"
+    },
+    {
+      "term":"inconsistent",
+      "def":"not consistent"
+    },
+    {
+      "term":"inconspicuous",
+      "def":"not prominent or easily noticeable"
+    },
+    {
+      "term":"inconstant",
+      "def":"not constant, wavering"
+    },
+    {
+      "term":"incontrovertible",
+      "def":" not open to question or dispute, indisputable"
+    },
+    {
+      "term":"inconvenient",
+      "def":"not convenient"
+    },
+    {
+      "term":"incorrigible",
+      "def":"not corrigible, bad beyond correction or reform"
+    },
+    {
+      "term":"incredulous",
+      "def":"skeptical, disbelieving, or unable to believe"
+    },
+    {
+      "term":"incumbent",
+      "def":"holding an indicated position, role, office, etc"
+    },
+    {
+      "term":"indefatigable",
+      "def":"extremely persistent and untiring"
+    },
+    {
+      "term":"indefensible",
+      "def":"not defensible, not capable of being defended, vulnerable"
+    },
+    {
+      "term":"indefinite",
+      "def":"not definite, without fixed or specified limit"
+    },
+    {
+      "term":"indelible",
+      "def":"making marks that cannot be erased, removed, or the like"
+    },
+    {
+      "term":"indescribable",
+      "def":"impossible, or very difficult to describe"
+    },
+    {
+      "term":"indestructible",
+      "def":"not destructible, incapable of being destroyed, invincible"
+    },
+    {
+      "term":"indifferent",
+      "def":"not caring, apathetic"
+    },
+    {
+      "term":"indigenous",
+      "def":"born or engendered in, native to a land or region"
+    },
+    {
+      "term":"indigent",
+      "def":"lacking food, clothing, etc because of poverty"
+    },
+    {
+      "term":"indigestible",
+      "def":"difficult or impossible to digest"
+    },
+    {
+      "term":"indignant",
+      "def":"showing anger or indignation, esp. at something unjust"
+    },
+    {
+      "term":"indiscernible",
+      "def":"not discernible, that cannot be seen or perceived clearly"
+    },
+    {
+      "term":"indiscreet",
+      "def":"not discreet, lacking prudence or circumspection"
+    },
+    {
+      "term":"indiscriminate",
+      "def":"not discriminating, lacking in care, judgment, etc"
+    },
+    {
+      "term":"indispensable",
+      "def":"absolutely necessary, essential, or requisite"
+    },
+    {
+      "term":"indistinct",
+      "def":"not clearly defined or not having a sharp outline, faint"
+    },
+    {
+      "term":"indivertible",
+      "def":"not to be diverted or turned aside"
+    },
+    {
+      "term":"indomitable",
+      "def":"that cannot be subdued or overcome, as persons or courage"
+    },
+    {
+      "term":"indubitable",
+      "def":"clearly true, providing no possibility of doubt"
+    },
+    {
+      "term":"industrious",
+      "def":"working energetically and devotedly, hard-working"
+    },
+    {
+      "term":"inedible",
+      "def":"unfit to be eaten"
+    },
+    {
+      "term":"ineffable",
+      "def":"incapable of being expressed or described in words"
+    },
+    {
+      "term":"inefficacious",
+      "def":"not able to produce the desired effect, ineffective"
+    },
+    {
+      "term":"inefficient",
+      "def":"unable to achieve the desired result economically"
+    },
+    {
+      "term":"ineligible",
+      "def":"not eligible,  not permitted or suitable"
+    },
+    {
+      "term":"ineluctable",
+      "def":"incapable of being evaded, inescapable"
+    },
+    {
+      "term":"inept",
+      "def":"not able to do something, not proficient"
+    },
+    {
+      "term":"inert",
+      "def":"unable to move or act, inanimate"
+    },
+    {
+      "term":"inestimable",
+      "def":"not able to be estimated as because of great scale or degree"
+    },
+    {
+      "term":"inevitable",
+      "def":"impossible to avoid or prevent"
+    },
+    {
+      "term":"inexcusable",
+      "def":"not excusable"
+    },
+    {
+      "term":"inexhaustible",
+      "def":"impossible to exhaust, unlimited"
+    },
+    {
+      "term":"inexorable",
+      "def":"unyielding, unalterable"
+    },
+    {
+      "term":"inexpedient",
+      "def":"not tending to the end desired, inadvisable, unfit, improper"
+    },
+    {
+      "term":"inexpensive",
+      "def":"low in price"
+    },
+    {
+      "term":"inexplicable",
+      "def":"impossible to explain, not easily accounted for"
+    },
+    {
+      "term":"inexpressible",
+      "def":"unable to be expressed"
+    },
+    {
+      "term":"inextensible",
+      "def":"not capable of being extended"
+    },
+    {
+      "term":"inextricable",
+      "def":"impossible to untie or disentangle"
+    },
+    {
+      "term":"infallible",
+      "def":"unfailing in effectiveness or operation, certain"
+    },
+    {
+      "term":"infamous",
+      "def":"having a bad reputation, of bad report, notoriously vile"
+    },
+    {
+      "term":"infernal",
+      "def":"hellish, fiendish, diabolical"
+    },
+    {
+      "term":"infinite",
+      "def":"indefinably large, countlessly great, immense"
+    },
+    {
+      "term":"infinitesimal",
+      "def":"incalculably, exceedingly, or immeasurably minute"
+    },
+    {
+      "term":"inflammable",
+      "def":"capable of burning, easily set on fire"
+    },
+    {
+      "term":"inflammatory",
+      "def":"tending to inflame or provoke somebody"
+    },
+    {
+      "term":"inflexible",
+      "def":"not flexible, not capable of bending or being bent, stiff"
+    },
+    {
+      "term":"infrequent",
+      "def":"rarely happening or present, only occasional"
+    },
+    {
+      "term":"ingenious",
+      "def":"displaying genius or brilliance, tending to invent"
+    },
+    {
+      "term":"ingenuous",
+      "def":"naive and trusting"
+    },
+    {
+      "term":"inglorious",
+      "def":"ignominious, disgraceful, not famous, obscure"
+    },
+    {
+      "term":"ingrate",
+      "def":"ungrateful"
+    },
+    {
+      "term":"inherent",
+      "def":"naturally a part or consequence of something"
+    },
+    {
+      "term":"inhospitable",
+      "def":"not inclined to hospitality, unfriendly"
+    },
+    {
+      "term":"inhuman",
+      "def":"of or pertaining to inhumanity and the indifferently cruel"
+    },
+    {
+      "term":"inimical",
+      "def":"adverse in tendency or effect, unfavorable, harmful"
+    },
+    {
+      "term":"inimitable",
+      "def":"beyond imitation, surpassing all others, matchless"
+    },
+    {
+      "term":"iniquitous",
+      "def":"characterized by injustice or wickedness"
+    },
+    {
+      "term":"inland",
+      "def":"within the land, remote from the ocean"
+    },
+    {
+      "term":"inmost",
+      "def":"the very deepest within, innermost"
+    },
+    {
+      "term":"innate",
+      "def":"existing in one from birth, inborn, native"
+    },
+    {
+      "term":"innocuous",
+      "def":"not harmful or injurious, harmless"
+    },
+    {
+      "term":"innumerable",
+      "def":"not capable of being counted, indefinitely numerous"
+    },
+    {
+      "term":"inoffensive",
+      "def":"not offensive"
+    },
+    {
+      "term":"inopportune",
+      "def":"unsuitable for some particular purpose"
+    },
+    {
+      "term":"inordinate",
+      "def":"excessive, unreasonable or inappropriate in magnitude"
+    },
+    {
+      "term":"inscrutable",
+      "def":"difficult or impossible to comprehend, fathom, or interpret"
+    },
+    {
+      "term":"insecure",
+      "def":"not secure"
+    },
+    {
+      "term":"insensible",
+      "def":"unable to be perceived by the senses"
+    },
+    {
+      "term":"insentient",
+      "def":"having no consciousness or animation, not sentient"
+    },
+    {
+      "term":"inseparable",
+      "def":"not able to be separated, bound together permanently"
+    },
+    {
+      "term":"insidious",
+      "def":"intended to entrap or beguile"
+    },
+    {
+      "term":"insipid",
+      "def":"without distinctive, interesting, or stimulating qualities"
+    },
+    {
+      "term":"insistent",
+      "def":"standing or resting on something"
+    },
+    {
+      "term":"insolent",
+      "def":"insulting in manner or words"
+    },
+    {
+      "term":"insouciant",
+      "def":"free from concern, worry, or anxiety, carefree, nonchalant"
+    },
+    {
+      "term":"instant",
+      "def":"an infinitesimal or very short space of time, a moment"
+    },
+    {
+      "term":"instructive",
+      "def":"conveying knowledge, information or instruction"
+    },
+    {
+      "term":"insufficient",
+      "def":"not sufficient"
+    },
+    {
+      "term":"insular",
+      "def":"of, pertaining to, being, or resembling an island or islands"
+    },
+    {
+      "term":"insuperable",
+      "def":"impossible to achieve or overcome or be negotiated"
+    },
+    {
+      "term":"insuppressible",
+      "def":"that cannot be suppressed"
+    },
+    {
+      "term":"intangible",
+      "def":"incapable of being perceived by the senses, incorporeal"
+    },
+    {
+      "term":"integral",
+      "def":"constituting a whole together, not omittable or removable"
+    },
+    {
+      "term":"intelligible",
+      "def":"capable of being understood, comprehensible, clear"
+    },
+    {
+      "term":"interim",
+      "def":"an intervening time, transitional, meantime"
+    },
+    {
+      "term":"interminable",
+      "def":"existing or occurring without interruption or end, ceaseless"
+    },
+    {
+      "term":"internecine",
+      "def":"of or pertaining to conflict or struggle within a group"
+    },
+    {
+      "term":"intestate",
+      "def":"to be without a valid will"
+    },
+    {
+      "term":"intolerable",
+      "def":"not capable of being borne or endured, insufferable"
+    },
+    {
+      "term":"intoxicant",
+      "def":"an intoxicating agent, as alcohol or drugs"
+    },
+    {
+      "term":"intracellular",
+      "def":"inside or within a cell"
+    },
+    {
+      "term":"intractable",
+      "def":"not easily controlled, not docile or manageable, stubborn"
+    },
+    {
+      "term":"intramural",
+      "def":"pertaining to something within one institution"
+    },
+    {
+      "term":"intransigent",
+      "def":"unwilling to compromise or moderate a position, stubborn"
+    },
+    {
+      "term":"intrepid",
+      "def":"resolutely fearless, dauntless"
+    },
+    {
+      "term":"intrinsic",
+      "def":"innate, inherent, inseparable from itself, essential"
+    },
+    {
+      "term":"introductory",
+      "def":"introducing, giving a preview or idea of"
+    },
+    {
+      "term":"intuitive",
+      "def":"doesn't require conscious thought, understood by intuition"
+    },
+    {
+      "term":"invaluable",
+      "def":"of great value, costly, precious, priceless"
+    },
+    {
+      "term":"invariable",
+      "def":"not variable, constant"
+    },
+    {
+      "term":"inventive",
+      "def":"of, or relating to invention"
+    },
+    {
+      "term":"inverse",
+      "def":"reversed position, direction, or tendency"
+    },
+    {
+      "term":"inveterate",
+      "def":"settled or confirmed in a habit, practice, or feeling"
+    },
+    {
+      "term":"invidious",
+      "def":"calculated to create ill will or resentment or give offense"
+    },
+    {
+      "term":"invincible",
+      "def":"impossible to defeat, destroy or kill"
+    },
+    {
+      "term":"inviolable",
+      "def":"not susceptible of violence or of being profaned/corrupted"
+    },
+    {
+      "term":"involuntary",
+      "def":"without intention, unintentional"
+    },
+    {
+      "term":"invulnerable",
+      "def":"incapable of being wounded, or of receiving injury"
+    },
+    {
+      "term":"inwardly",
+      "def":"in or on, or with reference to, the inside or inner part"
+    },
+    {
+      "term":"irascible",
+      "def":"easily provoked to anger, very irritable"
+    },
+    {
+      "term":"irate",
+      "def":"extremely angry, wrathful, enraged"
+    },
+    {
+      "term":"iridescent",
+      "def":"producing a display of lustrous, rainbow-like colors"
+    },
+    {
+      "term":"irksome",
+      "def":"disagreeable or troublesome, bothersome, annoying"
+    },
+    {
+      "term":"irrational",
+      "def":"not rational, unfounded or nonsensical"
+    },
+    {
+      "term":"irreducible",
+      "def":"not able to be reduced or lessened"
+    },
+    {
+      "term":"irrefragable",
+      "def":"which cannot be refuted, indisputable, clearly right"
+    },
+    {
+      "term":"irrefragable",
+      "def":"not able to be refuted or disproved"
+    },
+    {
+      "term":"irrefrangible",
+      "def":"not to broken or transgressed, inviolable"
+    },
+    {
+      "term":"irrefutable",
+      "def":"undeniable, unable to be disproved or refuted"
+    },
+    {
+      "term":"irrelevant",
+      "def":"not related, not applicable, unimportant, not connected"
+    },
+    {
+      "term":"irreligious",
+      "def":"contrary to religious beliefs and practices"
+    },
+    {
+      "term":"irreparable",
+      "def":"incapable of being repaired, amended, cured or rectified"
+    },
+    {
+      "term":"irrepressible",
+      "def":"not containable or controllable"
+    },
+    {
+      "term":"irreproachable",
+      "def":"free from blame, not open to reproach or criticism"
+    },
+    {
+      "term":"irresistible",
+      "def":"not able to be resisted"
+    },
+    {
+      "term":"irresolute",
+      "def":"undecided or unsure how to act"
+    },
+    {
+      "term":"irresponsible",
+      "def":"lacking a sense of responsibility"
+    },
+    {
+      "term":"irreverent",
+      "def":"lacking proper respect or seriousness, sarcastic"
+    },
+    {
+      "term":"irreversible",
+      "def":"incapable of being reversed or turned about or back"
+    },
+    {
+      "term":"irrevocable",
+      "def":"unable to be retracted or reversed, final"
+    },
+    {
+      "term":"irrhetorical",
+      "def":"not rhetorical"
+    },
+    {
+      "term":"irritable",
+      "def":"capable of being irritated"
+    },
+    {
+      "term":"isochronous",
+      "def":"happening at regular intervals"
+    },
+    {
+      "term":"isothermal",
+      "def":"of a process that takes place at constant temperature"
+    },
+    {
+      "term":"jejune",
+      "def":"without interest or significance, dull"
+    },
+    {
+      "term":"jingoist",
+      "def":"the policy or practice of jingoes, bellicose chauvinism"
+    },
+    {
+      "term":"jocose",
+      "def":"given to or characterized by joking, jesting, humorous"
+    },
+    {
+      "term":"jocular",
+      "def":"characterized by, or intended for joking or jesting"
+    },
+    {
+      "term":"jocund",
+      "def":"cheerful, merry, gay, blithe, glad"
+    },
+    {
+      "term":"jovial",
+      "def":"endowed with or characterized by a hearty or joyous humor"
+    },
+    {
+      "term":"jubilant",
+      "def":"showing great joy, satisfaction, or triumph, rejoicing"
+    },
+    {
+      "term":"judicial",
+      "def":"of or relating to a court of law"
+    },
+    {
+      "term":"judicious",
+      "def":"having, or characterized by, good judgment or sound thinking"
+    },
+    {
+      "term":"jugular",
+      "def":"relating to, or located near, the neck or throat"
+    },
+    {
+      "term":"juridical",
+      "def":"pertaining to the law or rule of law, legal, judicial"
+    },
+    {
+      "term":"juvenile",
+      "def":"young, not fully developed"
+    },
+    {
+      "term":"kindred",
+      "def":"of the same nature"
+    },
+    {
+      "term":"kinetic",
+      "def":"pertaining to motion"
+    },
+    {
+      "term":"knotty",
+      "def":"full of knots"
+    },
+    {
+      "term":"laborious",
+      "def":"requiring much physical effort, toilsome"
+    },
+    {
+      "term":"labyrinthine",
+      "def":"physically resembling a labyrinth, maze-like"
+    },
+    {
+      "term":"lachrymose",
+      "def":"suggestive of or tending to cause tears, mournful"
+    },
+    {
+      "term":"lackadaisical",
+      "def":"showing no interest or enthusiasm"
+    },
+    {
+      "term":"lackluster",
+      "def":"lacking  brilliance or radiance, dull"
+    },
+    {
+      "term":"laconic",
+      "def":"using few words, concise"
+    },
+    {
+      "term":"lacteal",
+      "def":"relating to milk"
+    },
+    {
+      "term":"lactic",
+      "def":"of, relating to, or derived from milk"
+    },
+    {
+      "term":"laggard",
+      "def":"hanging back, loitering"
+    },
+    {
+      "term":"languid",
+      "def":"lacking in vigor or vitality, slack or slow"
+    },
+    {
+      "term":"lascivious",
+      "def":"inclined to lustfulness, wanton, lewd"
+    },
+    {
+      "term":"latent",
+      "def":"present but not visible, apparent, or actualized, potential"
+    },
+    {
+      "term":"lateral",
+      "def":"of or pertaining to, situated at, or directed to a side"
+    },
+    {
+      "term":"latish",
+      "def":"somewhat or rather late"
+    },
+    {
+      "term":"laudable",
+      "def":"deserving praise, praiseworthy"
+    },
+    {
+      "term":"laudatory",
+      "def":"containing or expressing praise"
+    },
+    {
+      "term":"lax",
+      "def":"lenient and allowing for deviation, not strict"
+    },
+    {
+      "term":"laxative",
+      "def":"having the effect of moving the bowels, or aiding digestion"
+    },
+    {
+      "term":"leery",
+      "def":"cautious, hesitant, or nervous about something"
+    },
+    {
+      "term":"leeward",
+      "def":"away from the direction from which the wind is blowing"
+    },
+    {
+      "term":"legacy",
+      "def":"anything handed down from the past, as from a predecessor"
+    },
+    {
+      "term":"legible",
+      "def":"being clear enough to be read, readable"
+    },
+    {
+      "term":"legionary",
+      "def":"relating to, or consisting of a legion or legions"
+    },
+    {
+      "term":"lenient",
+      "def":"lax, tolerant of deviation, permissive, not strict"
+    },
+    {
+      "term":"leonine",
+      "def":"of, pertaining to, or characteristic of the lion"
+    },
+    {
+      "term":"leviathan",
+      "def":"very large, gargantuan"
+    },
+    {
+      "term":"lewd",
+      "def":"lascivious, sexually promiscuous, rude"
+    },
+    {
+      "term":"liable",
+      "def":"bound or obliged in law or equity, responsible, answerable"
+    },
+    {
+      "term":"libertarian",
+      "def":"relating to the beliefs of libertarians"
+    },
+    {
+      "term":"licentious",
+      "def":"sexually unrestrained, lascivious, libertine, lewd"
+    },
+    {
+      "term":"licit",
+      "def":"not forbidden by formal or informal rules"
+    },
+    {
+      "term":"liege",
+      "def":"sovereign, independent, having right to allegiance"
+    },
+    {
+      "term":"ligneous",
+      "def":"of, or resembling wood, woody"
+    },
+    {
+      "term":"lilliputian",
+      "def":"extremely small, tiny"
+    },
+    {
+      "term":"limpid",
+      "def":"clear, transparent, or pellucid, as water, crystal, or air"
+    },
+    {
+      "term":"linear",
+      "def":"having the form of a line, straight"
+    },
+    {
+      "term":"lingual",
+      "def":"related to the tongue"
+    },
+    {
+      "term":"lissome",
+      "def":"lithe, quick and graceful in movement"
+    },
+    {
+      "term":"listless",
+      "def":"having or showing little or no interest in anything, languid"
+    },
+    {
+      "term":"literal",
+      "def":"exactly as stated, understood without extra interpretation"
+    },
+    {
+      "term":"lithe",
+      "def":"bending readily, pliant, limber"
+    },
+    {
+      "term":"lithesome",
+      "def":"describing as being lithe"
+    },
+    {
+      "term":"litigious",
+      "def":"of or relating to litigation"
+    },
+    {
+      "term":"littoral",
+      "def":"of or relating to the shore, especially the seashore"
+    },
+    {
+      "term":"livid",
+      "def":"enraged, furiously angry"
+    },
+    {
+      "term":"loath",
+      "def":"unwilling, reluctant, averse, disinclined"
+    },
+    {
+      "term":"locative",
+      "def":"indicating place, or the place where, or wherein"
+    },
+    {
+      "term":"lofty",
+      "def":"high, tall, having great height or stature"
+    },
+    {
+      "term":"logical",
+      "def":"in agreement with the principles of logic"
+    },
+    {
+      "term":"loquacious",
+      "def":"talking or tending to talk much or freely, talkative"
+    },
+    {
+      "term":"lucid",
+      "def":"easily understood, completely intelligible or comprehensible"
+    },
+    {
+      "term":"lucrative",
+      "def":"producing a surplus, profitable"
+    },
+    {
+      "term":"ludicrous",
+      "def":"idiotic or unthinkable, often to the point of being funny"
+    },
+    {
+      "term":"lugubrious",
+      "def":"mournful, dismal or gloomy, especially in an affected manner"
+    },
+    {
+      "term":"lukewarm",
+      "def":"temperature between warm and cool"
+    },
+    {
+      "term":"luminous",
+      "def":"emitting light, glowing brightly"
+    },
+    {
+      "term":"lunar",
+      "def":"of, or pertaining to, the moon"
+    },
+    {
+      "term":"lurid",
+      "def":"shocking, horrifying"
+    },
+    {
+      "term":"luscious",
+      "def":"sweet and pleasant, delicious"
+    },
+    {
+      "term":"lustrous",
+      "def":"having a glow, having luster, shining"
+    },
+    {
+      "term":"luxurious",
+      "def":"enjoying pleasures of luxury"
+    },
+    {
+      "term":"lying",
+      "def":"characterized by luxury, ministering or conducive to luxury"
+    },
+    {
+      "term":"macabre",
+      "def":"representing or personifying death"
+    },
+    {
+      "term":"magisterial",
+      "def":"befitting the status of a master, authoritative"
+    },
+    {
+      "term":"magnanimous",
+      "def":"generous in forgiving an insult or injury"
+    },
+    {
+      "term":"magniloquent",
+      "def":"speaking pompously, using swelling discourse, bombastic"
+    },
+    {
+      "term":"maladroit",
+      "def":"unskillful, awkward, bungling"
+    },
+    {
+      "term":"malcontent",
+      "def":"dissatisfied with current conditions, discontented"
+    },
+    {
+      "term":"maleficent",
+      "def":"harmful or evil in intent or effect"
+    },
+    {
+      "term":"malevolent",
+      "def":"having or displaying ill will, wishing harm on others"
+    },
+    {
+      "term":"malicious",
+      "def":"of, pertaining to, or as a result of malice or spite"
+    },
+    {
+      "term":"malignant",
+      "def":"disposed to cause harm, suffering, or distress deliberately"
+    },
+    {
+      "term":"malleable",
+      "def":"capable of being extended or shaped by hammering or pressure"
+    },
+    {
+      "term":"manipulatable",
+      "def":"capable of being manipulated"
+    },
+    {
+      "term":"marginal",
+      "def":"of, relating to, or located at a margin or an edge"
+    },
+    {
+      "term":"marine",
+      "def":"pertaining to the sea (marine biology, marine insurance)"
+    },
+    {
+      "term":"maritime",
+      "def":"related to the sea or sailing"
+    },
+    {
+      "term":"martial",
+      "def":"of, relating to, or suggestive of war, warlike"
+    },
+    {
+      "term":"martian",
+      "def":"of or pertaining to the planet mars"
+    },
+    {
+      "term":"massive",
+      "def":"of or pertaining to a large mass, weighty, heavy, or bulky"
+    },
+    {
+      "term":"material",
+      "def":"having to do with matter"
+    },
+    {
+      "term":"maternal",
+      "def":"having the characteristics of a mother, motherly"
+    },
+    {
+      "term":"mawkish",
+      "def":"characterized by sickly sentimentality, maudlin"
+    },
+    {
+      "term":"meager",
+      "def":"deficient in quantity or quality, lacking fullness"
+    },
+    {
+      "term":"meddlesome",
+      "def":"having a tendency to interfere in other people's business"
+    },
+    {
+      "term":"medial",
+      "def":"of or pertaining to a mean or average"
+    },
+    {
+      "term":"medieval",
+      "def":"in the style of the middle ages"
+    },
+    {
+      "term":"mediocre",
+      "def":"ordinary, not extraordinary, not special"
+    },
+    {
+      "term":"meek",
+      "def":"humbly patient or docile, as under provocation from others"
+    },
+    {
+      "term":"melancholy",
+      "def":"affected with great sadness or depression"
+    },
+    {
+      "term":"mellifluous",
+      "def":"sweetly or smoothly flowing, sweet-sounding"
+    },
+    {
+      "term":"mellow",
+      "def":"soft, sweet, and full-flavored from ripeness, as fruit"
+    },
+    {
+      "term":"melodious",
+      "def":"having a pleasant melody or sound, tuneful"
+    },
+    {
+      "term":"memorable",
+      "def":"worthy to be remembered, very important or remarkable"
+    },
+    {
+      "term":"mendacious",
+      "def":"lying, untruthful or dishonest"
+    },
+    {
+      "term":"mendicant",
+      "def":"begging, living on alms"
+    },
+    {
+      "term":"menial",
+      "def":"of or relating to work normally performed by a servant"
+    },
+    {
+      "term":"mephitic",
+      "def":"foul-smelling"
+    },
+    {
+      "term":"mercantile",
+      "def":"concerned with the exchange of goods for profit"
+    },
+    {
+      "term":"mercenary",
+      "def":"working or acting merely for money or other reward"
+    },
+    {
+      "term":"merciful",
+      "def":"showing mercy"
+    },
+    {
+      "term":"mercurial",
+      "def":"changeable, volatile, fickle"
+    },
+    {
+      "term":"meretricious",
+      "def":"alluring by a show of flashy or vulgar attractions"
+    },
+    {
+      "term":"meritorious",
+      "def":"deserving of merit or commendation, deserving reward"
+    },
+    {
+      "term":"meticulous",
+      "def":"showing extreme care about minute details, precise"
+    },
+    {
+      "term":"microscopic",
+      "def":"invisible without the use of the microscope"
+    },
+    {
+      "term":"migratory",
+      "def":"a species or thing that migrates"
+    },
+    {
+      "term":"militant",
+      "def":"aggressive or combative"
+    },
+    {
+      "term":"miniature",
+      "def":"smaller than normal"
+    },
+    {
+      "term":"minion",
+      "def":"favoured, beloved, \"pet\""
+    },
+    {
+      "term":"minuscule",
+      "def":"tiny, very small"
+    },
+    {
+      "term":"mischievous",
+      "def":"causing mischief, injurious"
+    },
+    {
+      "term":"miscreant",
+      "def":"depraved, villainous or base"
+    },
+    {
+      "term":"miserly",
+      "def":"like a miser, very covetous, stingy, cautious with money"
+    },
+    {
+      "term":"misty",
+      "def":"with mist, foggy"
+    },
+    {
+      "term":"mnemonic",
+      "def":"assisting or intended to assist the memory"
+    },
+    {
+      "term":"moccasin",
+      "def":"soft leather shoe, originally worn by native americans"
+    },
+    {
+      "term":"modish",
+      "def":"conforming with fashion or style"
+    },
+    {
+      "term":"momentary",
+      "def":"lasting for only a moment"
+    },
+    {
+      "term":"momentous",
+      "def":"outstanding in importance"
+    },
+    {
+      "term":"monastic",
+      "def":"of or relating to monasteries or monks"
+    },
+    {
+      "term":"monetary",
+      "def":"of, pertaining to, or consisting of money"
+    },
+    {
+      "term":"monitory",
+      "def":"giving admonition and warning"
+    },
+    {
+      "term":"morbid",
+      "def":"suggesting an unhealthy mental state, unwholesomely gloomy"
+    },
+    {
+      "term":"mordacious",
+      "def":"biting, causing a physical bite or sting, corrosive"
+    },
+    {
+      "term":"mordant",
+      "def":"sharply caustic or sarcastic, as wit or a speaker, biting"
+    },
+    {
+      "term":"moribund",
+      "def":"in a dying state, near death"
+    },
+    {
+      "term":"morose",
+      "def":"gloomily or sullenly ill-humored, as a person or mood"
+    },
+    {
+      "term":"motley",
+      "def":"comprising greatly varied elements, heterogeneous"
+    },
+    {
+      "term":"mountainous",
+      "def":"having many mountains, rough (terrain), rocky"
+    },
+    {
+      "term":"multifarious",
+      "def":"having multiplicity, having great diversity or variety"
+    },
+    {
+      "term":"multiform",
+      "def":"having more than one shape or appearance"
+    },
+    {
+      "term":"mundane",
+      "def":"common, ordinary, banal, unimaginative"
+    },
+    {
+      "term":"mundane",
+      "def":"lacking interest or excitement; dull."
+    },
+    {
+      "term":"municipal",
+      "def":"of a city which administers local government"
+    },
+    {
+      "term":"munificent",
+      "def":"larger or more generous than is usual or necessary"
+    },
+    {
+      "term":"murky",
+      "def":"hard to see through, as a fog or mist"
+    },
+    {
+      "term":"musty",
+      "def":"having a stale odor"
+    },
+    {
+      "term":"mutable",
+      "def":"liable or subject to change or alteration"
+    },
+    {
+      "term":"mystic",
+      "def":"involving otherworldly or symbolic practices or content"
+    },
+    {
+      "term":"nasal",
+      "def":"of or pertaining to the nose"
+    },
+    {
+      "term":"nascent",
+      "def":"beginning to exist or develop"
+    },
+    {
+      "term":"natal",
+      "def":"of or relating to birth"
+    },
+    {
+      "term":"natty",
+      "def":"smart and fashionable"
+    },
+    {
+      "term":"nautical",
+      "def":"of or pertaining to sailors, ships, or navigation"
+    },
+    {
+      "term":"naval",
+      "def":"of or relating to a navy"
+    },
+    {
+      "term":"navigable",
+      "def":"deep enough and wide enough to afford passage to vessels"
+    },
+    {
+      "term":"nefarious",
+      "def":"extremely wicked or villainous, iniquitous"
+    },
+    {
+      "term":"neglectful",
+      "def":"failing to take care of matters which require attention"
+    },
+    {
+      "term":"negligible",
+      "def":"too small or unimportant to be of concern"
+    },
+    {
+      "term":"negotiable",
+      "def":"able to be traversed"
+    },
+    {
+      "term":"neolithic",
+      "def":"hopelessly outdated"
+    },
+    {
+      "term":"neural",
+      "def":"of, or relating to the nerves, neurons or the nervous system"
+    },
+    {
+      "term":"neutral",
+      "def":"not taking sides in a conflict such as war, nonaligned"
+    },
+    {
+      "term":"niggardly",
+      "def":"withholding for the sake of meanness, stingy, miserly"
+    },
+    {
+      "term":"nimble",
+      "def":"quick and light in movement or action"
+    },
+    {
+      "term":"nocturnal",
+      "def":"primarily active during the night"
+    },
+    {
+      "term":"noiseless",
+      "def":"producing no noise, without noise"
+    },
+    {
+      "term":"noisome",
+      "def":"offensive or disgusting, as an odor"
+    },
+    {
+      "term":"noisy",
+      "def":"making a noise, especially a loud sound"
+    },
+    {
+      "term":"nominal",
+      "def":"being such in name only, so-called"
+    },
+    {
+      "term":"nonchalant",
+      "def":"casually calm and relaxed"
+    },
+    {
+      "term":"noncommittal",
+      "def":"reluctant to give out information or show one's opinion"
+    },
+    {
+      "term":"nondescript",
+      "def":"of no recognized, definite, or particular type or kind"
+    },
+    {
+      "term":"notorious",
+      "def":"widely known, especially for something bad, infamous"
+    },
+    {
+      "term":"novel",
+      "def":"new, original, especially in an interesting way"
+    },
+    {
+      "term":"noxious",
+      "def":"harmful, injurious"
+    },
+    {
+      "term":"nude",
+      "def":"without clothing or other covering of the skin"
+    },
+    {
+      "term":"nugatory",
+      "def":"of no real value, trifling, worthless"
+    },
+    {
+      "term":"numerical",
+      "def":"of or pertaining to numbers"
+    },
+    {
+      "term":"nuptial",
+      "def":"of or pertaining to wedding and marriage"
+    },
+    {
+      "term":"nutritive",
+      "def":"of or pertaining to nutrition"
+    },
+    {
+      "term":"oaken",
+      "def":"made from the wood of the oak tree"
+    },
+    {
+      "term":"obdurate",
+      "def":"stubborn, unyielding"
+    },
+    {
+      "term":"obese",
+      "def":"extremely overweight"
+    },
+    {
+      "term":"objective",
+      "def":"purpose, goal"
+    },
+    {
+      "term":"oblique",
+      "def":"neither perpendicular nor parallel to a line or surface"
+    },
+    {
+      "term":"oblong",
+      "def":"describing something that is longer than it is wide"
+    },
+    {
+      "term":"obnoxious",
+      "def":"very annoying, offensive, odious or contemptible"
+    },
+    {
+      "term":"obsequious",
+      "def":"showing servile complaisance or deference, fawning"
+    },
+    {
+      "term":"observant",
+      "def":"alert and paying close attention"
+    },
+    {
+      "term":"obsolete",
+      "def":"no longer in general use, fallen into disuse"
+    },
+    {
+      "term":"obstinate",
+      "def":"firmly or stubbornly adhering to one's purpose, opinion"
+    },
+    {
+      "term":"obstreperous",
+      "def":"resisting control or restraint in a difficult manner, unruly"
+    },
+    {
+      "term":"obtuse",
+      "def":"not quick or alert in perception, not sensitive or observant"
+    },
+    {
+      "term":"octogenarian",
+      "def":"being between the age of 80 and 89, inclusive"
+    },
+    {
+      "term":"ocular",
+      "def":"of, or relating to the eye, or the sense of sight"
+    },
+    {
+      "term":"odious",
+      "def":"deserving or causing hatred, hateful, detestable"
+    },
+    {
+      "term":"odoriferous",
+      "def":"having an odor or fragrance"
+    },
+    {
+      "term":"odorous",
+      "def":"having a distinctive odor"
+    },
+    {
+      "term":"offhand",
+      "def":"without planning or thinking ahead"
+    },
+    {
+      "term":"officious",
+      "def":"obliging, attentive, eager to please"
+    },
+    {
+      "term":"olfactory",
+      "def":"concerning the sense of smell"
+    },
+    {
+      "term":"ominous",
+      "def":"portending evil or harm, foreboding"
+    },
+    {
+      "term":"omnipotent",
+      "def":"almighty or infinite in power, as god"
+    },
+    {
+      "term":"omnipresent",
+      "def":"being everywhere simultaneously"
+    },
+    {
+      "term":"omniscient",
+      "def":"having total knowledge"
+    },
+    {
+      "term":"omnivorous",
+      "def":"having a diet which is neither carnivorous nor herbivorous"
+    },
+    {
+      "term":"onerous",
+      "def":"burdensome, oppressive, or troublesome, causing hardship"
+    },
+    {
+      "term":"opportune",
+      "def":"suitable for some particular purpose"
+    },
+    {
+      "term":"opposite",
+      "def":"located directly across from something else"
+    },
+    {
+      "term":"optic",
+      "def":"of, or relating to the eye or to vision"
+    },
+    {
+      "term":"opulent",
+      "def":"luxuriant, and ostentatiously magnificent"
+    },
+    {
+      "term":"oracular",
+      "def":"of or relating to an oracle"
+    },
+    {
+      "term":"oral",
+      "def":"uttered by the mouth, spoken"
+    },
+    {
+      "term":"ordinal",
+      "def":"of a number, indicating position in a sequence"
+    },
+    {
+      "term":"ornate",
+      "def":"elaborately ornamented, often to excess"
+    },
+    {
+      "term":"orthodox",
+      "def":"the traditional doctrines of an ideology, faith or religion"
+    },
+    {
+      "term":"orthogonal",
+      "def":"pertaining to right angles, perpendicular (to)"
+    },
+    {
+      "term":"ostensible",
+      "def":"outwardly appearing as such, professed"
+    },
+    {
+      "term":"outlandish",
+      "def":"bizarre, strange"
+    },
+    {
+      "term":"outright",
+      "def":"complete or total"
+    },
+    {
+      "term":"overt",
+      "def":"open and not secret nor concealed"
+    },
+    {
+      "term":"overweening",
+      "def":"unduly confident, arrogant, presumptuous, conceited"
+    },
+    {
+      "term":"overweight",
+      "def":"weighing too much or more than is considered normal"
+    },
+    {
+      "term":"overwrought",
+      "def":"in a state of excessive nervousness, excitement, or anger"
+    },
+    {
+      "term":"pacific",
+      "def":"calm, peaceful"
+    },
+    {
+      "term":"painstaking",
+      "def":"carefully attentive to details, diligent in a procedure"
+    },
+    {
+      "term":"palatable",
+      "def":"pleasing to the taste, tasty"
+    },
+    {
+      "term":"palatial",
+      "def":"of or relating to a palace"
+    },
+    {
+      "term":"palliative",
+      "def":"minimising progression of a disease for as long as possible"
+    },
+    {
+      "term":"pallid",
+      "def":"appearing weak, pale or wan"
+    },
+    {
+      "term":"palpable",
+      "def":"capable of being touched, felt or handled"
+    },
+    {
+      "term":"paltry",
+      "def":"ridiculously or insultingly small"
+    },
+    {
+      "term":"paludal",
+      "def":"of or pertaining to marshes"
+    },
+    {
+      "term":"pan-american",
+      "def":"of all the countries of north, central and south america"
+    },
+    {
+      "term":"pandemic",
+      "def":"disease prevalent in a country, continent, or the world"
+    },
+    {
+      "term":"parallel",
+      "def":"extending in same direction, never converging or diverging"
+    },
+    {
+      "term":"paramount",
+      "def":"chief in importance or impact, supreme, preeminent"
+    },
+    {
+      "term":"Parisian",
+      "def":"of, or pertaining to, or characteristic of paris, france"
+    },
+    {
+      "term":"parlous",
+      "def":"perilous, dangerous"
+    },
+    {
+      "term":"parochial",
+      "def":"pertaining to a parish"
+    },
+    {
+      "term":"paronymous",
+      "def":"containing the same root or stem as another word"
+    },
+    {
+      "term":"parsimonious",
+      "def":"extremely frugal, stingy"
+    },
+    {
+      "term":"partible",
+      "def":"divisible (able to be divided or partitioned)"
+    },
+    {
+      "term":"partisan",
+      "def":"a supporter of a person, group, party or cause"
+    },
+    {
+      "term":"passible",
+      "def":"capable of feeling, especially suffering"
+    },
+    {
+      "term":"passive",
+      "def":"not reacting to something that should produce an emotion"
+    },
+    {
+      "term":"pastoral",
+      "def":"having the simplicity or charm attributed to rural areas"
+    },
+    {
+      "term":"paternal",
+      "def":"of one's father, or his side of a family"
+    },
+    {
+      "term":"patronymic",
+      "def":"derived from ancestors, as, a patronymic denomination"
+    },
+    {
+      "term":"peaceable",
+      "def":"favouring peace rather than conflict, not aggressive"
+    },
+    {
+      "term":"peaceful",
+      "def":"not at war or disturbed by strife or turmoil"
+    },
+    {
+      "term":"peccable",
+      "def":"liable to sin, subject to transgress the divine law"
+    },
+    {
+      "term":"peccant",
+      "def":"guilty of a moral offence"
+    },
+    {
+      "term":"pectoral",
+      "def":"of or pertaining to the breast, the pectoral muscles"
+    },
+    {
+      "term":"pecuniary",
+      "def":"of or pertaining to money"
+    },
+    {
+      "term":"pedestrian",
+      "def":"lacking in vitality, imagination, distinction, etc"
+    },
+    {
+      "term":"peerless",
+      "def":"without equal, unparalleled, best"
+    },
+    {
+      "term":"peevish",
+      "def":"showing annoyance, irritation or bad mood"
+    },
+    {
+      "term":"pejorative",
+      "def":"having a disparaging, derogatory or belittling effect"
+    },
+    {
+      "term":"pellucid",
+      "def":"allowing for the passage of light, transparent"
+    },
+    {
+      "term":"penitent",
+      "def":"feeling or expressing sorrow for sin or wrongdoing"
+    },
+    {
+      "term":"penitential",
+      "def":"pertaining to penance or penitence"
+    },
+    {
+      "term":"pensive",
+      "def":"dreamily or wistfully thoughtful"
+    },
+    {
+      "term":"pentavalent",
+      "def":"having a valence of 5"
+    },
+    {
+      "term":"penultimate",
+      "def":"coming next-to-last in a sequence"
+    },
+    {
+      "term":"penurious",
+      "def":"extremely stingy, parsimonious, miserly"
+    },
+    {
+      "term":"perceptive",
+      "def":"having keenness of perception, insight or intuition"
+    },
+    {
+      "term":"percipient",
+      "def":"having the ability to perceive, especially quickly"
+    },
+    {
+      "term":"peremptory",
+      "def":"leaving no opportunity for denial or refusal"
+    },
+    {
+      "term":"perennial",
+      "def":"remaining active throughout the year, or all the time"
+    },
+    {
+      "term":"perfectible",
+      "def":"able to be perfected, capable of perfection"
+    },
+    {
+      "term":"perfidious",
+      "def":"deliberately faithless, treacherous"
+    },
+    {
+      "term":"perfunctory",
+      "def":"performed merely as a routine duty, hasty and superficial"
+    },
+    {
+      "term":"perilous",
+      "def":"dangerous"
+    },
+    {
+      "term":"peripatetic",
+      "def":"tending to walk about"
+    },
+    {
+      "term":"peripheral",
+      "def":"pertaining to the outside surface or boundary of an area"
+    },
+    {
+      "term":"permanent",
+      "def":"without end, eternal"
+    },
+    {
+      "term":"permeable",
+      "def":"capable of being penetrated"
+    },
+    {
+      "term":"permissible",
+      "def":"allowable"
+    },
+    {
+      "term":"pernicious",
+      "def":"causing insidious harm or ruin"
+    },
+    {
+      "term":"perpendicular",
+      "def":"(geometry) meeting a given line or surface at right angles"
+    },
+    {
+      "term":"perpetual",
+      "def":"lasting forever, or for an indefinitely long time"
+    },
+    {
+      "term":"persnickety",
+      "def":"fastidious or fussy"
+    },
+    {
+      "term":"personable",
+      "def":"having a pleasing manner, friendly, amiable"
+    },
+    {
+      "term":"personal",
+      "def":"coming from a particular person, individual, private"
+    },
+    {
+      "term":"perspective",
+      "def":"depicting spatial relationships on a flat surface"
+    },
+    {
+      "term":"perspicacious",
+      "def":"having keen mental perception and understanding"
+    },
+    {
+      "term":"perspicuous",
+      "def":"clearly expressed or presented"
+    },
+    {
+      "term":"persuadable",
+      "def":"capable of being convinced"
+    },
+    {
+      "term":"pertinacious",
+      "def":"holding tenaciously to an opinion or purpose"
+    },
+    {
+      "term":"pertinent",
+      "def":"important with regards to (a subject or matter), relevant"
+    },
+    {
+      "term":"pervasive",
+      "def":"manifested throughout, penetrating or affecting everything "
+    },
+    {
+      "term":"perverse",
+      "def":"willfully determined to go counter to what is expected"
+    },
+    {
+      "term":"pervious",
+      "def":"admitting of passage or entrance"
+    },
+    {
+      "term":"pestilent",
+      "def":"highly injurious or destructive to life, deadly"
+    },
+    {
+      "term":"petrous",
+      "def":"like stone, especially in hardness"
+    },
+    {
+      "term":"petulant",
+      "def":"showing sudden, impatient irritation"
+    },
+    {
+      "term":"phenomenal",
+      "def":"very remarkable, highly extraordinary, amazing"
+    },
+    {
+      "term":"philanthropic",
+      "def":"benevolent"
+    },
+    {
+      "term":"phlegmatic",
+      "def":"not easily excited to action or display of emotion"
+    },
+    {
+      "term":"phonetic",
+      "def":"relating to the sounds of spoken language"
+    },
+    {
+      "term":"phonic",
+      "def":"of or pertaining to speech sound"
+    },
+    {
+      "term":"photoelectric",
+      "def":"pertaining to electric effects produced by light"
+    },
+    {
+      "term":"picaresque",
+      "def":"a form of fiction depicting the adventures of a roguish hero"
+    },
+    {
+      "term":"picayune",
+      "def":"petty, trivial, of little consequence"
+    },
+    {
+      "term":"piecemeal",
+      "def":"made or done in pieces or one stage at a time"
+    },
+    {
+      "term":"pied",
+      "def":"having patches of two or more colours"
+    },
+    {
+      "term":"pious",
+      "def":"having a dutiful spirit of reverence for god"
+    },
+    {
+      "term":"piquant",
+      "def":"agreeably pungent or sharp in taste or flavour"
+    },
+    {
+      "term":"piteous",
+      "def":"evoking or deserving pity"
+    },
+    {
+      "term":"pithy",
+      "def":"brief, forceful and meaningful in expression"
+    },
+    {
+      "term":"pitiable",
+      "def":"evoking or deserving pity, pitiful"
+    },
+    {
+      "term":"pitiful",
+      "def":"evoking or deserving pity"
+    },
+    {
+      "term":"pitiless",
+      "def":"feeling or showing no pity"
+    },
+    {
+      "term":"pivotal",
+      "def":"of vital or critical importance"
+    },
+    {
+      "term":"placid",
+      "def":"calm and quiet, peaceful, tranquil"
+    },
+    {
+      "term":"plaintive",
+      "def":"sorrowful, mournful or melancholic"
+    },
+    {
+      "term":"platonic",
+      "def":"free from sensual desire"
+    },
+    {
+      "term":"plausible",
+      "def":"seemingly or apparently likely, or acceptable"
+    },
+    {
+      "term":"pleasant",
+      "def":"giving pleasure, pleasing in manner "
+    },
+    {
+      "term":"pleasurable",
+      "def":"enjoyable"
+    },
+    {
+      "term":"plebeian",
+      "def":"belonging or pertaining to the common people"
+    },
+    {
+      "term":"plebian",
+      "def":"alternative spelling of plebeian"
+    },
+    {
+      "term":"plenary",
+      "def":"fully attended, for everyone's attendance"
+    },
+    {
+      "term":"plenipotentiary",
+      "def":"a person with power to do business on behalf of another"
+    },
+    {
+      "term":"plenteous",
+      "def":"of or pertaining to plenty, abundance"
+    },
+    {
+      "term":"pliable",
+      "def":"easily bent"
+    },
+    {
+      "term":"pliant",
+      "def":"capable of bending, flexible, pliable"
+    },
+    {
+      "term":"pluperfect",
+      "def":"perfect with respect to a point of reference in past time"
+    },
+    {
+      "term":"plural",
+      "def":"consisting of or containing more than one of something"
+    },
+    {
+      "term":"pneumatic",
+      "def":"of or relating to air or other gases"
+    },
+    {
+      "term":"poetic",
+      "def":"possessing the qualities or charm of poetry"
+    },
+    {
+      "term":"poignant",
+      "def":"keenly distressing to the feelings"
+    },
+    {
+      "term":"polar",
+      "def":"of or relating to the north or south pole"
+    },
+    {
+      "term":"politic",
+      "def":"shrewd or prudent in practical matters"
+    },
+    {
+      "term":"polyglot",
+      "def":"able to speak or write several languages"
+    },
+    {
+      "term":"polytechnic",
+      "def":"offering instruction in a variety of technical subjects"
+    },
+    {
+      "term":"pompous",
+      "def":"affectedly grand, solemn or self-important"
+    },
+    {
+      "term":"populous",
+      "def":"full of residents, as a region, heavily populated"
+    },
+    {
+      "term":"portentous",
+      "def":"ominously significant, portending evil"
+    },
+    {
+      "term":"portly",
+      "def":"rather heavy or fat"
+    },
+    {
+      "term":"posterior",
+      "def":"located behind, or towards the rear of an object"
+    },
+    {
+      "term":"postgraduate",
+      "def":"further studies after completing a degree"
+    },
+    {
+      "term":"posthumous",
+      "def":"arising, occurring or continuing after one's death"
+    },
+    {
+      "term":"potable",
+      "def":"good for drinking without fear of poisoning or disease"
+    },
+    {
+      "term":"potent",
+      "def":"powerful, mighty"
+    },
+    {
+      "term":"potential",
+      "def":"existing in possibility, not in actuality"
+    },
+    {
+      "term":"pragmatic",
+      "def":"pertaining to a practical point of view"
+    },
+    {
+      "term":"precipitant",
+      "def":"falling headlong"
+    },
+    {
+      "term":"precipitous",
+      "def":"extremely steep"
+    },
+    {
+      "term":"precise",
+      "def":"exact, accurate"
+    },
+    {
+      "term":"precocious",
+      "def":"unusually advanced or mature in development"
+    },
+    {
+      "term":"predatory",
+      "def":"of, or relating to a predator"
+    },
+    {
+      "term":"preeminent",
+      "def":"exceeding others in quality or rank"
+    },
+    {
+      "term":"prefatory",
+      "def":"introductory, preliminary, serving as a prelude or preface"
+    },
+    {
+      "term":"prehensile",
+      "def":"able to take hold of and clasp objects"
+    },
+    {
+      "term":"premature",
+      "def":"occurring too soon"
+    },
+    {
+      "term":"premeditated",
+      "def":"done deliberately, planned in advance"
+    },
+    {
+      "term":"preposterous",
+      "def":"absurd, or contrary to common sense"
+    },
+    {
+      "term":"prerogative",
+      "def":"having a hereditary or official right or privilege"
+    },
+    {
+      "term":"prescient",
+      "def":"having knowledge of events before they take place"
+    },
+    {
+      "term":"prescription",
+      "def":"paper from doctor for pharmacist stating medication you need"
+    },
+    {
+      "term":"presentient",
+      "def":"having a premonition"
+    },
+    {
+      "term":"prestigious",
+      "def":"of high honour or reputation"
+    },
+    {
+      "term":"preternatural",
+      "def":"strange, inexplicable, extraordinary, abnormal "
+    },
+    {
+      "term":"priggish",
+      "def":"like a prig"
+    },
+    {
+      "term":"prim",
+      "def":"precise or proper"
+    },
+    {
+      "term":"prima",
+      "def":"most important"
+    },
+    {
+      "term":"primeval",
+      "def":"belonging to the first ages"
+    },
+    {
+      "term":"primitive",
+      "def":"of, or pertaining to, the beginning or origin"
+    },
+    {
+      "term":"primordial",
+      "def":"first, earliest or original"
+    },
+    {
+      "term":"pristine",
+      "def":"unspoiled, still with its original purity"
+    },
+    {
+      "term":"privy",
+      "def":"having knowledge of something private or secret"
+    },
+    {
+      "term":"productive",
+      "def":"capable of producing something, especially in abundance"
+    },
+    {
+      "term":"profane",
+      "def":"irreligious"
+    },
+    {
+      "term":"proficient",
+      "def":"good at, skilled, fluent, practiced"
+    },
+    {
+      "term":"profligate",
+      "def":"utterly immoral"
+    },
+    {
+      "term":"profound",
+      "def":"entering deeply into subjects of thought or knowledge"
+    },
+    {
+      "term":"profuse",
+      "def":"spending or giving freely and in large amount"
+    },
+    {
+      "term":"prohibitory",
+      "def":"that serves to prohibit or forbid"
+    },
+    {
+      "term":"proletarian",
+      "def":"of or relating to the working class"
+    },
+    {
+      "term":"prolific",
+      "def":"producing offspring abundantly"
+    },
+    {
+      "term":"prolix",
+      "def":"extended to great, unnecessary or tedious length"
+    },
+    {
+      "term":"promiscuous",
+      "def":"having casual sexual relations with a number of partners"
+    },
+    {
+      "term":"promissory",
+      "def":"containing or consisting of a promise"
+    },
+    {
+      "term":"propitious",
+      "def":"presenting favourable opinions"
+    },
+    {
+      "term":"proportionate",
+      "def":"adjusted to proper proportion"
+    },
+    {
+      "term":"proprietary",
+      "def":"of relating to property or ownership"
+    },
+    {
+      "term":"prosaic",
+      "def":"commonplace or dull"
+    },
+    {
+      "term":"protean",
+      "def":"readily assuming different forms or characters"
+    },
+    {
+      "term":"Protestant",
+      "def":"any christian who is not catholic, anglican or eastern"
+    },
+    {
+      "term":"protuberant",
+      "def":"swelling or bulging outward"
+    },
+    {
+      "term":"provident",
+      "def":"with care and consideration for the future, foresight"
+    },
+    {
+      "term":"providential",
+      "def":"fortunate as if occurring as a gift from a deity"
+    },
+    {
+      "term":"provincial",
+      "def":"belonging or peculiar to a particular province"
+    },
+    {
+      "term":"provisional",
+      "def":"temporary"
+    },
+    {
+      "term":"prudent",
+      "def":"wise in practical affairs"
+    },
+    {
+      "term":"prurient",
+      "def":"having lustful thoughts"
+    },
+    {
+      "term":"psychopathic",
+      "def":"having the behaviors and personality traits of a psychopath"
+    },
+    {
+      "term":"pudgy",
+      "def":"overweight (pertaining particularly to children), plump"
+    },
+    {
+      "term":"puerile",
+      "def":"immature, childish"
+    },
+    {
+      "term":"pugnacious",
+      "def":"inclined to quarrel or fight readily"
+    },
+    {
+      "term":"puissant",
+      "def":"powerful, mighty, having authority"
+    },
+    {
+      "term":"pulmonary",
+      "def":"pertaining to, having, or affecting the lungs"
+    },
+    {
+      "term":"punctilious",
+      "def":"strictly attentive to detail"
+    },
+    {
+      "term":"pungent",
+      "def":"sharply affecting the organs of taste or smell"
+    },
+    {
+      "term":"punitive",
+      "def":"concerned with or inflicting punishment"
+    },
+    {
+      "term":"purist",
+      "def":"a person who insists on purity in language, style, etc"
+    },
+    {
+      "term":"pusillanimous",
+      "def":"lacking courage"
+    },
+    {
+      "term":"putative",
+      "def":"commonly believed or deemed to be the case"
+    },
+    {
+      "term":"putrescent",
+      "def":"becoming putrid, putrefying"
+    },
+    {
+      "term":"putrid",
+      "def":"rotting, rotten, being in a state of putrefaction"
+    },
+    {
+      "term":"pyrotechnic",
+      "def":"of, or relating to fireworks"
+    },
+    {
+      "term":"quadrate",
+      "def":"square or rectangular"
+    },
+    {
+      "term":"quaint",
+      "def":"having old-fashioned attractiveness or charm"
+    },
+    {
+      "term":"qualitative",
+      "def":"distinctions based on some quality rather than on quantity"
+    },
+    {
+      "term":"quarrelsome",
+      "def":"argumentative"
+    },
+    {
+      "term":"quasi",
+      "def":"resembling or having a likeness to something"
+    },
+    {
+      "term":"quasi-",
+      "def":"1 english"
+    },
+    {
+      "term":"queasy",
+      "def":"experiencing or causing nausea or uneasiness"
+    },
+    {
+      "term":"querulous",
+      "def":"full of complaints"
+    },
+    {
+      "term":"quiescent",
+      "def":"being at rest"
+    },
+    {
+      "term":"quixotic",
+      "def":"extravagantly chivalrous or romantic"
+    },
+    {
+      "term":"quizzical",
+      "def":"odd, comical"
+    },
+    {
+      "term":"quotidian",
+      "def":"daily"
+    },
+    {
+      "term":"rabid",
+      "def":"irrationally extreme in opinion or practice"
+    },
+    {
+      "term":"racy",
+      "def":"slightly improper or indelicate"
+    },
+    {
+      "term":"radical",
+      "def":"favouring change at the root cause of a matter"
+    },
+    {
+      "term":"raffish",
+      "def":"mildly or sometimes engagingly disreputable or nonconformist"
+    },
+    {
+      "term":"ramose",
+      "def":"having branches, branching"
+    },
+    {
+      "term":"rampant",
+      "def":"violent in action or spirit"
+    },
+    {
+      "term":"rancid",
+      "def":"being rank in taste or smell"
+    },
+    {
+      "term":"rancorous",
+      "def":"full of rancor, bitter, unforgiving"
+    },
+    {
+      "term":"rapacious",
+      "def":"given to seizing for plunder or the satisfaction of greed"
+    },
+    {
+      "term":"rapid",
+      "def":"describes a process or concept which occurs quickly"
+    },
+    {
+      "term":"rapt",
+      "def":"very interested, involved in something, absorbed"
+    },
+    {
+      "term":"raptorial",
+      "def":"preying upon other animals"
+    },
+    {
+      "term":"rash",
+      "def":"hasty, not careful or considered"
+    },
+    {
+      "term":"raucous",
+      "def":"harsh"
+    },
+    {
+      "term":"ravenous",
+      "def":"very hungry"
+    },
+    {
+      "term":"rebellious",
+      "def":"defying or resisting some established authority"
+    },
+    {
+      "term":"recalcitrant",
+      "def":"resisting authority or control"
+    },
+    {
+      "term":"receivable",
+      "def":"fit for acceptance"
+    },
+    {
+      "term":"receptive",
+      "def":"capable of receiving something"
+    },
+    {
+      "term":"recessive",
+      "def":"going back, receding"
+    },
+    {
+      "term":"reciprocal",
+      "def":"something which is mutual"
+    },
+    {
+      "term":"reckless",
+      "def":"careless or heedless, headstrong or rash"
+    },
+    {
+      "term":"reclusive",
+      "def":" preferring privacy and isolation"
+    },
+    {
+      "term":"recondite",
+      "def":"dealing with very profound or difficult subject matter"
+    },
+    {
+      "term":"recreant",
+      "def":"disloyal, unfaithful, surrendering allegiance"
+    },
+    {
+      "term":"recrudescent",
+      "def":"breaking out again or into renewed activity"
+    },
+    {
+      "term":"recumbent",
+      "def":"lying down"
+    },
+    {
+      "term":"recurrent",
+      "def":"occurring or appearing again, especially repeatedly"
+    },
+    {
+      "term":"recusant",
+      "def":"refusing to submit"
+    },
+    {
+      "term":"redolence",
+      "def":"having a pleasant odour"
+    },
+    {
+      "term":"redoubtable",
+      "def":"that is to be feared"
+    },
+    {
+      "term":"reducible",
+      "def":"capable of being made smaller"
+    },
+    {
+      "term":"redundant",
+      "def":"superfluous, exceeding what is necessary"
+    },
+    {
+      "term":"referable",
+      "def":"capable of being directed to"
+    },
+    {
+      "term":"reflectible",
+      "def":"capable of being reflected or cast back, reflexible"
+    },
+    {
+      "term":"reflexible",
+      "def":"capable of being reflected, or thrown back"
+    },
+    {
+      "term":"refractory",
+      "def":"hard or impossible to manage"
+    },
+    {
+      "term":"refringent",
+      "def":"that refracts, refractive"
+    },
+    {
+      "term":"refulgent",
+      "def":"resplendent, or shining brightly and radiantly"
+    },
+    {
+      "term":"regal",
+      "def":"of or having to do with royalty"
+    },
+    {
+      "term":"regnant",
+      "def":"reigning, ruling, currently holding power  [from 15th c ]"
+    },
+    {
+      "term":"regretful",
+      "def":"full of feelings of regret, indulging in regrets"
+    },
+    {
+      "term":"relevant",
+      "def":"directly related, connected, or pertinent to a topic"
+    },
+    {
+      "term":"reliant",
+      "def":"having dependence on"
+    },
+    {
+      "term":"reluctant",
+      "def":"unwilling"
+    },
+    {
+      "term":"remediable",
+      "def":"capable of being fixed"
+    },
+    {
+      "term":"remedial",
+      "def":"intended to improve one's skill in a specific field"
+    },
+    {
+      "term":"remiss",
+      "def":"at fault, failing to fulfill responsibility"
+    },
+    {
+      "term":"reparable",
+      "def":"able to be fixed"
+    },
+    {
+      "term":"repentant",
+      "def":"penitent"
+    },
+    {
+      "term":"replete",
+      "def":"full of"
+    },
+    {
+      "term":"reprehensible",
+      "def":"blameworthy, deserving of criticism"
+    },
+    {
+      "term":"repugnant",
+      "def":"distasteful, objectionable"
+    },
+    {
+      "term":"reputable",
+      "def":"having a good reputation, honourable "
+    },
+    {
+      "term":"requisite",
+      "def":"essential, required, indispensable"
+    },
+    {
+      "term":"resilient",
+      "def":"able to endure tribulation without cracking"
+    },
+    {
+      "term":"resistant",
+      "def":"that which makes resistance or offers opposition"
+    },
+    {
+      "term":"resolute",
+      "def":"firm, unyielding, determined"
+    },
+    {
+      "term":"resonant",
+      "def":"resounding, echoing"
+    },
+    {
+      "term":"resplendent",
+      "def":"shining brilliantly"
+    },
+    {
+      "term":"restive",
+      "def":"impatient under delay, duress, or control"
+    },
+    {
+      "term":"restorative",
+      "def":"capable of renewing health or strength"
+    },
+    {
+      "term":"restrained",
+      "def":"characterized by reserve"
+    },
+    {
+      "term":"resurgent",
+      "def":"rising again"
+    },
+    {
+      "term":"reticent",
+      "def":"disposed to be silent or not speak freely"
+    },
+    {
+      "term":"retroactive",
+      "def":"operative with respect to past occurrences"
+    },
+    {
+      "term":"ribald",
+      "def":"vulgar or indecent in speech, language, etc"
+    },
+    {
+      "term":"riddled",
+      "def":"damaged throughout by numerous perforations or holes"
+    },
+    {
+      "term":"rife",
+      "def":"widespread (especially of unpleasant or harmful things) "
+    },
+    {
+      "term":"rigorous",
+      "def":"rigidly severe or harsh"
+    },
+    {
+      "term":"risible",
+      "def":"causing laughter"
+    },
+    {
+      "term":"robust",
+      "def":"strong and healthy"
+    },
+    {
+      "term":"rotary",
+      "def":"capable of turning around on an axis"
+    },
+    {
+      "term":"rote",
+      "def":"routine"
+    },
+    {
+      "term":"rotund",
+      "def":"having a round or spherical shape, circular, orbicular"
+    },
+    {
+      "term":"routine",
+      "def":"according to established procedure"
+    },
+    {
+      "term":"rudimentary",
+      "def":"pertaining to first principles, basics"
+    },
+    {
+      "term":"rugged",
+      "def":"broken into sharp or irregular points, not smooth"
+    },
+    {
+      "term":"ruminant",
+      "def":"any cud-chewing quadruped"
+    },
+    {
+      "term":"rustic",
+      "def":"country-styled or pastoral, rural"
+    },
+    {
+      "term":"saccharine",
+      "def":"resembling sugar"
+    },
+    {
+      "term":"sacred",
+      "def":"devoted or dedicated to a deity or religious purpose"
+    },
+    {
+      "term":"sacrosanct",
+      "def":"beyond alteration, criticism, or interference"
+    },
+    {
+      "term":"sadistic",
+      "def":"delighting in the pain of others"
+    },
+    {
+      "term":"sagacious",
+      "def":"showing acute mental discernment and keen practical sense"
+    },
+    {
+      "term":"salacious",
+      "def":"lustful or lecherous"
+    },
+    {
+      "term":"salient",
+      "def":"prominent or conspicuous"
+    },
+    {
+      "term":"saline",
+      "def":"containing or resembling salt, salty"
+    },
+    {
+      "term":"sallow",
+      "def":"having a grayish, yellow-green hue"
+    },
+    {
+      "term":"salubrious",
+      "def":"favourable to or promoting health"
+    },
+    {
+      "term":"salutary",
+      "def":"favourable to or promoting health"
+    },
+    {
+      "term":"sanctimonious",
+      "def":"making a hypocritical show of piety"
+    },
+    {
+      "term":"sanguinary",
+      "def":"accompanied by bloodshed"
+    },
+    {
+      "term":"sanguine",
+      "def":"cheerfully optimistic"
+    },
+    {
+      "term":"sapid",
+      "def":"tasty, flavoursome or savoury"
+    },
+    {
+      "term":"sapient",
+      "def":"possessing wisdom and discernment, wise, learned"
+    },
+    {
+      "term":"saponaceous",
+      "def":"resembling soap, having the qualities of soap, soapy"
+    },
+    {
+      "term":"sardonic",
+      "def":"characterised by bitter or scornful derision"
+    },
+    {
+      "term":"sartorial",
+      "def":"pertaining to tailors and their trade"
+    },
+    {
+      "term":"saturnalian",
+      "def":"relating to unrestrained revelry"
+    },
+    {
+      "term":"saturnine",
+      "def":"sluggish in temperament, gloomy, taciturn"
+    },
+    {
+      "term":"savory",
+      "def":"tasty, attractive to the palate"
+    },
+    {
+      "term":"scathing",
+      "def":"bitterly severe"
+    },
+    {
+      "term":"scholarly",
+      "def":"concerned with academic learning and research"
+    },
+    {
+      "term":"scintillating",
+      "def":"animated, vivacious, effervescent"
+    },
+    {
+      "term":"scriptural",
+      "def":"in accordance with sacred writings"
+    },
+    {
+      "term":"scrupulous",
+      "def":"showing a strict regard for what one considers right"
+    },
+    {
+      "term":"scurrilous",
+      "def":"given to vulgar verbal abuse, foul-mouthed"
+    },
+    {
+      "term":"sebaceous",
+      "def":"of or relating to tallow or fat,"
+    },
+    {
+      "term":"secular",
+      "def":"not specifically religious"
+    },
+    {
+      "term":"sedentary",
+      "def":"not moving, relatively still, staying in the vicinity"
+    },
+    {
+      "term":"sedulous",
+      "def":"diligent in application or attention"
+    },
+    {
+      "term":"semiannual",
+      "def":"occurring twice a year, half-yearly, biannual"
+    },
+    {
+      "term":"semiconscious",
+      "def":"neither fully conscious nor unconscious"
+    },
+    {
+      "term":"seminal",
+      "def":"having possibilities of future development"
+    },
+    {
+      "term":"senile",
+      "def":"decline in mental or physical health due to old age"
+    },
+    {
+      "term":"sensory",
+      "def":"pertaining to the senses"
+    },
+    {
+      "term":"sensual",
+      "def":"inducing pleasurable and/or erotic sensations"
+    },
+    {
+      "term":"sensuous",
+      "def":"appealing to the senses, or to sensual gratification"
+    },
+    {
+      "term":"sentient",
+      "def":"conscious or aware"
+    },
+    {
+      "term":"separatist",
+      "def":"an advocate of religious or political separation"
+    },
+    {
+      "term":"septennial",
+      "def":"lasting or continuing seven years"
+    },
+    {
+      "term":"sepulchral",
+      "def":"serving as a tomb"
+    },
+    {
+      "term":"sequacious",
+      "def":"following with smooth or logical regularity"
+    },
+    {
+      "term":"sequent",
+      "def":"that comes after in time or order, subsequent"
+    },
+    {
+      "term":"seraphic",
+      "def":"of or relating to a seraph or the seraphim"
+    },
+    {
+      "term":"serene",
+      "def":"calm, peaceful, tranquil"
+    },
+    {
+      "term":"serrated",
+      "def":"having a notched edge or sawlike teeth"
+    },
+    {
+      "term":"servile",
+      "def":"slavishly submissive, fawning"
+    },
+    {
+      "term":"sextuple",
+      "def":"having six parts"
+    },
+    {
+      "term":"shambolic",
+      "def":"chaotic, disorganised"
+    },
+    {
+      "term":"shiftless",
+      "def":"lazy, unmotivated"
+    },
+    {
+      "term":"shrewd",
+      "def":"showing clever resourcefulness in practical matters"
+    },
+    {
+      "term":"sibilant",
+      "def":"characterized by a hissing sound such as the \"s\" in sash"
+    },
+    {
+      "term":"sidelong",
+      "def":"directed to the side, sideways"
+    },
+    {
+      "term":"sidereal",
+      "def":"determined by or from the stars"
+    },
+    {
+      "term":"signatory",
+      "def":"having signed a document"
+    },
+    {
+      "term":"simultaneous",
+      "def":"occurring or transpiring at the same time"
+    },
+    {
+      "term":"sinister",
+      "def":"threatening or portending evil, harm or trouble"
+    },
+    {
+      "term":"sinuous",
+      "def":"having many curves, bends or turns"
+    },
+    {
+      "term":"skeptical",
+      "def":"having, or expressing doubt, questioning "
+    },
+    {
+      "term":"slapdash",
+      "def":"done hastily, haphazard, careless"
+    },
+    {
+      "term":"sleazy",
+      "def":"marked by low quality, inferior, inadequate"
+    },
+    {
+      "term":"slipshod",
+      "def":"done poorly or too quickly, slapdash "
+    },
+    {
+      "term":"slovenly",
+      "def":"having an untidy appearance, unkempt"
+    },
+    {
+      "term":"smug",
+      "def":"irritatingly pleased with oneself, self-satisfied "
+    },
+    {
+      "term":"snide",
+      "def":"derogatory in a nasty, insinuating manner"
+    },
+    {
+      "term":"sociable",
+      "def":"inclined to associate with or be in the company of others"
+    },
+    {
+      "term":"socialist",
+      "def":"of, promoting, practicing, or characteristic of socialism"
+    },
+    {
+      "term":"sodden",
+      "def":"soaked with liquid or moisture"
+    },
+    {
+      "term":"solemn",
+      "def":"deeply serious and somber"
+    },
+    {
+      "term":"solipsistic",
+      "def":"of the theory that only the self can be proved to exist"
+    },
+    {
+      "term":"somatic",
+      "def":"part of, or relating to the body of an organism"
+    },
+    {
+      "term":"somber",
+      "def":"dark and dull in colour or things in respect to colour"
+    },
+    {
+      "term":"somniferous",
+      "def":"causing or inducing sleep, normally with harmful overtones"
+    },
+    {
+      "term":"somnolent",
+      "def":"drowsy or sleepy"
+    },
+    {
+      "term":"sonorous",
+      "def":"capable of giving out a deep, resonant sound"
+    },
+    {
+      "term":"sophistical",
+      "def":"fallacious"
+    },
+    {
+      "term":"sophomoric",
+      "def":"of, relating to, or characteristic of a sophomore"
+    },
+    {
+      "term":"soporific",
+      "def":"causing or tending to cause sleep"
+    },
+    {
+      "term":"sordid",
+      "def":"dirty or squalid"
+    },
+    {
+      "term":"sparse",
+      "def":"having widely spaced intervals"
+    },
+    {
+      "term":"spartan",
+      "def":"austere, frugal or characterized by self-denial"
+    },
+    {
+      "term":"spasmodic",
+      "def":"sudden but brief"
+    },
+    {
+      "term":"specious",
+      "def":"apparently good or right though lacking real merit"
+    },
+    {
+      "term":"speckled",
+      "def":"marked with dots"
+    },
+    {
+      "term":"spinous",
+      "def":"thorny, as a plant"
+    },
+    {
+      "term":"splenetic",
+      "def":"irritable"
+    },
+    {
+      "term":"spontaneous",
+      "def":"coming from natural impulse"
+    },
+    {
+      "term":"sporadic",
+      "def":"appearing or happening at irregular intervals"
+    },
+    {
+      "term":"sprightly",
+      "def":"animated, vivacious, or gay, lively"
+    },
+    {
+      "term":"spurious",
+      "def":"not genuine"
+    },
+    {
+      "term":"squalid",
+      "def":"foul and repulsive from lack of care or cleanliness"
+    },
+    {
+      "term":"squeamish",
+      "def":"easily bothered or upset, tending to be nauseous or nervous"
+    },
+    {
+      "term":"staccato",
+      "def":"shortened and detached when played or sung"
+    },
+    {
+      "term":"stagnant",
+      "def":"lacking freshness, motion, progress, or change"
+    },
+    {
+      "term":"stagy",
+      "def":"theatrical"
+    },
+    {
+      "term":"staid",
+      "def":"of settled or sedate character, not flighty"
+    },
+    {
+      "term":"stalwart",
+      "def":"firmly built"
+    },
+    {
+      "term":"stark",
+      "def":"sheer, utter, downright or complete"
+    },
+    {
+      "term":"stately",
+      "def":"of people: regal, dignified, worthy of respect "
+    },
+    {
+      "term":"static",
+      "def":"characterised by a fixed or stationary position"
+    },
+    {
+      "term":"stationary",
+      "def":"standing still, not moving"
+    },
+    {
+      "term":"statuesque",
+      "def":"like a statue"
+    },
+    {
+      "term":"steadfast",
+      "def":"fixed or unchanging, steady"
+    },
+    {
+      "term":"stellar",
+      "def":"of, pertaining to, or characteristic of stars"
+    },
+    {
+      "term":"stentorian",
+      "def":"very loud or powerful in sound"
+    },
+    {
+      "term":"sterling",
+      "def":"(of silver) having the standard fineness 0 925"
+    },
+    {
+      "term":"stingy",
+      "def":"reluctant to give or spend"
+    },
+    {
+      "term":"stoic",
+      "def":"unaffected, indifferent, restrained"
+    },
+    {
+      "term":"stolid",
+      "def":"unemotional"
+    },
+    {
+      "term":"strait-laced",
+      "def":"excessively strict in conduct or morality"
+    },
+    {
+      "term":"strenuous",
+      "def":"characterised by vigorous exertion"
+    },
+    {
+      "term":"striated",
+      "def":"having parallel lines or grooves on the surface"
+    },
+    {
+      "term":"strident",
+      "def":"loud, shrill, piercing, high-pitched, rough-sounding"
+    },
+    {
+      "term":"stringent",
+      "def":"rigorously binding or exacting"
+    },
+    {
+      "term":"studious",
+      "def":"given to thought, contemplative"
+    },
+    {
+      "term":"stupendous",
+      "def":"astonishingly great or large, huge, enormous "
+    },
+    {
+      "term":"suave",
+      "def":"charming, confident and elegant"
+    },
+    {
+      "term":"subacid",
+      "def":"somewhat acidic"
+    },
+    {
+      "term":"subaquatic",
+      "def":"located or living under water, submarine"
+    },
+    {
+      "term":"subjacent",
+      "def":"lying beneath or at a lower level, underlying"
+    },
+    {
+      "term":"sublime",
+      "def":"elevated or lofty in thought"
+    },
+    {
+      "term":"subliminal",
+      "def":"existing below the threshold of consciousness"
+    },
+    {
+      "term":"sublingual",
+      "def":"beneath the tongue"
+    },
+    {
+      "term":"submersible",
+      "def":"able to be put under water"
+    },
+    {
+      "term":"submissive",
+      "def":"meekly obedient or passive"
+    },
+    {
+      "term":"subsequent",
+      "def":"following in time, coming after something else at any time "
+    },
+    {
+      "term":"subservient",
+      "def":"acting in an inferior capacity"
+    },
+    {
+      "term":"substantive",
+      "def":"of the essence or essential element of a thing"
+    },
+    {
+      "term":"subterranean",
+      "def":"below ground, under the earth, underground"
+    },
+    {
+      "term":"subtle",
+      "def":"fine or delicate in meaning or intent"
+    },
+    {
+      "term":"subversive",
+      "def":"intending to overturn or undermine a government or authority"
+    },
+    {
+      "term":"successive",
+      "def":"following in an uninterrupted sequence"
+    },
+    {
+      "term":"succinct",
+      "def":"brief and to the point"
+    },
+    {
+      "term":"succulent",
+      "def":"juicy or lush"
+    },
+    {
+      "term":"suggestible",
+      "def":"susceptible to influence by suggestion"
+    },
+    {
+      "term":"sumptuous",
+      "def":"magnificent and splendid, suggesting great expense"
+    },
+    {
+      "term":"supercilious",
+      "def":"haughtily disdainful or contemptuous"
+    },
+    {
+      "term":"superficial",
+      "def":"shallow, lacking substance"
+    },
+    {
+      "term":"superfluous",
+      "def":"in excess of what is required or sufficient"
+    },
+    {
+      "term":"superlative",
+      "def":"exceptionally good, of the highest quality, superb"
+    },
+    {
+      "term":"supernumerary",
+      "def":"extra, beyond the standard or prescribed amount "
+    },
+    {
+      "term":"supine",
+      "def":"lying on the back, face or front upward"
+    },
+    {
+      "term":"supple",
+      "def":"bending readily without breaking or becoming deformed"
+    },
+    {
+      "term":"supplementary",
+      "def":"additional, added to supply what is wanted"
+    },
+    {
+      "term":"supplicant",
+      "def":"begging, pleading, supplicating"
+    },
+    {
+      "term":"suppressible",
+      "def":"capable of being done away with"
+    },
+    {
+      "term":"supramundane",
+      "def":"situated above the world or above our system, celestial"
+    },
+    {
+      "term":"surly",
+      "def":"lordly, arrogant, supercilious"
+    },
+    {
+      "term":"surreptitious",
+      "def":"obtained or done by stealth"
+    },
+    {
+      "term":"susceptible",
+      "def":"likely to be affected by something"
+    },
+    {
+      "term":"suspicious",
+      "def":"questionable"
+    },
+    {
+      "term":"svelte",
+      "def":"attractively thin, gracefully slender "
+    },
+    {
+      "term":"swarthy",
+      "def":"tawny, dusky, dark"
+    },
+    {
+      "term":"syllabic",
+      "def":"of, relating to, or consisting of a syllable or syllables"
+    },
+    {
+      "term":"sylvan",
+      "def":"pertaining to the forest, or woodlands"
+    },
+    {
+      "term":"sympathetic",
+      "def":"of, related to, showing, or characterized by sympathy"
+    },
+    {
+      "term":"symphonic",
+      "def":"characteristic of a symphony orchestra"
+    },
+    {
+      "term":"symptomatic",
+      "def":"(of a disease) showing symptoms"
+    },
+    {
+      "term":"synthetic",
+      "def":"artificial"
+    },
+    {
+      "term":"systematic",
+      "def":"carried out using a planned, ordered procedure"
+    },
+    {
+      "term":"systemic",
+      "def":"pertaining to or affecting a whole system"
+    },
+    {
+      "term":"tacit",
+      "def":"done or made in silence, implied, but not expressed"
+    },
+    {
+      "term":"taciturn",
+      "def":"inclined to silence"
+    },
+    {
+      "term":"tactile",
+      "def":"tangible"
+    },
+    {
+      "term":"tangent",
+      "def":"touching a curve at a single point but not crossing it"
+    },
+    {
+      "term":"tangential",
+      "def":"digressive or divergent from the topic of discussion"
+    },
+    {
+      "term":"tangible",
+      "def":"capable of being touched"
+    },
+    {
+      "term":"tardy",
+      "def":"late, overdue or delayed "
+    },
+    {
+      "term":"taut",
+      "def":"tight, under tension, as in a rope or bow string "
+    },
+    {
+      "term":"tautological",
+      "def":"of, relating to, or using redundant language"
+    },
+    {
+      "term":"tawdry",
+      "def":"gaudy"
+    },
+    {
+      "term":"technic",
+      "def":"technique"
+    },
+    {
+      "term":"tedious",
+      "def":"boring, monotonous, time consuming, wearisome"
+    },
+    {
+      "term":"telltale",
+      "def":"a person who heedlessly reveals private matters"
+    },
+    {
+      "term":"temperate",
+      "def":"moderate or self-restrained"
+    },
+    {
+      "term":"temporal",
+      "def":"pertaining to time"
+    },
+    {
+      "term":"tenable",
+      "def":"capable of being maintained or justified, well-founded"
+    },
+    {
+      "term":"tendentious",
+      "def":"having a bias or purpose"
+    },
+    {
+      "term":"tentative",
+      "def":"unsure"
+    },
+    {
+      "term":"tenuous",
+      "def":"thin or slender in form"
+    },
+    {
+      "term":"tepid",
+      "def":"lukewarm, neither warm nor cool "
+    },
+    {
+      "term":"tercentenary",
+      "def":"tricentenntial"
+    },
+    {
+      "term":"termagant",
+      "def":"quarrelsome and scolding or censorious, shrewish "
+    },
+    {
+      "term":"terminal",
+      "def":"fatal, resulting in death"
+    },
+    {
+      "term":"terrestrial",
+      "def":"representing the earth as distinct from other planets"
+    },
+    {
+      "term":"territorial",
+      "def":"of, relating to, or restricted to a specific geographic area"
+    },
+    {
+      "term":"terse",
+      "def":"neatly or effectively concise"
+    },
+    {
+      "term":"testy",
+      "def":"easily annoyed, irritable"
+    },
+    {
+      "term":"theological",
+      "def":"relating to the nature and will of god as revealed to humans"
+    },
+    {
+      "term":"theoretical",
+      "def":"existing only in theory, hypothetical"
+    },
+    {
+      "term":"therapeutic",
+      "def":"of or pertaining to the treating or curing of disease"
+    },
+    {
+      "term":"thermal",
+      "def":"pertaining to heat or temperature"
+    },
+    {
+      "term":"thermoelectric",
+      "def":"pertaining to the relationship between heat and electricity"
+    },
+    {
+      "term":"thoroughbred",
+      "def":"bred from pure stock"
+    },
+    {
+      "term":"threadbare",
+      "def":"shabby, frayed and worn to an extent that warp threads show"
+    },
+    {
+      "term":"timorous",
+      "def":"fearful"
+    },
+    {
+      "term":"tipsy",
+      "def":"foolish as a result of drinking alcoholic beverages"
+    },
+    {
+      "term":"tiresome",
+      "def":"causing fatigue or boredom, wearisome "
+    },
+    {
+      "term":"toilsome",
+      "def":"requiring continuous physical effort, laborious"
+    },
+    {
+      "term":"torpid",
+      "def":"unmoving, dormant or hibernating"
+    },
+    {
+      "term":"torrid",
+      "def":"very hot and dry"
+    },
+    {
+      "term":"tortious",
+      "def":"of, pertaining to, a breach of contract"
+    },
+    {
+      "term":"tortuous",
+      "def":"full of twists, turns or bends"
+    },
+    {
+      "term":"torturous",
+      "def":"of or pertaining to suffering or torture"
+    },
+    {
+      "term":"tractable",
+      "def":"easily managed or controlled"
+    },
+    {
+      "term":"tranquil",
+      "def":"peaceful"
+    },
+    {
+      "term":"transalpine",
+      "def":"on the other side of the alps (with respect to rome)"
+    },
+    {
+      "term":"transatlantic",
+      "def":"on, from the other side of, or crossing the atlantic ocean"
+    },
+    {
+      "term":"transcontinental",
+      "def":"crossing, spanning a continent"
+    },
+    {
+      "term":"transient",
+      "def":"passing or disappearing with time, transitory"
+    },
+    {
+      "term":"transitive",
+      "def":"passing over or affecting something else"
+    },
+    {
+      "term":"transitory",
+      "def":"lasting only a short time, temporary "
+    },
+    {
+      "term":"translucent",
+      "def":"clear enough for light to pass through but not totally clear"
+    },
+    {
+      "term":"transverse",
+      "def":"lying or extending crosswise or at right angles to something"
+    },
+    {
+      "term":"traumatic",
+      "def":"of, caused by, or causing trauma"
+    },
+    {
+      "term":"treacherous",
+      "def":"traitorous"
+    },
+    {
+      "term":"treasonable",
+      "def":"involving, or constituting treason"
+    },
+    {
+      "term":"trebly",
+      "def":"having treble, or high-pitched, qualities"
+    },
+    {
+      "term":"tremendous",
+      "def":"awe-inspiring, terrific"
+    },
+    {
+      "term":"tremulous",
+      "def":"trembling, quivering or shaking"
+    },
+    {
+      "term":"trenchant",
+      "def":"caustic, cutting, as language or a person"
+    },
+    {
+      "term":"tricolor",
+      "def":"having three colors"
+    },
+    {
+      "term":"triennial",
+      "def":"happening every three years"
+    },
+    {
+      "term":"trite",
+      "def":"lacking in originality, stale"
+    },
+    {
+      "term":"trivial",
+      "def":"of little significance or value"
+    },
+    {
+      "term":"truculent",
+      "def":"fierce"
+    },
+    {
+      "term":"truthful",
+      "def":"honest, and always telling the truth"
+    },
+    {
+      "term":"turbid",
+      "def":"not clear because of stirred up sediment, opaque, obscured"
+    },
+    {
+      "term":"turgid",
+      "def":"swollen"
+    },
+    {
+      "term":"tutelar",
+      "def":"serving as a guardian, protective, tutelary"
+    },
+    {
+      "term":"typical",
+      "def":"capturing the overall sense of a thing"
+    },
+    {
+      "term":"typographical",
+      "def":"pertaining to typography or printing"
+    },
+    {
+      "term":"tyrannical",
+      "def":"unjustly cruel, harsh or severe"
+    },
+    {
+      "term":"ubiquitous",
+      "def":"existing or being everywhere, omnipresent"
+    },
+    {
+      "term":"ulterior",
+      "def":"beyond what is obvious or evident"
+    },
+    {
+      "term":"ultimate",
+      "def":"highest, maximum"
+    },
+    {
+      "term":"ultramontane",
+      "def":"pertaining to the area south of the alps, especially italy"
+    },
+    {
+      "term":"ultramundane",
+      "def":"extraordinary, abnormal"
+    },
+    {
+      "term":"unaccountable",
+      "def":"inexplicable, unable to account for, or explain"
+    },
+    {
+      "term":"unaffected",
+      "def":"lacking pretense or affectation, natural "
+    },
+    {
+      "term":"unalloyed",
+      "def":"not in mixture with other metals, pure"
+    },
+    {
+      "term":"unanimous",
+      "def":"based on  complete assent or agreement"
+    },
+    {
+      "term":"unassailable",
+      "def":"secure against attack, impregnable"
+    },
+    {
+      "term":"unassuming",
+      "def":"modest and having no pretensions or ostentation"
+    },
+    {
+      "term":"unavoidable",
+      "def":"impossible to avoid, bound to happen"
+    },
+    {
+      "term":"unbearable",
+      "def":"so unpleasant or painful as to be unendurable"
+    },
+    {
+      "term":"unbecoming",
+      "def":"not flattering, attractive or appropriate"
+    },
+    {
+      "term":"unbridled",
+      "def":"not controlled or restrained"
+    },
+    {
+      "term":"uncanny",
+      "def":"extraordinary"
+    },
+    {
+      "term":"unconscionable",
+      "def":"unscrupulous, not guided by conscience"
+    },
+    {
+      "term":"unconscious",
+      "def":"not awake"
+    },
+    {
+      "term":"unctuous",
+      "def":"excessively smooth, suave or smug"
+    },
+    {
+      "term":"underhanded",
+      "def":"sneaky"
+    },
+    {
+      "term":"undulating",
+      "def":"rising and falling like waves"
+    },
+    {
+      "term":"undulous",
+      "def":"undulating"
+    },
+    {
+      "term":"unduly",
+      "def":"excessively"
+    },
+    {
+      "term":"unequivocal",
+      "def":"having only one possible meaning or explanation"
+    },
+    {
+      "term":"unfavorable",
+      "def":"disadvantageous, adverse, unsuitable"
+    },
+    {
+      "term":"unfeigned",
+      "def":"sincere"
+    },
+    {
+      "term":"unflappable",
+      "def":"remaining composed and level-headed at all times"
+    },
+    {
+      "term":"unflinching",
+      "def":"staying committed despite any difficulty, steadfast"
+    },
+    {
+      "term":"unfounded",
+      "def":"having no strong foundation, not based on reasons or facts"
+    },
+    {
+      "term":"ungainly",
+      "def":"clumsy, lacking grace"
+    },
+    {
+      "term":"unicellular",
+      "def":"describing any microorganism that has a single cell"
+    },
+    {
+      "term":"unilateral",
+      "def":"done by one side only"
+    },
+    {
+      "term":"unimpeachable",
+      "def":"above suspicion, impossible to discredit"
+    },
+    {
+      "term":"uninhibited",
+      "def":"not restrained by social convention or usage"
+    },
+    {
+      "term":"unintelligible",
+      "def":"not capable of being understood"
+    },
+    {
+      "term":"unisonant",
+      "def":"of a single sound, producing the same sound "
+    },
+    {
+      "term":"univocal",
+      "def":"having only one meaning"
+    },
+    {
+      "term":"unkempt",
+      "def":"dishevelled, untidy, dirty, not kept up"
+    },
+    {
+      "term":"unobtrusive",
+      "def":"not noticeable or blatant, inconspicuous"
+    },
+    {
+      "term":"unpalatable",
+      "def":"unpleasant to the taste"
+    },
+    {
+      "term":"unprecedented",
+      "def":"never before seen or done, without precedent"
+    },
+    {
+      "term":"unregenerate",
+      "def":"which cannot be transformed in mind and spirit"
+    },
+    {
+      "term":"unremitting",
+      "def":"incessant, never slackening"
+    },
+    {
+      "term":"unrequited",
+      "def":"unanswered, not returned, not reciprocated, not repaid "
+    },
+    {
+      "term":"unscathed",
+      "def":"not harmed or damaged in any way, untouched "
+    },
+    {
+      "term":"unscrupulous",
+      "def":"conscienceless, unprincipled"
+    },
+    {
+      "term":"unsophisticated",
+      "def":"without complexity or refinements"
+    },
+    {
+      "term":"unspeakable",
+      "def":"incapable of being spoken or uttered"
+    },
+    {
+      "term":"untenable",
+      "def":"incapable of being defended, as an argument, thesis, etc"
+    },
+    {
+      "term":"untimely",
+      "def":"at an inopportune time"
+    },
+    {
+      "term":"untoward",
+      "def":"unfavourable or unfortunate"
+    },
+    {
+      "term":"unutterable",
+      "def":"unspeakable, beyond expression"
+    },
+    {
+      "term":"unwieldy",
+      "def":"not readily handled or managed in use or action, awkward"
+    },
+    {
+      "term":"unwitting",
+      "def":"unintentional"
+    },
+    {
+      "term":"unwonted",
+      "def":"not customary or habitual, unusual, infrequent, strange "
+    },
+    {
+      "term":"uppermost",
+      "def":"at, or nearest the top of something"
+    },
+    {
+      "term":"upright",
+      "def":"vertical, erect"
+    },
+    {
+      "term":"uproarious",
+      "def":"in a state of uproar, confused and noisy"
+    },
+    {
+      "term":"urban",
+      "def":"related to the (or any) city"
+    },
+    {
+      "term":"urbane",
+      "def":"courteous, polite, refined, and suave"
+    },
+    {
+      "term":"usurious",
+      "def":"charging illegal rates of interest for the use of money"
+    },
+    {
+      "term":"utilitarian",
+      "def":"having regard to usefulness rather than beauty"
+    },
+    {
+      "term":"utmost",
+      "def":"of the greatest or highest degree, quantity or the like"
+    },
+    {
+      "term":"uxorious",
+      "def":"overly devoted or submissive to one's wife"
+    },
+    {
+      "term":"vacuous",
+      "def":"empty, without contents"
+    },
+    {
+      "term":"vainglorious",
+      "def":"filled with excessive pride over one's own achievements"
+    },
+    {
+      "term":"valedictory",
+      "def":"bidding good-bye"
+    },
+    {
+      "term":"valiant",
+      "def":"boldly courageous"
+    },
+    {
+      "term":"valid",
+      "def":"well grounded or justifiable, pertinent"
+    },
+    {
+      "term":"valorous",
+      "def":"courageous"
+    },
+    {
+      "term":"vapid",
+      "def":"lacking or having lost life, sharpness or flavour"
+    },
+    {
+      "term":"variable",
+      "def":"able to change"
+    },
+    {
+      "term":"variant",
+      "def":"tending to change or alter"
+    },
+    {
+      "term":"variegated",
+      "def":"varied in appearance or color"
+    },
+    {
+      "term":"vegetal",
+      "def":"pertaining to vegetables or other plants"
+    },
+    {
+      "term":"vegetative",
+      "def":"growing or developing as or like plants"
+    },
+    {
+      "term":"vehement",
+      "def":"zealous, ardent, impassioned"
+    },
+    {
+      "term":"veiled",
+      "def":"covered or concealed by a veil"
+    },
+    {
+      "term":"velvety",
+      "def":"like velvet (but not velvet), soft, smooth"
+    },
+    {
+      "term":"venal",
+      "def":"willing to sell one's influence,  in return for a bribe"
+    },
+    {
+      "term":"vendible",
+      "def":"able to be bought, sold, or traded "
+    },
+    {
+      "term":"venerable",
+      "def":"commanding respect because of great age or dignity"
+    },
+    {
+      "term":"venereal",
+      "def":"sexually transmitted"
+    },
+    {
+      "term":"venial",
+      "def":"able to be forgiven or pardoned"
+    },
+    {
+      "term":"venomous",
+      "def":"able to inflict a poisoned bite, sting or wound"
+    },
+    {
+      "term":"venous",
+      "def":"of or pertaining to veins"
+    },
+    {
+      "term":"venturesome",
+      "def":"bold"
+    },
+    {
+      "term":"veracious",
+      "def":"habitually speaking the truth"
+    },
+    {
+      "term":"verbatim",
+      "def":"corresponding with the original word for word"
+    },
+    {
+      "term":"verbose",
+      "def":"characterised by the use of many or too many words"
+    },
+    {
+      "term":"verdant",
+      "def":"covered with growing plants or moss"
+    },
+    {
+      "term":"veritable",
+      "def":"being truly or very much so"
+    },
+    {
+      "term":"vernacular",
+      "def":"of or pertaining to everyday language"
+    },
+    {
+      "term":"vernal",
+      "def":"of or pertaining to spring"
+    },
+    {
+      "term":"versatile",
+      "def":"capable of doing many things competently"
+    },
+    {
+      "term":"vespertine",
+      "def":"occurring in or related to the evening"
+    },
+    {
+      "term":"vestigial",
+      "def":"of or pertaining to a vestige or remnant"
+    },
+    {
+      "term":"vexatious",
+      "def":"causing vexation, annoyance, or trouble"
+    },
+    {
+      "term":"viable",
+      "def":"able to live on its own (as for a newborn)"
+    },
+    {
+      "term":"vicarious",
+      "def":"experienced through someone else rather than first hand"
+    },
+    {
+      "term":"vigilant",
+      "def":"watchful, especially for danger or disorder, alert, wary"
+    },
+    {
+      "term":"vigour",
+      "def":" energy: forceful exertion"
+    },
+    {
+      "term":"vincible",
+      "def":"capable of being defeated or overcome"
+    },
+    {
+      "term":"vindicatory",
+      "def":"tending or serving to vindicate"
+    },
+    {
+      "term":"vindictive",
+      "def":"having a tendency to seek revenge when wronged"
+    },
+    {
+      "term":"virago",
+      "def":"a loud-voice, ill-tempered, scolding woman"
+    },
+    {
+      "term":"virile",
+      "def":"being manly"
+    },
+    {
+      "term":"virtual",
+      "def":"imitated, simulated "
+    },
+    {
+      "term":"virulent",
+      "def":"of a disease or disease-causing agent"
+    },
+    {
+      "term":"visceral",
+      "def":"of or relating to the viscera—internal organs of the body"
+    },
+    {
+      "term":"viscid",
+      "def":"sticky"
+    },
+    {
+      "term":"viscous",
+      "def":"sticky, thick as a fluid"
+    },
+    {
+      "term":"visionary",
+      "def":"characterised by fanciful, or unpractical ideas"
+    },
+    {
+      "term":"vital",
+      "def":"relating to, or characteristic of life"
+    },
+    {
+      "term":"vitriolic",
+      "def":"scathing"
+    },
+    {
+      "term":"vituperable",
+      "def":"liable to, or deserving, vituperation or severe censure"
+    },
+    {
+      "term":"vivacious",
+      "def":"lively"
+    },
+    {
+      "term":"vocable",
+      "def":"able to be uttered"
+    },
+    {
+      "term":"vociferous",
+      "def":"crying out noisily"
+    },
+    {
+      "term":"volant",
+      "def":"having extended wings as if flying"
+    },
+    {
+      "term":"volatile",
+      "def":"tending or threatening to break out into open violence"
+    },
+    {
+      "term":"voluble",
+      "def":"characterised by a ready and continuous flow of words"
+    },
+    {
+      "term":"voluminous",
+      "def":"of great size or extent"
+    },
+    {
+      "term":"voluptuous",
+      "def":"suggestive of or characterized by full, generous sensation"
+    },
+    {
+      "term":"voracious",
+      "def":"craving or consuming large quantities of food"
+    },
+    {
+      "term":"votive",
+      "def":"dedicated or given in fulfillment of a vow or pledge"
+    },
+    {
+      "term":"vulnerable",
+      "def":"capable of or susceptible to being hurt or wounded"
+    },
+    {
+      "term":"waggish",
+      "def":"roguish in merriment and good humor"
+    },
+    {
+      "term":"wanton",
+      "def":"deliberate and without motive or provocation"
+    },
+    {
+      "term":"warlike",
+      "def":"hostile and belligerent"
+    },
+    {
+      "term":"wary",
+      "def":"watchful, being on one's guard against danger"
+    },
+    {
+      "term":"wearisome",
+      "def":"tiresome, tedious or causing fatigue"
+    },
+    {
+      "term":"weighty",
+      "def":"having weight, heavy, ponderous, as, a weighty body"
+    },
+    {
+      "term":"whimsical",
+      "def":"given to whimsy or fanciful notions"
+    },
+    {
+      "term":"willful",
+      "def":"deliberate, voluntary or intentional"
+    },
+    {
+      "term":"wily",
+      "def":"sly, cunning, full of tricks"
+    },
+    {
+      "term":"winsome",
+      "def":"sweetly or innocently charming"
+    },
+    {
+      "term":"wintry",
+      "def":"suggestive or characteristic of winter, cold, stormy"
+    },
+    {
+      "term":"wiry",
+      "def":"thin, muscular and flexible"
+    },
+    {
+      "term":"wispy",
+      "def":" like a slender, flexible strand or bundle"
+    },
+    {
+      "term":"wistful",
+      "def":"full of yearning or longing"
+    },
+    {
+      "term":"witty",
+      "def":"amusingly clever in perception and expression"
+    },
+    {
+      "term":"wizened",
+      "def":"withered, shriveled"
+    },
+    {
+      "term":"wry",
+      "def":"produced by a lopsidedness of the facial features"
+    },
+    {
+      "term":"yielding",
+      "def":"inclined to give in"
+    },
+    {
+      "term":"zany",
+      "def":"ludicrously or incongruously comical"
+    },
+    {
+      "term":"zealous",
+      "def":"ardently devoted or diligent"
+    },
+    {
+      "term":"zodiacal",
+      "def":"of or pertaining to the zodiac"
+    }
+  ]
+}

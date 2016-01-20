@@ -1,0 +1,6228 @@
+{
+  "verbs":[
+    {
+      "term":"abash",
+      "def":"to make ashamed"
+    },
+    {
+      "term":"abate",
+      "def":"to put an end to"
+    },
+    {
+      "term":"abbreviate",
+      "def":"to make shorter"
+    },
+    {
+      "term":"abdicate",
+      "def":"to surrender, renounce or relinquish"
+    },
+    {
+      "term":"abduct",
+      "def":"to take away secretly by force"
+    },
+    {
+      "term":"abed",
+      "def":"in bed"
+    },
+    {
+      "term":"aberrant",
+      "def":"straying from the right or normal way"
+    },
+    {
+      "term":"abet",
+      "def":"to assist or encourage by aid, especially in crime"
+    },
+    {
+      "term":"abhor",
+      "def":"to loath"
+    },
+    {
+      "term":"abide",
+      "def":"to wait for"
+    },
+    {
+      "term":"abject",
+      "def":"to cast off or down, to abase"
+    },
+    {
+      "term":"abjure",
+      "def":"to renounce upon oath"
+    },
+    {
+      "term":"abnegate",
+      "def":"to deny (oneself something)"
+    },
+    {
+      "term":"abort",
+      "def":"to miscarry, to bring forth something prematurely"
+    },
+    {
+      "term":"abound",
+      "def":"to be plentiful, to be very prevalent, to overflow"
+    },
+    {
+      "term":"abrade",
+      "def":"to rub or wear away"
+    },
+    {
+      "term":"abridge",
+      "def":"to shorten in duration"
+    },
+    {
+      "term":"abrogate",
+      "def":"to abolish by authoritative action"
+    },
+    {
+      "term":"abscess",
+      "def":"to form such a collection of pus"
+    },
+    {
+      "term":"abscond",
+      "def":"to depart secretly"
+    },
+    {
+      "term":"absolve",
+      "def":"to set free from an obligation"
+    },
+    {
+      "term":"abstain",
+      "def":"refrain from (something)"
+    },
+    {
+      "term":"abstract",
+      "def":"to separate, to remove, to take away"
+    },
+    {
+      "term":"abut",
+      "def":"to touch by means of a mutual border, to meet"
+    },
+    {
+      "term":"accede",
+      "def":"(obsolete) to approach, to arrive, to come forward"
+    },
+    {
+      "term":"accentuate",
+      "def":"to pronounce with an accent or vocal stress"
+    },
+    {
+      "term":"access",
+      "def":"to gain or obtain access to"
+    },
+    {
+      "term":"accession",
+      "def":"to make a record of (additions to a collection)"
+    },
+    {
+      "term":"acclaim",
+      "def":"applaud"
+    },
+    {
+      "term":"acclimate",
+      "def":"to habituate to a climate not native"
+    },
+    {
+      "term":"accolade",
+      "def":"to embrace or kiss in salutation"
+    },
+    {
+      "term":"accommodate",
+      "def":"to adapt, as, to accommodate ourselves to circumstances"
+    },
+    {
+      "term":"accompany",
+      "def":"to perform an accompanying part or parts in a composition"
+    },
+    {
+      "term":"accomplish",
+      "def":"to finish successfully"
+    },
+    {
+      "term":"accord",
+      "def":"to make to agree or correspond, to suit one thing to another"
+    },
+    {
+      "term":"accordion",
+      "def":"to fold up, in the manner of an accordion"
+    },
+    {
+      "term":"accost",
+      "def":"to approach and speak to boldly or aggressively"
+    },
+    {
+      "term":"account",
+      "def":"to compute, to count"
+    },
+    {
+      "term":"accouter",
+      "def":"to furnish with dress or equipments"
+    },
+    {
+      "term":"accredit",
+      "def":"to put or bring into credit, to invest with credit"
+    },
+    {
+      "term":"accrue",
+      "def":"to happen or result as a natural growth, addition"
+    },
+    {
+      "term":"accumulate",
+      "def":"to heap up in a mass, to collect"
+    },
+    {
+      "term":"accurse",
+      "def":"to devote to destruction"
+    },
+    {
+      "term":"accuse",
+      "def":"to find fault with, to blame"
+    },
+    {
+      "term":"accustom",
+      "def":"to make familiar by use, to cause to accept"
+    },
+    {
+      "term":"acknowledge",
+      "def":"to admit the knowledge of, to recognize as a fact or truth"
+    },
+    {
+      "term":"acquaint",
+      "def":"to make familiar"
+    },
+    {
+      "term":"acquiesce",
+      "def":"to rest satisfied"
+    },
+    {
+      "term":"acquire",
+      "def":"to get"
+    },
+    {
+      "term":"acquit",
+      "def":"to declare or find not guilty, innocent"
+    },
+    {
+      "term":"adapt",
+      "def":"to make suitable, to make to correspond, to fit or suit"
+    },
+    {
+      "term":"addle",
+      "def":"to make or become confused"
+    },
+    {
+      "term":"adduce",
+      "def":"to cite (as proof)"
+    },
+    {
+      "term":"adhere",
+      "def":"to stick fast or cleave, to become joined or united"
+    },
+    {
+      "term":"adjourn",
+      "def":"to postpone"
+    },
+    {
+      "term":"adjudge",
+      "def":"to declare to be"
+    },
+    {
+      "term":"adjudicate",
+      "def":"to settle a legal case or other dispute"
+    },
+    {
+      "term":"admonish",
+      "def":"to warn of a fault, to reprove gently, but seriously"
+    },
+    {
+      "term":"adorn",
+      "def":"to decorate"
+    },
+    {
+      "term":"adulterate",
+      "def":"to make impure by adding improper, or inferior ingredients"
+    },
+    {
+      "term":"adumbrate",
+      "def":"to foreshadow vaguely"
+    },
+    {
+      "term":"advert",
+      "def":"to turn attention"
+    },
+    {
+      "term":"advocate",
+      "def":"to speak in favor of"
+    },
+    {
+      "term":"affect",
+      "def":"to influence or alter"
+    },
+    {
+      "term":"affiliate",
+      "def":"to adopt, to receive into a family as a son, to ally"
+    },
+    {
+      "term":"affix",
+      "def":"to attach"
+    },
+    {
+      "term":"afflict",
+      "def":"to distress with mental/bodily pain"
+    },
+    {
+      "term":"affront",
+      "def":"to insult intentionally, especially openly"
+    },
+    {
+      "term":"agglomerate",
+      "def":"to wind or collect into a ball,  to gather into a mass"
+    },
+    {
+      "term":"aggrandize",
+      "def":"to widen in scope"
+    },
+    {
+      "term":"aggravate",
+      "def":"to make worse, or more severe"
+    },
+    {
+      "term":"aggregate",
+      "def":"to bring together, to collect into a mass or sum"
+    },
+    {
+      "term":"aggress",
+      "def":"to set upon, to attack"
+    },
+    {
+      "term":"aggrieve",
+      "def":"to give pain or sorrow to, to afflict, to oppress"
+    },
+    {
+      "term":"agitate",
+      "def":"to move with a violent, irregular action"
+    },
+    {
+      "term":"alienate",
+      "def":"to make indifferent or hostile"
+    },
+    {
+      "term":"allay",
+      "def":"to make quiet or put at rest, to pacify or appease"
+    },
+    {
+      "term":"allege",
+      "def":"to assert without proof"
+    },
+    {
+      "term":"alleviate",
+      "def":"to make easier to endure, lessen"
+    },
+    {
+      "term":"allocate",
+      "def":"to assign or plot"
+    },
+    {
+      "term":"allot",
+      "def":"to distribute by lot"
+    },
+    {
+      "term":"alloy",
+      "def":"to mix"
+    },
+    {
+      "term":"allude",
+      "def":"to refer casually or indirectly"
+    },
+    {
+      "term":"allure",
+      "def":"to invite by something flattering or acceptable, to entice"
+    },
+    {
+      "term":"ally",
+      "def":"to unite, or form a connection between"
+    },
+    {
+      "term":"alter",
+      "def":"to change the form or structure of"
+    },
+    {
+      "term":"altercate",
+      "def":"to argue, quarrel or wrangle with someone"
+    },
+    {
+      "term":"alternate",
+      "def":"to perform by turns or in succession, interchange regularly"
+    },
+    {
+      "term":"amalgamate",
+      "def":"blend, merge"
+    },
+    {
+      "term":"amass",
+      "def":"to collect into a mass or heap"
+    },
+    {
+      "term":"ambulate",
+      "def":"to relocate one's self under the power of one's own legs "
+    },
+    {
+      "term":"ambush",
+      "def":"to act of lying in concealment as to attack by surprise"
+    },
+    {
+      "term":"ameliorate",
+      "def":"to make or become better, to improve"
+    },
+    {
+      "term":"amend",
+      "def":"to make better, to change"
+    },
+    {
+      "term":"amnesty",
+      "def":"to grant a pardon (to a group)"
+    },
+    {
+      "term":"amputate",
+      "def":"to surgically remove a part of the body, especially a limb"
+    },
+    {
+      "term":"analyze",
+      "def":"to subject to analysis"
+    },
+    {
+      "term":"anguish",
+      "def":"to suffer pain"
+    },
+    {
+      "term":"animate",
+      "def":"to impart motion or the appearance of motion to"
+    },
+    {
+      "term":"annex",
+      "def":"to add something to another, to incorporate into"
+    },
+    {
+      "term":"annihilate",
+      "def":"to reduce to nothing, to destroy, to eradicate"
+    },
+    {
+      "term":"annotate",
+      "def":"to add annotation"
+    },
+    {
+      "term":"annul",
+      "def":"to formally revoke the validity of"
+    },
+    {
+      "term":"anoint",
+      "def":"to rub or sprinkle on"
+    },
+    {
+      "term":"ante",
+      "def":"risks, stakes"
+    },
+    {
+      "term":"antecede",
+      "def":"to go before, to precede"
+    },
+    {
+      "term":"antedate",
+      "def":"to occur before an event or time, to predate"
+    },
+    {
+      "term":"antic",
+      "def":"a ludicrous or extravagant gesture"
+    },
+    {
+      "term":"antiquate",
+      "def":"to cause to become old or obsolete"
+    },
+    {
+      "term":"appease",
+      "def":"pacify or placate"
+    },
+    {
+      "term":"append",
+      "def":"to add as supplement or in addition"
+    },
+    {
+      "term":"appertain",
+      "def":"to relate to"
+    },
+    {
+      "term":"apportion",
+      "def":"to divide and distribute portions of a whole"
+    },
+    {
+      "term":"appraise",
+      "def":"to assess the value or quality of"
+    },
+    {
+      "term":"apprehend",
+      "def":"to take or seize, to take hold of"
+    },
+    {
+      "term":"apprise",
+      "def":"to notify, or to make aware, to inform"
+    },
+    {
+      "term":"arbitrate",
+      "def":"to judge, to umpire"
+    },
+    {
+      "term":"arouse",
+      "def":"to evoke or awaken a feeling, emotion or response"
+    },
+    {
+      "term":"arraign",
+      "def":"to officially charge someone in a court of law"
+    },
+    {
+      "term":"arrange",
+      "def":"to set up, to organize, especially in a positive manner"
+    },
+    {
+      "term":"arrogate",
+      "def":"assume, take or claim (something) without justification"
+    },
+    {
+      "term":"articulate",
+      "def":"express (an idea of feeling) fluently and coherently"
+    },
+    {
+      "term":"ascertain",
+      "def":"to find out definitely, to discover or establish "
+    },
+    {
+      "term":"ascribe",
+      "def":"to attribute a cause or characteristic to something"
+    },
+    {
+      "term":"aspire",
+      "def":"to hope or dream, especially towards a profession"
+    },
+    {
+      "term":"assail",
+      "def":"to make a concerted of violent attach on"
+    },
+    {
+      "term":"assassin",
+      "def":"to assassinate"
+    },
+    {
+      "term":"assay",
+      "def":"to examine or analyze"
+    },
+    {
+      "term":"assent",
+      "def":"to agree to, give approval to"
+    },
+    {
+      "term":"assert",
+      "def":"to state a fact or belief confidently and forcefully"
+    },
+    {
+      "term":"assess",
+      "def":"to determine, estimate or judge the value of, to evaluate"
+    },
+    {
+      "term":"asseverate",
+      "def":"to declare earnestly, seriously, or positively, to affirm"
+    },
+    {
+      "term":"assimilate",
+      "def":"to take in and incorporate as one's own"
+    },
+    {
+      "term":"assonate",
+      "def":"to correspond in (particularly vowel) sounds"
+    },
+    {
+      "term":"assuage",
+      "def":"make an unpleasant feeling less intense"
+    },
+    {
+      "term":"astound",
+      "def":"to overwhelm with amazement"
+    },
+    {
+      "term":"atone",
+      "def":"to make reparation, compensation, or amends, for an offence"
+    },
+    {
+      "term":"atrophy",
+      "def":"to wither or waste away"
+    },
+    {
+      "term":"attain",
+      "def":"to accomplish, to achieve"
+    },
+    {
+      "term":"attenuate",
+      "def":"to reduce in size, force, value, amount, or degree"
+    },
+    {
+      "term":"attest",
+      "def":"to affirm to be correct, true, or genuine"
+    },
+    {
+      "term":"attribute",
+      "def":"to ascribe (something) to a given cause, reason etc"
+    },
+    {
+      "term":"augment",
+      "def":"to make bigger"
+    },
+    {
+      "term":"augur",
+      "def":"to foretell events, to exhibit signs of future events"
+    },
+    {
+      "term":"avenge",
+      "def":"to vindicate by inflicting pain or evil on a wrongdoer"
+    },
+    {
+      "term":"aver",
+      "def":"to state or assert to be the case"
+    },
+    {
+      "term":"averse",
+      "def":"to turn away"
+    },
+    {
+      "term":"avert",
+      "def":"to turn aside or away"
+    },
+    {
+      "term":"avow",
+      "def":"assert or confess openly"
+    },
+    {
+      "term":"awaken",
+      "def":"to cause to become awake"
+    },
+    {
+      "term":"awe",
+      "def":"to inspire fear and reverence"
+    },
+    {
+      "term":"badger",
+      "def":"to pester, to annoy persistently"
+    },
+    {
+      "term":"baffle",
+      "def":"totally bewilder, confuse or perplex "
+    },
+    {
+      "term":"balk",
+      "def":"to pass over or by"
+    },
+    {
+      "term":"bandy",
+      "def":"to give and receive reciprocally, to exchange "
+    },
+    {
+      "term":"barrage",
+      "def":"to bombard someone with something"
+    },
+    {
+      "term":"bask",
+      "def":"to revel in, to lie exposed to warmth and light"
+    },
+    {
+      "term":"baste",
+      "def":"to sew with long, loose stitches"
+    },
+    {
+      "term":"batten",
+      "def":"to become better, improve in condition"
+    },
+    {
+      "term":"bawl",
+      "def":"to shout or utter in a loud and intense manner"
+    },
+    {
+      "term":"beam",
+      "def":"to emit beams of light, shine, radiate,"
+    },
+    {
+      "term":"beatify",
+      "def":"to make blissful"
+    },
+    {
+      "term":"becalm",
+      "def":"to make calm or still, make quiet, calm"
+    },
+    {
+      "term":"bedaub",
+      "def":"to smear upon, to soil"
+    },
+    {
+      "term":"bedeck",
+      "def":"to deck, ornament, or adorn, to grace"
+    },
+    {
+      "term":"bedraggle",
+      "def":"to make something wet and limp"
+    },
+    {
+      "term":"befog",
+      "def":"to envelop in fog"
+    },
+    {
+      "term":"befriend",
+      "def":"to make a friend of"
+    },
+    {
+      "term":"befuddle",
+      "def":"to perplex or confuse (someone)"
+    },
+    {
+      "term":"beget",
+      "def":"to cause, to produce"
+    },
+    {
+      "term":"begrudge",
+      "def":"to be reluctant"
+    },
+    {
+      "term":"beguile",
+      "def":"to deceive or delude craftily"
+    },
+    {
+      "term":"behest",
+      "def":"to promise, vow"
+    },
+    {
+      "term":"belabor",
+      "def":"to work at something more than necessary"
+    },
+    {
+      "term":"belay",
+      "def":"to surround, environ, enclose"
+    },
+    {
+      "term":"beleaguer",
+      "def":"to lay siege to"
+    },
+    {
+      "term":"belie",
+      "def":"to lie around, encompass"
+    },
+    {
+      "term":"bemoan",
+      "def":"to complain about, to dismay or worry about something"
+    },
+    {
+      "term":"bemuse",
+      "def":"to confuse or bewilder"
+    },
+    {
+      "term":"benefice",
+      "def":"to bestow a benefice upon"
+    },
+    {
+      "term":"benefit",
+      "def":"to be or to provide a benefit to"
+    },
+    {
+      "term":"bequeath",
+      "def":"to pass or to leave something over to someone else"
+    },
+    {
+      "term":"berate",
+      "def":"scold, chide"
+    },
+    {
+      "term":"bereave",
+      "def":"to deprive by or as if by violence, rob, strip"
+    },
+    {
+      "term":"berth",
+      "def":"to bring (a ship or vehicle) into its berth"
+    },
+    {
+      "term":"beseech",
+      "def":"to beg or implore"
+    },
+    {
+      "term":"beset",
+      "def":"to surround or hem in"
+    },
+    {
+      "term":"besmear",
+      "def":"to smear over, sully"
+    },
+    {
+      "term":"besmirch",
+      "def":"to make dirty, to soil"
+    },
+    {
+      "term":"bestow",
+      "def":"to lay up in store, deposit for safe keeping, stow, place"
+    },
+    {
+      "term":"bestrew",
+      "def":"to strew or scatter about, throw or drop here and there"
+    },
+    {
+      "term":"bestride",
+      "def":"to be astride something"
+    },
+    {
+      "term":"bethink",
+      "def":"to think about, to recollect"
+    },
+    {
+      "term":"betide",
+      "def":"to happen to"
+    },
+    {
+      "term":"betroth",
+      "def":"to promise to give in marriage"
+    },
+    {
+      "term":"bevel",
+      "def":"to give a canted edge to a surface"
+    },
+    {
+      "term":"bewilder",
+      "def":"to cause someone to become perplexed and confused"
+    },
+    {
+      "term":"bicker",
+      "def":"to quarrel in a tiresome, insulting manner"
+    },
+    {
+      "term":"bide",
+      "def":"(chiefly dialectal) to bear, to endure, to tolerate"
+    },
+    {
+      "term":"bifurcate",
+      "def":"to divide or fork into two channels or branches"
+    },
+    {
+      "term":"bilk",
+      "def":"to obtain money fraudulently"
+    },
+    {
+      "term":"billow",
+      "def":"present participle of billow"
+    },
+    {
+      "term":"bivouac",
+      "def":"to set up camp"
+    },
+    {
+      "term":"blanch",
+      "def":"to grow or become white"
+    },
+    {
+      "term":"blandish",
+      "def":"to persuade someone by using flattery, to cajole"
+    },
+    {
+      "term":"blare",
+      "def":"to make a loud sound"
+    },
+    {
+      "term":"blaspheme",
+      "def":"to speak against god or religious doctrine "
+    },
+    {
+      "term":"blazon",
+      "def":"to describe a coat of arms"
+    },
+    {
+      "term":"blemish",
+      "def":"spoil the appearance of"
+    },
+    {
+      "term":"blight",
+      "def":"to suffer blight"
+    },
+    {
+      "term":"bluff",
+      "def":"to mislead by a display of self-confidence or strength"
+    },
+    {
+      "term":"blunder",
+      "def":"to make a stupid mistake"
+    },
+    {
+      "term":"blurt",
+      "def":"to speak quickly or without thought"
+    },
+    {
+      "term":"bode",
+      "def":"to indicate by signs, as future events"
+    },
+    {
+      "term":"bolster",
+      "def":"to support or strengthen"
+    },
+    {
+      "term":"bomb",
+      "def":"to attack using one or more bombs, to bombard"
+    },
+    {
+      "term":"bombard",
+      "def":"to attack something with bombs or other missiles"
+    },
+    {
+      "term":"botanize",
+      "def":"to study plants or plant life"
+    },
+    {
+      "term":"bowdlerize",
+      "def":"to remove those parts of a text considered offensive, vulgar"
+    },
+    {
+      "term":"boycott",
+      "def":"to abstain, either as an individual or group"
+    },
+    {
+      "term":"brandish",
+      "def":"to move or swing a weapon back and forth"
+    },
+    {
+      "term":"bray",
+      "def":"of a donkey, to make it cry"
+    },
+    {
+      "term":"braze",
+      "def":"the joining together of two metal pieces without melting"
+    },
+    {
+      "term":"brigade",
+      "def":"to form troops into a brigade"
+    },
+    {
+      "term":"brine",
+      "def":"to preserve food in a salt solution"
+    },
+    {
+      "term":"bristle",
+      "def":"to be on one's guard or raise one's defenses"
+    },
+    {
+      "term":"broach",
+      "def":"to mention or suggest for the first time"
+    },
+    {
+      "term":"broadcast",
+      "def":"to transmit a message or signal via electronic means"
+    },
+    {
+      "term":"brogue",
+      "def":"to speak with an accent"
+    },
+    {
+      "term":"browbeat",
+      "def":"to bully in an intimidating, bossy, or supercilious way"
+    },
+    {
+      "term":"browse",
+      "def":"to casually look through in order to find items of interest"
+    },
+    {
+      "term":"bruit",
+      "def":"to spread, promulgate or disseminate a rumour, news etc"
+    },
+    {
+      "term":"buffoon",
+      "def":"to behave like a buffoon"
+    },
+    {
+      "term":"bulwark",
+      "def":"to fortify something with a wall or rampart"
+    },
+    {
+      "term":"bungle",
+      "def":"to botch up, bumble or incompetently perform a task"
+    },
+    {
+      "term":"burgeon",
+      "def":"begin to grow or increase rapidly"
+    },
+    {
+      "term":"burlesque",
+      "def":"to make a burlesque parody of"
+    },
+    {
+      "term":"burnish",
+      "def":"to make smooth or shiny by rubbing, to polish, to shine "
+    },
+    {
+      "term":"bustle",
+      "def":"to move busily and energetically with fussiness"
+    },
+    {
+      "term":"buttress",
+      "def":"to provide a structure with projecting supports"
+    },
+    {
+      "term":"cadge",
+      "def":"ask for or obtain something to which one is not entitled"
+    },
+    {
+      "term":"cajole",
+      "def":"persuade someone to do something by flattery or coaxing"
+    },
+    {
+      "term":"calibrate",
+      "def":"to check or adjust by comparison with a standard"
+    },
+    {
+      "term":"calumniate",
+      "def":"to make false and defamatory statements"
+    },
+    {
+      "term":"cameo",
+      "def":"a brief appearance of a prominent actor in a video"
+    },
+    {
+      "term":"campaign",
+      "def":"work in an organized and active way toward a particular goal"
+    },
+    {
+      "term":"canary",
+      "def":"to dance nimbly (as in the canary dance)"
+    },
+    {
+      "term":"cant",
+      "def":"to speak with the jargon of a class or subgroup"
+    },
+    {
+      "term":"canter",
+      "def":"to move at such pace"
+    },
+    {
+      "term":"canvas",
+      "def":"to cover an area or object"
+    },
+    {
+      "term":"capitulate",
+      "def":"to draw up in chapters, to enumerate"
+    },
+    {
+      "term":"captivate",
+      "def":"attract and hold interest and attention of, charm"
+    },
+    {
+      "term":"careen",
+      "def":"turn (a ship) of its side for cleaning or repair"
+    },
+    {
+      "term":"caricature",
+      "def":"to represent someone in an exaggerated or distorted manner"
+    },
+    {
+      "term":"carouse",
+      "def":"to engage in a noisy or drunken social gathering"
+    },
+    {
+      "term":"carp",
+      "def":"to complain about a fault, to harp on"
+    },
+    {
+      "term":"castigate",
+      "def":"to punish, reprimand someone severely"
+    },
+    {
+      "term":"catalogue",
+      "def":"a list or record, systematically arranged"
+    },
+    {
+      "term":"caterwaul",
+      "def":"to have a noisy argument"
+    },
+    {
+      "term":"caucus",
+      "def":"to hold or form such a group or meeting"
+    },
+    {
+      "term":"cauterize",
+      "def":"to burn, sear, or freeze tissue for curative purposes"
+    },
+    {
+      "term":"caveat",
+      "def":"to qualify a particular statement with a proviso or caveat"
+    },
+    {
+      "term":"cavil",
+      "def":"to make petty or unnecessary objections"
+    },
+    {
+      "term":"cavort",
+      "def":"to prance, said of mounts"
+    },
+    {
+      "term":"cede",
+      "def":"to give up, give way, give away"
+    },
+    {
+      "term":"censor",
+      "def":"to review in order to remove objectionable content"
+    },
+    {
+      "term":"censure",
+      "def":"to criticize harshly"
+    },
+    {
+      "term":"census",
+      "def":"survey"
+    },
+    {
+      "term":"chafe",
+      "def":"to wear or abrade by rubbing"
+    },
+    {
+      "term":"chaff",
+      "def":"to use light, idle language by way of fun or ridicule"
+    },
+    {
+      "term":"chagrin",
+      "def":"to bother or vex, to mortify"
+    },
+    {
+      "term":"chastise",
+      "def":"to punish or scold someone"
+    },
+    {
+      "term":"cherish",
+      "def":"to treat with tenderness and affection"
+    },
+    {
+      "term":"chide",
+      "def":"to scold or rebuke"
+    },
+    {
+      "term":"christen",
+      "def":"to perform the religious act of the baptism, to baptise"
+    },
+    {
+      "term":"chronicle",
+      "def":"a chronological record of important historical events"
+    },
+    {
+      "term":"circulate",
+      "def":"to move in circles or through a circuit"
+    },
+    {
+      "term":"circumnavigate",
+      "def":"to travel completely around somewhere or something"
+    },
+    {
+      "term":"circumscribe",
+      "def":"to restrict (something) within limits"
+    },
+    {
+      "term":"circumvent",
+      "def":"to overcome a difficulty, typically in a clever way"
+    },
+    {
+      "term":"cite",
+      "def":"to quote"
+    },
+    {
+      "term":"clamber",
+      "def":"to climb something with some difficulty"
+    },
+    {
+      "term":"clangour",
+      "def":"a loud, resonant sound, clang"
+    },
+    {
+      "term":"clarify",
+      "def":"to make clear or intelligible"
+    },
+    {
+      "term":"classify",
+      "def":"to identify by or divide into classes, to categorize"
+    },
+    {
+      "term":"cleave",
+      "def":"to split or sever something"
+    },
+    {
+      "term":"cloy",
+      "def":"to fill up or choke up, to stop up"
+    },
+    {
+      "term":"coagulate",
+      "def":"to become congealed"
+    },
+    {
+      "term":"coalesce",
+      "def":"to grow together or into one body"
+    },
+    {
+      "term":"coddle",
+      "def":"to treat in an indulgent or overprotective way"
+    },
+    {
+      "term":"coerce",
+      "def":"to persuade"
+    },
+    {
+      "term":"cogitate",
+      "def":"to meditate, to ponder, to think deeply"
+    },
+    {
+      "term":"cohere",
+      "def":"to stick together"
+    },
+    {
+      "term":"coiffure",
+      "def":"to style or arrange hair"
+    },
+    {
+      "term":"coincide",
+      "def":"to occupy exactly the same space"
+    },
+    {
+      "term":"collaborate",
+      "def":"to work together with others to achieve a common goal"
+    },
+    {
+      "term":"collapse",
+      "def":"to fall down suddenly, to cave in"
+    },
+    {
+      "term":"collate",
+      "def":"to gather pages in their proper sequence"
+    },
+    {
+      "term":"collide",
+      "def":"to impact directly, especially if violent"
+    },
+    {
+      "term":"commandeer",
+      "def":"to seize for military use"
+    },
+    {
+      "term":"commemorate",
+      "def":"to honour the memory of someone or something with a ceremony"
+    },
+    {
+      "term":"commend",
+      "def":"to praise formally or officially"
+    },
+    {
+      "term":"commingle",
+      "def":"to blend, to mix"
+    },
+    {
+      "term":"commiserate",
+      "def":"to feel or express compassion or sympathy for"
+    },
+    {
+      "term":"commission",
+      "def":"to send or officially charge someone to do something"
+    },
+    {
+      "term":"commute",
+      "def":"to travel from one's home to one's workplace"
+    },
+    {
+      "term":"compel",
+      "def":"(literally) to drive together, round up"
+    },
+    {
+      "term":"compensate",
+      "def":"to pay someone in exchange for work done, etc."
+    },
+    {
+      "term":"complement",
+      "def":"to complete, to bring to perfection, to make whole"
+    },
+    {
+      "term":"complex",
+      "def":"to form a complex with another substance"
+    },
+    {
+      "term":"complicate",
+      "def":"to make complex"
+    },
+    {
+      "term":"comport",
+      "def":"to tolerate, bear"
+    },
+    {
+      "term":"composed",
+      "def":"calm, tranquil, serene"
+    },
+    {
+      "term":"compound",
+      "def":"to come together"
+    },
+    {
+      "term":"compress",
+      "def":"to press or squeeze together"
+    },
+    {
+      "term":"comprise",
+      "def":"to consist of, being made up of"
+    },
+    {
+      "term":"compromise",
+      "def":"to bind by mutual agreement"
+    },
+    {
+      "term":"compute",
+      "def":"to reckon or calculate"
+    },
+    {
+      "term":"concatenate",
+      "def":"to join or link together, as though in a chain"
+    },
+    {
+      "term":"concede",
+      "def":"to yield or suffer, to surrender, to grant (a point)"
+    },
+    {
+      "term":"conceive",
+      "def":"to develop an idea"
+    },
+    {
+      "term":"conciliate",
+      "def":"make calm and content, placate"
+    },
+    {
+      "term":"concoct",
+      "def":"to create or devise"
+    },
+    {
+      "term":"concur",
+      "def":"to unite or agree, to have a common opinion"
+    },
+    {
+      "term":"condemn",
+      "def":"to sentence (someone) to a particular punishment"
+    },
+    {
+      "term":"condense",
+      "def":"to decrease size or volume by concentration"
+    },
+    {
+      "term":"condescend",
+      "def":"to stoop or deign to do something"
+    },
+    {
+      "term":"condescending",
+      "def":"showing patronizing descent from dignity orsuperiority"
+    },
+    {
+      "term":"condonance",
+      "def":"the overlooking or implied forgiving of an offense"
+    },
+    {
+      "term":"condone",
+      "def":"accept and allow (morally wrong or offensive behavior)"
+    },
+    {
+      "term":"conduce",
+      "def":"to contribute or lead to a specific result"
+    },
+    {
+      "term":"confederate",
+      "def":"joined by an agreement or treaty"
+    },
+    {
+      "term":"confer",
+      "def":"to discuss, exchange opinions"
+    },
+    {
+      "term":"confide",
+      "def":"to trust, have faith (in)"
+    },
+    {
+      "term":"confiscate",
+      "def":"to take or seize (someone's property) with authority"
+    },
+    {
+      "term":"conflate",
+      "def":"to bring things together and fuse them into a single entity"
+    },
+    {
+      "term":"conform",
+      "def":"to act in accordance with expectations"
+    },
+    {
+      "term":"confound",
+      "def":"to cause surprise or confusion in (someone)"
+    },
+    {
+      "term":"confront",
+      "def":"to stand or meet facing, to oppose, to challenge"
+    },
+    {
+      "term":"congeal",
+      "def":"to change from a liquid to solid state perhaps by cold"
+    },
+    {
+      "term":"congest",
+      "def":"to overfill or overcrowd"
+    },
+    {
+      "term":"congregate",
+      "def":"to collect into an assembly, to gather together"
+    },
+    {
+      "term":"conjecture",
+      "def":"speculation, to express an idea without proof"
+    },
+    {
+      "term":"conjoin",
+      "def":"to join, to combine"
+    },
+    {
+      "term":"conjugate",
+      "def":"to list the inflected forms of a verb for each person"
+    },
+    {
+      "term":"connive",
+      "def":"to cooperate with others secretly in order to commit a crime"
+    },
+    {
+      "term":"connote",
+      "def":"to signify beyond its literal or principal meaning"
+    },
+    {
+      "term":"conquer",
+      "def":"to defeat in combat, to subjugate"
+    },
+    {
+      "term":"conscript",
+      "def":"to enrol compulsorily, to draft"
+    },
+    {
+      "term":"consecrate",
+      "def":"to make or declare (something) sacred"
+    },
+    {
+      "term":"consign",
+      "def":"to transfer to the custody of  for sale, transport, etc."
+    },
+    {
+      "term":"console",
+      "def":"to comfort (someone) in a time of grief, disappointment, etc"
+    },
+    {
+      "term":"consolidate",
+      "def":"to combine into a single unit, to group together or join "
+    },
+    {
+      "term":"consort",
+      "def":"a wife, husband, or companion"
+    },
+    {
+      "term":"conspire",
+      "def":"to plot something unlawful or harmful"
+    },
+    {
+      "term":"constrain",
+      "def":"to force physically, to compel"
+    },
+    {
+      "term":"constrict",
+      "def":"to narrow, especially by applying pressure"
+    },
+    {
+      "term":"construe",
+      "def":"to interpret or explain the meaning of something"
+    },
+    {
+      "term":"consummate",
+      "def":"to bring to a state of perfectio, fulfill"
+    },
+    {
+      "term":"contaminate",
+      "def":"to introduce impurities or foreign matter"
+    },
+    {
+      "term":"contemplate",
+      "def":"to ponder or consider"
+    },
+    {
+      "term":"contend",
+      "def":"to strive in opposition, to contest, to dispute"
+    },
+    {
+      "term":"contort",
+      "def":"to twist in a violent manner"
+    },
+    {
+      "term":"contravene",
+      "def":"to act contrary to an order, or fail to conform"
+    },
+    {
+      "term":"contrive",
+      "def":"to form by an exercise of ingenuity, to devise, invent"
+    },
+    {
+      "term":"contuse",
+      "def":"to injure without breaking the skin, to bruise"
+    },
+    {
+      "term":"convalesce",
+      "def":"to recover health and strength gradually after sickness"
+    },
+    {
+      "term":"convene",
+      "def":"to come together, to meet, to unite"
+    },
+    {
+      "term":"converge",
+      "def":"of two or more entities, to approach each other"
+    },
+    {
+      "term":"convey",
+      "def":"to make an idea or feeling know or understandable"
+    },
+    {
+      "term":"convolve",
+      "def":"to roll or coil together, entwine"
+    },
+    {
+      "term":"convoy",
+      "def":"to escort a group of vehicles, and provide protection"
+    },
+    {
+      "term":"convulse",
+      "def":"to violently shake or agitate"
+    },
+    {
+      "term":"correlate",
+      "def":"to relate things having corresponding characteristics"
+    },
+    {
+      "term":"corroborate",
+      "def":"to confirm or give support to (a statement, etc.)"
+    },
+    {
+      "term":"corrode",
+      "def":"to eat away by degrees, to wear away or diminish gradually"
+    },
+    {
+      "term":"corrugate",
+      "def":"to draw or bend into folds or alternate furrows and ridges"
+    },
+    {
+      "term":"cosset",
+      "def":"to care for and protect in an overindulgent way"
+    },
+    {
+      "term":"counteract",
+      "def":"to act in opposition to, to hinder, defeat, or frustrate"
+    },
+    {
+      "term":"counterfeit",
+      "def":"to falsely produce what appears to be official or valid"
+    },
+    {
+      "term":"countermand",
+      "def":"to rescind by giving an order contrary to a previous one"
+    },
+    {
+      "term":"countervail",
+      "def":"to have the same value as"
+    },
+    {
+      "term":"course",
+      "def":"to run or flow, especially of liquids"
+    },
+    {
+      "term":"covet",
+      "def":"to yearn to possess or have (something)"
+    },
+    {
+      "term":"cower",
+      "def":"to crouch or cringe in fear"
+    },
+    {
+      "term":"cozen",
+      "def":"to cheat, deceive or trick"
+    },
+    {
+      "term":"crave",
+      "def":"to feel a powerful desire for (something)"
+    },
+    {
+      "term":"creak",
+      "def":"to make a prolonged sharp grating or squeaking sound"
+    },
+    {
+      "term":"cringe",
+      "def":"to bow or crouch in servility"
+    },
+    {
+      "term":"critique",
+      "def":"to give detailed analysis and assessment of something"
+    },
+    {
+      "term":"crusade",
+      "def":"to make a grand concerted effort toward some cause"
+    },
+    {
+      "term":"crystallize",
+      "def":"to make something form into crystals"
+    },
+    {
+      "term":"cull",
+      "def":"to pick or take someone or something (from a larger group)"
+    },
+    {
+      "term":"culminate",
+      "def":"to reach a climax or point of the highest development"
+    },
+    {
+      "term":"cultivate",
+      "def":"to prepare and use (land) for crops or gardening"
+    },
+    {
+      "term":"curtail",
+      "def":"to cut short"
+    },
+    {
+      "term":"dabble",
+      "def":"to work at anything in an irregular or superficial manner"
+    },
+    {
+      "term":"dare",
+      "def":"to have the courage to do something"
+    },
+    {
+      "term":"daunt",
+      "def":"to make (someone) feel intimidated or apprehensive"
+    },
+    {
+      "term":"dead-heat",
+      "def":"run of finish a race exactly even"
+    },
+    {
+      "term":"debase",
+      "def":"to reduce in quality or value"
+    },
+    {
+      "term":"debauch",
+      "def":"to morally corrupt someone, to seduce"
+    },
+    {
+      "term":"debilitate",
+      "def":"to make someone weak and infirm"
+    },
+    {
+      "term":"debunk",
+      "def":"to discredit, or expose the exaggerated claims of something"
+    },
+    {
+      "term":"debut",
+      "def":"to formally introduce, as to the public"
+    },
+    {
+      "term":"decamp",
+      "def":"to break up camp and move on"
+    },
+    {
+      "term":"decapitate",
+      "def":"to remove the head of"
+    },
+    {
+      "term":"deceive",
+      "def":"to trick or mislead"
+    },
+    {
+      "term":"decelerate",
+      "def":"to reduce speed, to slow down"
+    },
+    {
+      "term":"decimate",
+      "def":"to kill, destroy, or remove large percentages of"
+    },
+    {
+      "term":"decipher",
+      "def":"to succeed in understanding or interpreting"
+    },
+    {
+      "term":"decorate",
+      "def":"to furnish with ornaments"
+    },
+    {
+      "term":"decry",
+      "def":"to publicly denounce, to condemn"
+    },
+    {
+      "term":"deduce",
+      "def":"to reach a conclusion from something known or assumed"
+    },
+    {
+      "term":"deface",
+      "def":"to damage something in a visible or conspicuous manner"
+    },
+    {
+      "term":"defalcate",
+      "def":"to misappropriate funds, to embezzle"
+    },
+    {
+      "term":"defame",
+      "def":"to try to diminish the reputation of"
+    },
+    {
+      "term":"defer",
+      "def":"to delay, or put off to a future time"
+    },
+    {
+      "term":"defile",
+      "def":"to make impure, to make dirty"
+    },
+    {
+      "term":"deflect",
+      "def":"to make (something) deviate from its original path"
+    },
+    {
+      "term":"defoliate",
+      "def":"to remove foliage from one or more plants"
+    },
+    {
+      "term":"deforest",
+      "def":"to destroy or to fell all the trees of a forest"
+    },
+    {
+      "term":"deform",
+      "def":"to remove the form of"
+    },
+    {
+      "term":"defraud",
+      "def":"to obtain money or property by fraud, to swindle"
+    },
+    {
+      "term":"defray",
+      "def":"to spend (money)"
+    },
+    {
+      "term":"defuse",
+      "def":"to reduce the danger or tension in (a difficult situation)"
+    },
+    {
+      "term":"degrade",
+      "def":"to lower in value or social position"
+    },
+    {
+      "term":"dehydrate",
+      "def":"to lose or remove water, to dry"
+    },
+    {
+      "term":"deify",
+      "def":"to make a god of (something or someone)"
+    },
+    {
+      "term":"deign",
+      "def":"to condescend, to accept as appropriate to one's dignity"
+    },
+    {
+      "term":"deject",
+      "def":"make sad or dispirited"
+    },
+    {
+      "term":"delegate",
+      "def":"to entrust (a task or responsibility)"
+    },
+    {
+      "term":"deliberate",
+      "def":"to consider carefully"
+    },
+    {
+      "term":"delineate",
+      "def":"to describe or portray (something) precisely"
+    },
+    {
+      "term":"deliquesce",
+      "def":"to melt and disappear"
+    },
+    {
+      "term":"delude",
+      "def":"to deceive someone into believing something which is false"
+    },
+    {
+      "term":"deluge",
+      "def":"to flood with water"
+    },
+    {
+      "term":"demagnetize",
+      "def":"to remove the magnetic propreties of something"
+    },
+    {
+      "term":"demean",
+      "def":"to debase, to do something that is beneath one's dignity"
+    },
+    {
+      "term":"demobilize",
+      "def":"to release someone from military duty"
+    },
+    {
+      "term":"demolish",
+      "def":"to destroy, to full or knock down (a building)"
+    },
+    {
+      "term":"demonstrate",
+      "def":"clearly show the truth of (something) through proof"
+    },
+    {
+      "term":"demote",
+      "def":"to lower the rank or status of something"
+    },
+    {
+      "term":"demur",
+      "def":"to raise doubts or objections or show reluctance"
+    },
+    {
+      "term":"denigrate",
+      "def":"to criticize unfairly, to disparage"
+    },
+    {
+      "term":"denizen",
+      "def":"to grant rights of citizenship to, to naturalize"
+    },
+    {
+      "term":"denominate",
+      "def":"to call, to name"
+    },
+    {
+      "term":"denote",
+      "def":"to indicate, to mark"
+    },
+    {
+      "term":"denounce",
+      "def":"to publicly declare to be wrong or evil"
+    },
+    {
+      "term":"denude",
+      "def":"to divest of all covering, to make bare or naked, to strip"
+    },
+    {
+      "term":"deplete",
+      "def":"to decrease seriously or exhaust the supply of (something)"
+    },
+    {
+      "term":"deplore",
+      "def":"to bewail, to weep bitterly over, to feel sorrow for"
+    },
+    {
+      "term":"deploy",
+      "def":"to arrange (usually a military unit or units) for use"
+    },
+    {
+      "term":"depopulate",
+      "def":"to reduce the population of a region"
+    },
+    {
+      "term":"deport",
+      "def":"to expel someone from a country"
+    },
+    {
+      "term":"deprave",
+      "def":"to make morally bad or evil"
+    },
+    {
+      "term":"deprecate",
+      "def":"to belittle or express disapproval of"
+    },
+    {
+      "term":"depreciate",
+      "def":"to reduce in value over time"
+    },
+    {
+      "term":"depress",
+      "def":"to press down on"
+    },
+    {
+      "term":"deracinate",
+      "def":"to pull up by the roots, to uproot, to extirpate"
+    },
+    {
+      "term":"deride",
+      "def":"to harshly mock, ridicule"
+    },
+    {
+      "term":"derive",
+      "def":"to deduce (a conclusion) by reasoning"
+    },
+    {
+      "term":"descry",
+      "def":"to see by looking carefully"
+    },
+    {
+      "term":"desecrate",
+      "def":"to profane or violate the sacredness/sanctity of something"
+    },
+    {
+      "term":"desert",
+      "def":"to leave, to abandon, to forsake "
+    },
+    {
+      "term":"desiccate",
+      "def":"lacking interest, passion, or energy"
+    },
+    {
+      "term":"designate",
+      "def":"to mark out and make known, indicate"
+    },
+    {
+      "term":"desist",
+      "def":"to cease to proceed or act, to stop"
+    },
+    {
+      "term":"despair",
+      "def":"to give up as beyond hope or expectation, to despair of"
+    },
+    {
+      "term":"despond",
+      "def":"to give up the will, courage, or spirit"
+    },
+    {
+      "term":"deter",
+      "def":"to prevent something from happening"
+    },
+    {
+      "term":"deteriorate",
+      "def":"to make worse, to make inferior in quality or value"
+    },
+    {
+      "term":"detest",
+      "def":"to dislike intensely"
+    },
+    {
+      "term":"detonate",
+      "def":"to explode or cause to explode"
+    },
+    {
+      "term":"detract",
+      "def":"to take away, to withdraw or remove"
+    },
+    {
+      "term":"detrude",
+      "def":"to push downwards with force"
+    },
+    {
+      "term":"devastate",
+      "def":"to destroy or ruin (something)"
+    },
+    {
+      "term":"develop",
+      "def":"to grow or cause to grow and become more mature"
+    },
+    {
+      "term":"deviate",
+      "def":"to go off course from, to change course, to change plans"
+    },
+    {
+      "term":"devise",
+      "def":"to use one's intellect to plan or design (something)"
+    },
+    {
+      "term":"devitalize",
+      "def":"to deprive of vitality, make lifeless, weaken"
+    },
+    {
+      "term":"devour",
+      "def":"to eat (food or prey) hungrily or quickly"
+    },
+    {
+      "term":"diagnose",
+      "def":"to determine the root cause of (a disease)"
+    },
+    {
+      "term":"dictate",
+      "def":"to order, command, control"
+    },
+    {
+      "term":"diddle",
+      "def":"to cheat, swindle, hoax"
+    },
+    {
+      "term":"differentiate",
+      "def":"to show, or be the distinction between two things"
+    },
+    {
+      "term":"diffuse",
+      "def":"to pour out and spread, as liquid"
+    },
+    {
+      "term":"digress",
+      "def":" to deviate from the main subject in writing or speaking"
+    },
+    {
+      "term":"dilapidated",
+      "def":"fallen into partial ruin or decay, as from age or neglect"
+    },
+    {
+      "term":"dilate",
+      "def":"to enlarge, to make bigger"
+    },
+    {
+      "term":"dilute",
+      "def":"to make thinner by adding a liquid or solvent"
+    },
+    {
+      "term":"disabuse",
+      "def":"to persuade someone that an idea or belief is mistaken"
+    },
+    {
+      "term":"disadvise",
+      "def":"to advise against, to dissuade from"
+    },
+    {
+      "term":"disagree",
+      "def":"to not agree (harmonize)"
+    },
+    {
+      "term":"disallow",
+      "def":"to refuse to allow"
+    },
+    {
+      "term":"disapprove",
+      "def":"to condemn, consider wrong or inappropriate"
+    },
+    {
+      "term":"disarm",
+      "def":"to take away the weapons of, to render defenceless"
+    },
+    {
+      "term":"disarrange",
+      "def":"to undo the arrangement of, to disorder, to derange "
+    },
+    {
+      "term":"disarray",
+      "def":"to throw into disorder, to break the array of"
+    },
+    {
+      "term":"disavow",
+      "def":"to disown, to repudiate, to refuse to acknowledge"
+    },
+    {
+      "term":"disband",
+      "def":"cause (an organized group) to break up"
+    },
+    {
+      "term":"disburden",
+      "def":"to remove the load from a pack animal, unload a vehicle, etc"
+    },
+    {
+      "term":"disburse",
+      "def":"to pay out, expend, usually from a public fund or treasury"
+    },
+    {
+      "term":"discard",
+      "def":"to throw away, to reject"
+    },
+    {
+      "term":"discern",
+      "def":"to perceive or recognize (something)"
+    },
+    {
+      "term":"discipline",
+      "def":"to train someone by instruction and practice"
+    },
+    {
+      "term":"disclaim",
+      "def":"to renounce all claim to, to deny responsibility for"
+    },
+    {
+      "term":"disclose",
+      "def":"to open up, unfasten"
+    },
+    {
+      "term":"discolor",
+      "def":"to change or lose color"
+    },
+    {
+      "term":"discombobulate",
+      "def":"to disconcert or confuse (someone)"
+    },
+    {
+      "term":"discomfit",
+      "def":"to defeat completely, to rout"
+    },
+    {
+      "term":"discomfort",
+      "def":"to cause annoyance or distress"
+    },
+    {
+      "term":"disconcert",
+      "def":"to disturb the composure of, to unsettle"
+    },
+    {
+      "term":"disconnect",
+      "def":"to sever or interrupt a connection"
+    },
+    {
+      "term":"discountenance",
+      "def":"to have an unfavorable opinion of, to disapprove"
+    },
+    {
+      "term":"discourse",
+      "def":"to engage in discussion or conversation, to converse"
+    },
+    {
+      "term":"discover",
+      "def":"to remove the cover from, to uncover"
+    },
+    {
+      "term":"discredit",
+      "def":"to harm the good reputation of a person, to defame"
+    },
+    {
+      "term":"discriminate",
+      "def":"to recognize a distinction, to differentiate"
+    },
+    {
+      "term":"disdain",
+      "def":"to regard (someone or something) with strong contempt"
+    },
+    {
+      "term":"disencumber",
+      "def":"to remove a burden"
+    },
+    {
+      "term":"disenfranchise",
+      "def":"to deprive someone of a right of citizenship"
+    },
+    {
+      "term":"disengage",
+      "def":"to release or loosen from something that binds, unfasten"
+    },
+    {
+      "term":"disentangle",
+      "def":"to free something from entanglement, to extricate or unknot"
+    },
+    {
+      "term":"disfigure",
+      "def":"change the appearance of something/someone to the negative"
+    },
+    {
+      "term":"disgruntle",
+      "def":"to put into a bad mood or into bad humour"
+    },
+    {
+      "term":"dishearten",
+      "def":"to cause someone to lose confidence"
+    },
+    {
+      "term":"disillusion",
+      "def":"to free or deprive someone of idealism, belief, etc"
+    },
+    {
+      "term":"disinfect",
+      "def":"to sterilize by the use of cleaning agent such as bleach"
+    },
+    {
+      "term":"disinherit",
+      "def":"to exclude from inheritance, to disown"
+    },
+    {
+      "term":"disinter",
+      "def":"to dig up (something buries)"
+    },
+    {
+      "term":"dislocate",
+      "def":"to put something out of its usual place"
+    },
+    {
+      "term":"dislodge",
+      "def":"to remove or force out from a position previously occupied"
+    },
+    {
+      "term":"dismount",
+      "def":"to get off (something)"
+    },
+    {
+      "term":"disown",
+      "def":"to refuse to own or to refuse to acknowledge one’s own"
+    },
+    {
+      "term":"disparage",
+      "def":"to regard or represent as being of little worth"
+    },
+    {
+      "term":"dispatch",
+      "def":"to send a shipment with promptness"
+    },
+    {
+      "term":"dispel",
+      "def":"to drive away by scattering, or to cause to vanish"
+    },
+    {
+      "term":"disperse",
+      "def":"to scatter in different directions"
+    },
+    {
+      "term":"displace",
+      "def":"to move something/someone, especially forcibly from a home"
+    },
+    {
+      "term":"disposition",
+      "def":"to remove or place in a different position"
+    },
+    {
+      "term":"dispossess",
+      "def":"to deprive someone of the possession of land"
+    },
+    {
+      "term":"disqualify",
+      "def":"to deprive of qualification or fitness"
+    },
+    {
+      "term":"disquiet",
+      "def":"make (someone) worried or anxious"
+    },
+    {
+      "term":"disregard",
+      "def":"to ignore"
+    },
+    {
+      "term":"disrobe",
+      "def":"to undress someone or something"
+    },
+    {
+      "term":"disrupt",
+      "def":"to throw into confusion or disorder"
+    },
+    {
+      "term":"dissatisfy",
+      "def":"to fail to satisfy"
+    },
+    {
+      "term":"dissect",
+      "def":"to cut apart (something) to study its anatomy"
+    },
+    {
+      "term":"dissemble",
+      "def":"to disguise or conceal something, to feign"
+    },
+    {
+      "term":"disseminate",
+      "def":"to scatter or spread widely, broadcast"
+    },
+    {
+      "term":"dissent",
+      "def":"to differ in opinion"
+    },
+    {
+      "term":"dissever",
+      "def":"to separate, split apart"
+    },
+    {
+      "term":"dissimulate",
+      "def":"to disguise or conceal under a false appearance"
+    },
+    {
+      "term":"dissipate",
+      "def":"to drive away, disperse"
+    },
+    {
+      "term":"dissolve",
+      "def":"to make a solution of, by mixing with a liquid"
+    },
+    {
+      "term":"dissuade",
+      "def":"to convince not to try or do"
+    },
+    {
+      "term":"distemper",
+      "def":"to disturb and disorder, hence to make sick"
+    },
+    {
+      "term":"distend",
+      "def":"to extend or expand, as from internal pressure, to swell"
+    },
+    {
+      "term":"distill",
+      "def":"to make something (esp. a liquid) in this way"
+    },
+    {
+      "term":"distinguish",
+      "def":"to see someone or something as different from others"
+    },
+    {
+      "term":"distort",
+      "def":"to bring something out of shape"
+    },
+    {
+      "term":"distrain",
+      "def":"to squeeze, press, to constrain, oppress"
+    },
+    {
+      "term":"distrust",
+      "def":"to put no trust in, to have no confidence in"
+    },
+    {
+      "term":"dither",
+      "def":"to be uncertain or unable to make a decision about something"
+    },
+    {
+      "term":"divert",
+      "def":"to turn aside from a course"
+    },
+    {
+      "term":"divest",
+      "def":"to undress, disrobe"
+    },
+    {
+      "term":"divine",
+      "def":"to foretell (something), especially by the use of divination"
+    },
+    {
+      "term":"divulge",
+      "def":" to tell (a secret) so that it may become generally known"
+    },
+    {
+      "term":"doff",
+      "def":"to remove a hat as a greeting or mark of respect"
+    },
+    {
+      "term":"dogmatize",
+      "def":"to treat something as dogma"
+    },
+    {
+      "term":"dominate",
+      "def":"to govern, rule or control by superior authority or power"
+    },
+    {
+      "term":"domineer",
+      "def":"to rule over or control arbitrarily or arrogantly"
+    },
+    {
+      "term":"don",
+      "def":"to put on (clothes)"
+    },
+    {
+      "term":"dragoon",
+      "def":"to force someone into doing something, to coerce"
+    },
+    {
+      "term":"dramatize",
+      "def":"to adapt a literary work so that it can be performed"
+    },
+    {
+      "term":"drawl",
+      "def":"to speak in a slow, lazy way with prolonged vowel sounds"
+    },
+    {
+      "term":"drone",
+      "def":"to produce a low-pitched hum or buzz"
+    },
+    {
+      "term":"drub",
+      "def":"to hit or beat (someone) repeatedly, thrash"
+    },
+    {
+      "term":"dun",
+      "def":"to ask or beset a debtor for payment"
+    },
+    {
+      "term":"dupe",
+      "def":"to swindle, deceive, or trick"
+    },
+    {
+      "term":"duplex",
+      "def":"something having two parts"
+    },
+    {
+      "term":"dwindle",
+      "def":"to decrease, shrink, diminish, reduce in size"
+    },
+    {
+      "term":"economize",
+      "def":"to avoid waste or extravagance"
+    },
+    {
+      "term":"edify",
+      "def":"to instruct or improve (someone) morally or intellectually"
+    },
+    {
+      "term":"educe",
+      "def":"to draw out or bring out, elicit or evoke"
+    },
+    {
+      "term":"efface",
+      "def":"to erase (a mark) from the surface"
+    },
+    {
+      "term":"effeminate",
+      "def":"(of a man) showing traits regarded as typical of a woman"
+    },
+    {
+      "term":"effervesce",
+      "def":"to emit small bubbles of dissolved gas, to froth or fizz"
+    },
+    {
+      "term":"effuse",
+      "def":"to give (a liquid, light, smell, or quality)"
+    },
+    {
+      "term":"egress",
+      "def":"to exit or leave, to go or come out"
+    },
+    {
+      "term":"elaborate",
+      "def":"to give further detail or explanation (about)"
+    },
+    {
+      "term":"elapse",
+      "def":"to pass or move by"
+    },
+    {
+      "term":"electrotype",
+      "def":"to make such a plate"
+    },
+    {
+      "term":"elicit",
+      "def":"to evoke, obtain, or provoke as a response or answer"
+    },
+    {
+      "term":"eliminate",
+      "def":"to completely destroy (a thing) so that it no longer exists"
+    },
+    {
+      "term":"elucidate",
+      "def":"to make clear, to clarify, to shed light upon "
+    },
+    {
+      "term":"elude",
+      "def":"to evade, or escape from someone or something through skill"
+    },
+    {
+      "term":"emaciate",
+      "def":"to make extremely thin or wasted"
+    },
+    {
+      "term":"emanate",
+      "def":"to come from a source, stem out of"
+    },
+    {
+      "term":"emancipate",
+      "def":"to set free from the power of another, to liberate, as:"
+    },
+    {
+      "term":"embark",
+      "def":"to get on a boat or ship or (outside the usa) an aeroplane"
+    },
+    {
+      "term":"embarrass",
+      "def":"to cause confusion and shame to, disconcert, abash"
+    },
+    {
+      "term":"embellish",
+      "def":"to make something more entertaining by adding extra details"
+    },
+    {
+      "term":"embezzle",
+      "def":"to steal or misappropriate money one has been trusted with"
+    },
+    {
+      "term":"emblazon",
+      "def":"to adorn with prominent markings"
+    },
+    {
+      "term":"embody",
+      "def":"to represent in a physical form, to incarnate or personify"
+    },
+    {
+      "term":"embolden",
+      "def":"to render (someone) more bold or courageous"
+    },
+    {
+      "term":"embroil",
+      "def":"to draw into a situation, to cause to be involved "
+    },
+    {
+      "term":"emend",
+      "def":"make corrections and improvements to a text"
+    },
+    {
+      "term":"emerge",
+      "def":"to come into view"
+    },
+    {
+      "term":"emigrate",
+      "def":"to leave the country in which one lives and settle elsewhere"
+    },
+    {
+      "term":"emit",
+      "def":"to send out or give off"
+    },
+    {
+      "term":"emote",
+      "def":"to display emotions openly, especially while acting"
+    },
+    {
+      "term":"emphasize",
+      "def":"to stress, give emphasis or extra weight to (something)"
+    },
+    {
+      "term":"empower",
+      "def":"to give permission or power to do something"
+    },
+    {
+      "term":"emulate",
+      "def":"to match or surpass (a person or achievement) by imitation"
+    },
+    {
+      "term":"enact",
+      "def":"to make (a bill) into law"
+    },
+    {
+      "term":"enamor",
+      "def":"to attract, to capture"
+    },
+    {
+      "term":"encamp",
+      "def":"to build and/or inhabit a camp or temporary shelter"
+    },
+    {
+      "term":"encapsulate",
+      "def":"to cover something as if in a capsule"
+    },
+    {
+      "term":"encipher",
+      "def":"convert (a message or piece of text) into a coded form; encrypt"
+    },
+    {
+      "term":"encompass",
+      "def":"to form a circle around, to encircle"
+    },
+    {
+      "term":"encore",
+      "def":"to call for an extra performance or repetition"
+    },
+    {
+      "term":"encourage",
+      "def":"to mentally support, to motivate, give courage"
+    },
+    {
+      "term":"encroach",
+      "def":"to advance gradually and in a way that causes damage"
+    },
+    {
+      "term":"encumber",
+      "def":"to load down something with a burden"
+    },
+    {
+      "term":"endanger",
+      "def":"to expose to danger, to risk causing harm to"
+    },
+    {
+      "term":"endear",
+      "def":"to make dear or precious"
+    },
+    {
+      "term":"endearing",
+      "def":"tending to make dear or beloved"
+    },
+    {
+      "term":"endeavor",
+      "def":"to attempt through application of effort"
+    },
+    {
+      "term":"endorse",
+      "def":"to support or give one's approval to, especially officially"
+    },
+    {
+      "term":"endow",
+      "def":"to furnish, as with some talent, faculty, or quality"
+    },
+    {
+      "term":"endue",
+      "def":"to invest or endow with some gift, quality, or faculty"
+    },
+    {
+      "term":"endure",
+      "def":"to hold out against, sustain without impairment or yielding"
+    },
+    {
+      "term":"enduring",
+      "def":"lasting, permanent, present participle of endure"
+    },
+    {
+      "term":"enervate",
+      "def":"to deprive of force or strength, weaken"
+    },
+    {
+      "term":"enfeeble",
+      "def":"to make feeble, to weaken"
+    },
+    {
+      "term":"enfranchise",
+      "def":"to admit to citizenship, especially to grant voting rights"
+    },
+    {
+      "term":"engage",
+      "def":"to occupy the attention or efforts"
+    },
+    {
+      "term":"engender",
+      "def":"to produce, cause, or give rise to"
+    },
+    {
+      "term":"engrave",
+      "def":"to carve text or symbols into (something)"
+    },
+    {
+      "term":"engross",
+      "def":"to occupy completely, as the mind or attention"
+    },
+    {
+      "term":"engulf",
+      "def":"to overwhelm"
+    },
+    {
+      "term":"enhance",
+      "def":"to raise to a higher degree, intensify, magnify"
+    },
+    {
+      "term":"enjoin",
+      "def":"to lay upon, as an order or command, to order, to charge"
+    },
+    {
+      "term":"enkindle",
+      "def":"to kindle, to arouse or evoke"
+    },
+    {
+      "term":"enlighten",
+      "def":"to supply with light, to illuminate"
+    },
+    {
+      "term":"enlist",
+      "def":"to join a cause or organization, especially military"
+    },
+    {
+      "term":"ennoble",
+      "def":"to bestow with nobility, honour or grace"
+    },
+    {
+      "term":"enrage",
+      "def":"to fill with rage, to provoke to frenzy or madness"
+    },
+    {
+      "term":"enrapture",
+      "def":"to fill with great delight or joy, to fascinate"
+    },
+    {
+      "term":"ensconce",
+      "def":"to place in a secure environment"
+    },
+    {
+      "term":"enshrine",
+      "def":"to enclose (a sacred relic etc ) in a shrine or chest"
+    },
+    {
+      "term":"enshroud",
+      "def":"to cover with (or as if with) a shroud"
+    },
+    {
+      "term":"ensnare",
+      "def":"to entrap, to catch in a snare or trap"
+    },
+    {
+      "term":"entail",
+      "def":"to imply or require"
+    },
+    {
+      "term":"entangle",
+      "def":"to twist in such a manner as not to be easily separated"
+    },
+    {
+      "term":"enthrall",
+      "def":"to captivate or charm"
+    },
+    {
+      "term":"enthrone",
+      "def":"to invest with sovereign or episcopal authority"
+    },
+    {
+      "term":"enthuse",
+      "def":"to cause (someone) to feel enthusiasm or to be enthusiastic"
+    },
+    {
+      "term":"entice",
+      "def":"to lure, to attract by arousing desire or hope"
+    },
+    {
+      "term":"entreat",
+      "def":"to treat, or conduct toward, to deal with, to use"
+    },
+    {
+      "term":"entrench",
+      "def":"to place in a position of strength, establish firmly"
+    },
+    {
+      "term":"entwine",
+      "def":"to twist or twine around something (or one another)"
+    },
+    {
+      "term":"enunciate",
+      "def":"to make a definite or systematic statement of"
+    },
+    {
+      "term":"envenom",
+      "def":"to make poisonous"
+    },
+    {
+      "term":"epitomize",
+      "def":"to serve as a typical example of, typify"
+    },
+    {
+      "term":"equalize",
+      "def":"to make equal"
+    },
+    {
+      "term":"equivocate",
+      "def":"to use unclear expressions, usually in order to mislead"
+    },
+    {
+      "term":"eradicate",
+      "def":"to remove or destroy utterly"
+    },
+    {
+      "term":"erode",
+      "def":"to wear away by abrasion, corrosion or chemical reaction"
+    },
+    {
+      "term":"err",
+      "def":"to make a mistake"
+    },
+    {
+      "term":"escalate",
+      "def":"to increase (something) in extent or intensity, intensify"
+    },
+    {
+      "term":"eschew",
+      "def":"to abstain or keep away from, shun, avoid"
+    },
+    {
+      "term":"espouse",
+      "def":"to make one's own, adopt or embrace, as a cause"
+    },
+    {
+      "term":"espy",
+      "def":"to catch sight or, to perceive with the eyes, to discover"
+    },
+    {
+      "term":"esquire",
+      "def":"to attend, wait on, escort"
+    },
+    {
+      "term":"esteem",
+      "def":"to regard someone with respect"
+    },
+    {
+      "term":"estrange",
+      "def":"to cause to feel less close or friendly, alienate"
+    },
+    {
+      "term":"eulogize",
+      "def":"to praise or pay homage to, especially in a formal eulogy"
+    },
+    {
+      "term":"evacuate",
+      "def":"to leave or withdraw from"
+    },
+    {
+      "term":"evade",
+      "def":"to get away from by artifice, to avoid by dexterity"
+    },
+    {
+      "term":"evanesce",
+      "def":"to disappear into a mist or dissipate in vapor"
+    },
+    {
+      "term":"evanescence",
+      "def":"to disappear gradually, vanish, fade away"
+    },
+    {
+      "term":"evert",
+      "def":"to turn inside out"
+    },
+    {
+      "term":"evict",
+      "def":"to expel (one or more people) from their property"
+    },
+    {
+      "term":"evince",
+      "def":"to show or demonstrate clearly, to manifest"
+    },
+    {
+      "term":"evoke",
+      "def":"to cause a thing to manifest in someone's mind"
+    },
+    {
+      "term":"evolve",
+      "def":"to develop gradually"
+    },
+    {
+      "term":"exacerbate",
+      "def":"to increase the severity, bitterness, or violence of"
+    },
+    {
+      "term":"exacting",
+      "def":"rigid or severe in demands or requirements"
+    },
+    {
+      "term":"exaggerate",
+      "def":"to overstate, to describe more than is fact "
+    },
+    {
+      "term":"exalt",
+      "def":"to raise in rank, honor, power, character, quality"
+    },
+    {
+      "term":"exasperate",
+      "def":"to irritate or provoke to a high degree, annoy extremely"
+    },
+    {
+      "term":"excavate",
+      "def":"to make a hole in (something), to hollow"
+    },
+    {
+      "term":"exceed",
+      "def":"to be larger, greater than (something)"
+    },
+    {
+      "term":"excel",
+      "def":"to be better or do better than someone or something"
+    },
+    {
+      "term":"excoriate",
+      "def":"to denounce or berate severely"
+    },
+    {
+      "term":"excruciate",
+      "def":"to inflict intense pain on (someone), to torture"
+    },
+    {
+      "term":"exculpate",
+      "def":"to clear from a charge of guilt or fault,vindicate"
+    },
+    {
+      "term":"exemplify",
+      "def":"to show or illustrate by example"
+    },
+    {
+      "term":"exempt",
+      "def":"to grant (someone) freedom or immunity from"
+    },
+    {
+      "term":"exert",
+      "def":"to put in vigorous action"
+    },
+    {
+      "term":"exhale",
+      "def":"to expel air from the lungs"
+    },
+    {
+      "term":"exhilarate",
+      "def":"to enliven, invigorate, stimulate"
+    },
+    {
+      "term":"exhort",
+      "def":"to urge, advise, or caution earnestly, admonish urgently"
+    },
+    {
+      "term":"exhume",
+      "def":"to dig out of the ground, to take out of a place of burial"
+    },
+    {
+      "term":"exonerate",
+      "def":"to relieve (someone or something) of a load, to unburden"
+    },
+    {
+      "term":"exorcise",
+      "def":"to drive out an evil spirit from a person, place or thing"
+    },
+    {
+      "term":"expand",
+      "def":"to change from a smaller size to a larger one"
+    },
+    {
+      "term":"expatiate",
+      "def":"to range at large, or without restraint"
+    },
+    {
+      "term":"expectorate",
+      "def":"to cough up fluid from the lungs"
+    },
+    {
+      "term":"expedite",
+      "def":"to accelerate the progress of"
+    },
+    {
+      "term":"expend",
+      "def":"to consume or exhaust some resource"
+    },
+    {
+      "term":"expiate",
+      "def":"to atone or make reparation for"
+    },
+    {
+      "term":"explicate",
+      "def":"to explain meticulously or in great detail, to analyze"
+    },
+    {
+      "term":"exploit",
+      "def":"to use for one’s own advantage"
+    },
+    {
+      "term":"expostulate",
+      "def":"to protest or remonstrate"
+    },
+    {
+      "term":"expound",
+      "def":"to set forth or state in detail"
+    },
+    {
+      "term":"expurgate",
+      "def":"to edit out incorrect, or otherwise undesirable information"
+    },
+    {
+      "term":"extenuate",
+      "def":"to represent (a fault, offense, etc ) as less serious"
+    },
+    {
+      "term":"extinguish",
+      "def":"to put out, as in fire, to end burning, to quench"
+    },
+    {
+      "term":"extirpate",
+      "def":"to remove or destroy totally, do away with, exterminate"
+    },
+    {
+      "term":"extol",
+      "def":"to praise highly, laud, eulogize"
+    },
+    {
+      "term":"extort",
+      "def":"to take by illegal exercise of power or ingenuity"
+    },
+    {
+      "term":"extradite",
+      "def":"to move a person from one state to another by legal process"
+    },
+    {
+      "term":"extrapolate",
+      "def":"to infer (an unknown) from something that is known"
+    },
+    {
+      "term":"extricate",
+      "def":"to free, disengage, loosen, or untangle"
+    },
+    {
+      "term":"extrude",
+      "def":"to push or thrust out"
+    },
+    {
+      "term":"exude",
+      "def":"to discharge through pores, to emit, to give out"
+    },
+    {
+      "term":"exult",
+      "def":"to rejoice, be very happy"
+    },
+    {
+      "term":"fabricate",
+      "def":"to form into a whole by uniting its parts, to construct"
+    },
+    {
+      "term":"facet",
+      "def":"one of the small, polished plane surfaces of a cut gem"
+    },
+    {
+      "term":"facilitate",
+      "def":"to make easy or easier"
+    },
+    {
+      "term":"facsimile",
+      "def":"to send via a facsimile machine, normally spoken as “fax”"
+    },
+    {
+      "term":"fallow",
+      "def":"to make land fallow for agricultural purposes"
+    },
+    {
+      "term":"falter",
+      "def":"to waver or be unsteady"
+    },
+    {
+      "term":"famish",
+      "def":"to suffer or cause to suffer extreme hunger, starve"
+    },
+    {
+      "term":"fathom",
+      "def":"to penetrate to the truth of, comprehend, understand"
+    },
+    {
+      "term":"fawn",
+      "def":"to exhibit affection or attempt to please"
+    },
+    {
+      "term":"federate",
+      "def":"to unite in a federation"
+    },
+    {
+      "term":"feign",
+      "def":"to represent by a false appearance of, to pretend"
+    },
+    {
+      "term":"feint",
+      "def":"a movement made in order to deceive an adversary"
+    },
+    {
+      "term":"felicitate",
+      "def":"to congratulate, to compliment upon a happy event"
+    },
+    {
+      "term":"fertilize",
+      "def":"to make (the soil) more fertile by adding nutrients to it"
+    },
+    {
+      "term":"fete",
+      "def":"to celebrate (a person)"
+    },
+    {
+      "term":"fetter",
+      "def":"to shackle or bind up with fetters"
+    },
+    {
+      "term":"fidget",
+      "def":"to wiggle or twitch, to move around nervously or idly"
+    },
+    {
+      "term":"filch",
+      "def":"to steal, to illegally take possession of"
+    },
+    {
+      "term":"filibuster",
+      "def":"to force a decision"
+    },
+    {
+      "term":"finesse",
+      "def":"extreme delicacy or subtlety in action, performance, etc"
+    },
+    {
+      "term":"fission",
+      "def":"the act of cleaving or splitting into parts"
+    },
+    {
+      "term":"fixture",
+      "def":"to furnish with, as, or in a fixture"
+    },
+    {
+      "term":"flabbergasted",
+      "def":"simple past tense and past participle of flabbergast"
+    },
+    {
+      "term":"flaunt",
+      "def":"to parade, display with ostentation"
+    },
+    {
+      "term":"fleeting",
+      "def":"passing swiftly, vanishing quickly, transient, transitory"
+    },
+    {
+      "term":"flinch",
+      "def":"to make an involuntary movement in response to stimulus"
+    },
+    {
+      "term":"flourish",
+      "def":"to thrive or grow well"
+    },
+    {
+      "term":"flout",
+      "def":"to treat with disdain, scorn, or contempt, scoff at, mock"
+    },
+    {
+      "term":"fluctuate",
+      "def":"to vary irregularly, to swing"
+    },
+    {
+      "term":"fluke",
+      "def":"to obtain a successful outcome by pure chance"
+    },
+    {
+      "term":"fluster",
+      "def":"to confuse, befuddle"
+    },
+    {
+      "term":"flux",
+      "def":"flowing or flow"
+    },
+    {
+      "term":"fodder",
+      "def":"to feed animals (with fodder)"
+    },
+    {
+      "term":"foil",
+      "def":"to prevent (something) from being accomplished"
+    },
+    {
+      "term":"foist",
+      "def":"to introduce or insert surreptitiously or without warrant"
+    },
+    {
+      "term":"fondle",
+      "def":"to touch or stroke lovingly"
+    },
+    {
+      "term":"forage",
+      "def":"to wander or go in search of provisions"
+    },
+    {
+      "term":"foray",
+      "def":"to scour (an area or place) for food, treasure, booty etc"
+    },
+    {
+      "term":"forbear",
+      "def":"to keep away from, to avoid, to abstain from, to give up"
+    },
+    {
+      "term":"forbid",
+      "def":"to command not to do something, have something, etc"
+    },
+    {
+      "term":"ford",
+      "def":"to cross a stream using a ford"
+    },
+    {
+      "term":"forebode",
+      "def":"to predict a future event, to hint at something"
+    },
+    {
+      "term":"foreclose",
+      "def":"repossess property whose owner has failed to make payments"
+    },
+    {
+      "term":"forego",
+      "def":"to precede, to go before"
+    },
+    {
+      "term":"forejudge",
+      "def":"to prejudge, to judge beforehand"
+    },
+    {
+      "term":"foreordain",
+      "def":"to predestine or preordain"
+    },
+    {
+      "term":"forerun",
+      "def":"to run in front"
+    },
+    {
+      "term":"foresee",
+      "def":"to anticipate, to predict"
+    },
+    {
+      "term":"forestall",
+      "def":"to prevent, delay or hinder something, to avert"
+    },
+    {
+      "term":"foretell",
+      "def":"to tell what's going to happen in the future"
+    },
+    {
+      "term":"forfeit",
+      "def":"to suffer the loss of something by wrongdoing"
+    },
+    {
+      "term":"forfend",
+      "def":"to prohibit, to forbid, to avert"
+    },
+    {
+      "term":"forge",
+      "def":"to form by heating and hammering, beat into shape"
+    },
+    {
+      "term":"forgo",
+      "def":"to let pass, to leave alone"
+    },
+    {
+      "term":"forsake",
+      "def":"to abandon, to give up, to leave (permanently), to renounce"
+    },
+    {
+      "term":"forswear",
+      "def":"to renounce or deny something, especially under oath"
+    },
+    {
+      "term":"fortify",
+      "def":"to protect or strengthen against attack"
+    },
+    {
+      "term":"foster",
+      "def":"to nurture offspring or to provide similar to another child"
+    },
+    {
+      "term":"fracture",
+      "def":"to break, or cause something to break"
+    },
+    {
+      "term":"fray",
+      "def":"to unravel, used particularly for the edge of cloth"
+    },
+    {
+      "term":"fresco",
+      "def":"painting on a moist, plaster surface"
+    },
+    {
+      "term":"frizz",
+      "def":"of hair, to form into a mass of tight curls"
+    },
+    {
+      "term":"frizzle",
+      "def":"to fry something until crisp and curled"
+    },
+    {
+      "term":"fulminate",
+      "def":"to explode with a loud noise, detonate"
+    },
+    {
+      "term":"fumigate",
+      "def":"to disinfect, purify, rid of vermin with the chemical fumes"
+    },
+    {
+      "term":"furbish",
+      "def":"to polish or burnish"
+    },
+    {
+      "term":"furlough",
+      "def":"a usually temporary layoff from work"
+    },
+    {
+      "term":"furrow",
+      "def":"to make (a) groove, a cut(s) in (the ground etc )"
+    },
+    {
+      "term":"further",
+      "def":"to encourage growth"
+    },
+    {
+      "term":"fuse",
+      "def":"to melt together, to blend, to mix indistinguishably"
+    },
+    {
+      "term":"gainsay",
+      "def":"to deny, dispute, or contradict"
+    },
+    {
+      "term":"galvanize",
+      "def":"to stimulate by or as if by a galvanic (electric) current"
+    },
+    {
+      "term":"gambol",
+      "def":"to skip about, as in dancing or playing, frolic"
+    },
+    {
+      "term":"gape",
+      "def":"to open the mouth wide as in a yawn or surprise"
+    },
+    {
+      "term":"garble",
+      "def":"to confuse unintentionally or ignorantly, jumble"
+    },
+    {
+      "term":"garner",
+      "def":"to reap grain, gather it up, and store it in a granary"
+    },
+    {
+      "term":"garnish",
+      "def":"to decorate with ornamental appendages, to adorn"
+    },
+    {
+      "term":"garrison",
+      "def":"to assign troops to a military post"
+    },
+    {
+      "term":"garrote",
+      "def":"to execute by strangulation"
+    },
+    {
+      "term":"gauge",
+      "def":"to measure or determine capacity, character, or ability"
+    },
+    {
+      "term":"generalize",
+      "def":"to speak in generalities, or in vague terms"
+    },
+    {
+      "term":"germinate",
+      "def":"to begin to grow or develop"
+    },
+    {
+      "term":"gesticulate",
+      "def":"to make gestures or motions, as in speaking, to use postures"
+    },
+    {
+      "term":"gesticulate",
+      "def":"to make animated gestures while speaking"
+    },
+    {
+      "term":"gesture",
+      "def":"to make a gesture or gestures"
+    },
+    {
+      "term":"gibbering",
+      "def":"speaking inarticulately or meaninglessly"
+    },
+    {
+      "term":"gibe",
+      "def":"to utter mocking or scoffing words"
+    },
+    {
+      "term":"gladden",
+      "def":"to cause (something) to become glad"
+    },
+    {
+      "term":"glean",
+      "def":"to gather slowly and laboriously, bit by bit"
+    },
+    {
+      "term":"glimmer",
+      "def":"to shine with a faint light"
+    },
+    {
+      "term":"glimpse",
+      "def":"to see or view briefly or incompletely"
+    },
+    {
+      "term":"gloat",
+      "def":"to exhibit a conspicuous sense of self-satisfaction"
+    },
+    {
+      "term":"glut",
+      "def":"to fill to capacity, to satisfy all requirement or demand"
+    },
+    {
+      "term":"gnash",
+      "def":"to grind one's teeth in pain or in anger"
+    },
+    {
+      "term":"goad",
+      "def":"to prick or drive with, or as if with, a goad, prod"
+    },
+    {
+      "term":"granulate",
+      "def":"to segment into tiny grains or particles"
+    },
+    {
+      "term":"grapple",
+      "def":"to seize something and hold it firmly"
+    },
+    {
+      "term":"grate",
+      "def":"to shred things, usually food, by rubbing across a grater"
+    },
+    {
+      "term":"gratify",
+      "def":"to give pleasure by satisfying desires, to indulge"
+    },
+    {
+      "term":"grimace",
+      "def":"to distort one's face, to make faces"
+    },
+    {
+      "term":"grovel",
+      "def":"to humble oneself or act in an abject manner"
+    },
+    {
+      "term":"guess",
+      "def":"to reach a partly (or totally) unqualified conclusion"
+    },
+    {
+      "term":"guffaw",
+      "def":"to laugh boisterously"
+    },
+    {
+      "term":"guzzle",
+      "def":"to drink quickly, voraciously, or to excess"
+    },
+    {
+      "term":"gyrate",
+      "def":"to revolve round a central point, to revolve"
+    },
+    {
+      "term":"hackney",
+      "def":"to make uninteresting or trite by frequent use"
+    },
+    {
+      "term":"hail",
+      "def":"to cheer, salute, or greet, welcome"
+    },
+    {
+      "term":"hallow",
+      "def":"to make holy, to sanctify"
+    },
+    {
+      "term":"hamper",
+      "def":"to hold back, hinder, impede"
+    },
+    {
+      "term":"hap",
+      "def":"to happen, to befall, to chance"
+    },
+    {
+      "term":"harangue",
+      "def":"to give a forceful and lengthy lecture or criticism"
+    },
+    {
+      "term":"harass",
+      "def":"to fatigue or to tire with repeated and exhausting efforts"
+    },
+    {
+      "term":"heckle",
+      "def":"to harass with impertinent questions or gibes"
+    },
+    {
+      "term":"heed",
+      "def":"to give careful attention to"
+    },
+    {
+      "term":"henpeck",
+      "def":"to nag persistently"
+    },
+    {
+      "term":"hew",
+      "def":"to strike forcibly with a cutting instrument, chop"
+    },
+    {
+      "term":"hinder",
+      "def":"to make difficult to accomplish, act as obstacle"
+    },
+    {
+      "term":"hoard",
+      "def":"to amass, usually for one's personal collection"
+    },
+    {
+      "term":"hone",
+      "def":"to sharpen on a hone"
+    },
+    {
+      "term":"hoodwink",
+      "def":"to deceive or trick"
+    },
+    {
+      "term":"huckster",
+      "def":"to haggle, to wrangle, or to bargain"
+    },
+    {
+      "term":"humanize",
+      "def":"to give, cause to have the fundamental properties of a human"
+    },
+    {
+      "term":"humbug",
+      "def":"to play a trick on"
+    },
+    {
+      "term":"humiliate",
+      "def":"to injure a person's dignity and self-respect"
+    },
+    {
+      "term":"hustle",
+      "def":"to rush or hurry"
+    },
+    {
+      "term":"hypnotize",
+      "def":"to induce somebody into a state of hypnosis"
+    },
+    {
+      "term":"idealize",
+      "def":"to regard something as ideal"
+    },
+    {
+      "term":"idolize",
+      "def":"to make an idol of, or to worship as an idol"
+    },
+    {
+      "term":"illuminate",
+      "def":"to shine light on something"
+    },
+    {
+      "term":"illumine",
+      "def":"to illuminate"
+    },
+    {
+      "term":"imbibe",
+      "def":"to drink (used frequently of alcoholic beverages)"
+    },
+    {
+      "term":"imbrue",
+      "def":"to stain (in, with, blood, slaughter, etc )"
+    },
+    {
+      "term":"imbue",
+      "def":"to stain an object completely with some physical quality"
+    },
+    {
+      "term":"immerse",
+      "def":"to put under the surface of a liquid, to dunk"
+    },
+    {
+      "term":"immigrate",
+      "def":"to move into another country to stay there permanently"
+    },
+    {
+      "term":"immolate",
+      "def":"to sacrifice"
+    },
+    {
+      "term":"immortalize",
+      "def":"to bestow unending fame upon, perpetuate"
+    },
+    {
+      "term":"immure",
+      "def":"to cloister, confine, imprison, to lock up behind walls"
+    },
+    {
+      "term":"impair",
+      "def":"to weaken, to affect negatively"
+    },
+    {
+      "term":"impart",
+      "def":"to make known, to tell, to relate"
+    },
+    {
+      "term":"impede",
+      "def":"to obstruct, hinder"
+    },
+    {
+      "term":"impel",
+      "def":"to urge a person, to press on, to incite to action or motion"
+    },
+    {
+      "term":"impend",
+      "def":"to be about to happen or occur"
+    },
+    {
+      "term":"imperil",
+      "def":"to put into peril, to place in danger or cause a hazard"
+    },
+    {
+      "term":"impersonate",
+      "def":"to assume the character or appearance of"
+    },
+    {
+      "term":"impinge",
+      "def":"to make an impression, have an effect or impact"
+    },
+    {
+      "term":"implement",
+      "def":"to bring about, to put into practice"
+    },
+    {
+      "term":"implicate",
+      "def":"to show to be involved, usually in an incriminating manner"
+    },
+    {
+      "term":"imply",
+      "def":"to indicate or suggest without being explicitly stated"
+    },
+    {
+      "term":"importunate",
+      "def":"to importune, or to obtain by importunity"
+    },
+    {
+      "term":"importune",
+      "def":"to harass with persistent requests"
+    },
+    {
+      "term":"impoverish",
+      "def":"make poor"
+    },
+    {
+      "term":"impregnate",
+      "def":"to cause to become pregnant"
+    },
+    {
+      "term":"improvise",
+      "def":"to compose and perform without previous preparation"
+    },
+    {
+      "term":"impugn",
+      "def":"to challenge as false,cast doubt upon"
+    },
+    {
+      "term":"impugned",
+      "def":"dispute the validit  or honesty of a statement or motive"
+    },
+    {
+      "term":"impute",
+      "def":"to reckon as pertaining or attributable, to attribute"
+    },
+    {
+      "term":"inaugurate",
+      "def":"to induct into office with a formal ceremony"
+    },
+    {
+      "term":"incapacitate",
+      "def":"to make incapable (of doing something)"
+    },
+    {
+      "term":"incarcerate",
+      "def":"to imprison, confine"
+    },
+    {
+      "term":"incense",
+      "def":"to anger or infuriate"
+    },
+    {
+      "term":"incinerate",
+      "def":"to destroy by burning"
+    },
+    {
+      "term":"incise",
+      "def":"to cut into, cut marks, figures, etc"
+    },
+    {
+      "term":"incite",
+      "def":"to rouse, stir up or excite"
+    },
+    {
+      "term":"increment",
+      "def":"to increase by steps or by a step, especially by one"
+    },
+    {
+      "term":"inculcate",
+      "def":"to implant by repeated statement, teach persistently"
+    },
+    {
+      "term":"indemnify",
+      "def":"to compensate for damage or loss sustained, expense, etc"
+    },
+    {
+      "term":"indict",
+      "def":"to accuse of wrongdoing, charge"
+    },
+    {
+      "term":"induce",
+      "def":"to lead by persuasion or influence, incite"
+    },
+    {
+      "term":"induct",
+      "def":"to formally or ceremoniously install in an office, position"
+    },
+    {
+      "term":"indulge",
+      "def":"(often followed by \"in\"): to yield to a temptation or desire"
+    },
+    {
+      "term":"inebriate",
+      "def":"to cause to be drunk"
+    },
+    {
+      "term":"infer",
+      "def":"to derive by reasoning, conclude from premises or evidence"
+    },
+    {
+      "term":"infest",
+      "def":"to live in or overrun to an unwanted degree"
+    },
+    {
+      "term":"infiltrate",
+      "def":"to surreptitiously penetrate, enter or gain access"
+    },
+    {
+      "term":"infirm",
+      "def":"to contradict, to provide proof that something is not"
+    },
+    {
+      "term":"infringe",
+      "def":"break or violate a treaty, a law, a right etc"
+    },
+    {
+      "term":"infuse",
+      "def":"to cause to become an element of something, insert or fill"
+    },
+    {
+      "term":"ingraft",
+      "def":"to insert, as of one plant into another, for propagation"
+    },
+    {
+      "term":"ingratiate",
+      "def":"to establish (oneself) in the favor or good graces of others"
+    },
+    {
+      "term":"inhibit",
+      "def":"to hinder, to restrain"
+    },
+    {
+      "term":"inhume",
+      "def":"to bury in a grave"
+    },
+    {
+      "term":"initiate",
+      "def":"to begin, to start, to introduce"
+    },
+    {
+      "term":"inject",
+      "def":"to pump (especially fluids) into a cavity or passage"
+    },
+    {
+      "term":"innovate",
+      "def":"to alter, to change into something new"
+    },
+    {
+      "term":"inoculate",
+      "def":"to introduce an antigenic substance or vaccine into the body"
+    },
+    {
+      "term":"inquire",
+      "def":"to ask (about something)"
+    },
+    {
+      "term":"inscribe",
+      "def":"to write or cut words onto something, to engrave"
+    },
+    {
+      "term":"insinuate",
+      "def":"to make a way for or introduce something by subtle means"
+    },
+    {
+      "term":"instance",
+      "def":"to mention as a case or example, to refer to, to cite"
+    },
+    {
+      "term":"instigate",
+      "def":"to goad or urge forward, to set on, to provoke, to incite"
+    },
+    {
+      "term":"instill",
+      "def":"to cause a quality to become part of someone's nature"
+    },
+    {
+      "term":"institute",
+      "def":"to begin or initiate something"
+    },
+    {
+      "term":"insulate",
+      "def":"cover or line with material to prevent passage of heat, etc"
+    },
+    {
+      "term":"insult",
+      "def":"to treat or speak to insolently, with contemptuous rudeness"
+    },
+    {
+      "term":"inter",
+      "def":"to bury in a grave"
+    },
+    {
+      "term":"interact",
+      "def":"to act  one upon another"
+    },
+    {
+      "term":"intercede",
+      "def":"to plea on someone else's behalf"
+    },
+    {
+      "term":"intercept",
+      "def":"to stop, deflect or divert (something in progress or motion)"
+    },
+    {
+      "term":"interject",
+      "def":"to insert something between other things"
+    },
+    {
+      "term":"interlude",
+      "def":"an intervening episode, space, period, etc"
+    },
+    {
+      "term":"intermediate",
+      "def":"to mediate, to be an intermediate"
+    },
+    {
+      "term":"intermit",
+      "def":"to interrupt, to stop or cease temporarily, to suspend"
+    },
+    {
+      "term":"interpolate",
+      "def":"to introduce (something additional) between other things"
+    },
+    {
+      "term":"interpose",
+      "def":"to insert something (or oneself) between other things"
+    },
+    {
+      "term":"interrogate",
+      "def":"to question or quiz, especially in a thorough manner"
+    },
+    {
+      "term":"intersect",
+      "def":"to cross, to cut"
+    },
+    {
+      "term":"intersperse",
+      "def":"to mix irregularly something with something else"
+    },
+    {
+      "term":"intervene",
+      "def":"to come between, or to be between, persons or things"
+    },
+    {
+      "term":"intimidate",
+      "def":"to make timid or fearful, to inspire or affect with fear"
+    },
+    {
+      "term":"intoxicate",
+      "def":"to stupefy by doping with chemical substances like alcohol"
+    },
+    {
+      "term":"intricate",
+      "def":"to become enmeshed or entangled"
+    },
+    {
+      "term":"intrigue",
+      "def":"to conceive or carry out a secret plan intended to harm"
+    },
+    {
+      "term":"intromit",
+      "def":"to send, put or let in, to introduce, to admit"
+    },
+    {
+      "term":"introspect",
+      "def":"consider one's own internal state or feelings"
+    },
+    {
+      "term":"intrude",
+      "def":"to enter without permission"
+    },
+    {
+      "term":"inundate",
+      "def":"to cover with large amounts of water, to flood"
+    },
+    {
+      "term":"inure",
+      "def":"to come into use, take or have effect"
+    },
+    {
+      "term":"inured",
+      "def":"to accustom to hardship, difficulty, pain, etc"
+    },
+    {
+      "term":"invalidate",
+      "def":"to make invalid, especially applied to contract law"
+    },
+    {
+      "term":"inveigh",
+      "def":"to protest strongly or attack vehemently with words"
+    },
+    {
+      "term":"inveigle",
+      "def":"to convert, convince or win over with flattery or wiles"
+    },
+    {
+      "term":"invert",
+      "def":"to turn (something) upside down or inside out"
+    },
+    {
+      "term":"invigorate",
+      "def":"to impart vigor, strength, or vitality to"
+    },
+    {
+      "term":"invoke",
+      "def":"to call upon (a person, especially a god) for help"
+    },
+    {
+      "term":"involve",
+      "def":"to roll or fold up, to wind round, to entwine"
+    },
+    {
+      "term":"ire",
+      "def":"to anger, to fret, to irritate"
+    },
+    {
+      "term":"irk",
+      "def":"to irritate, annoy, bother"
+    },
+    {
+      "term":"irradiate",
+      "def":"to throw rays of light upon, to illuminate, to brighten"
+    },
+    {
+      "term":"irrigate",
+      "def":"to supply farmland with water"
+    },
+    {
+      "term":"irritate",
+      "def":"to provoke impatience, anger, or displeasure"
+    },
+    {
+      "term":"isolate",
+      "def":"to set apart or cut off from others"
+    },
+    {
+      "term":"itinerate",
+      "def":"to travel from place to place"
+    },
+    {
+      "term":"jaded",
+      "def":"dulled or satiated by overindulgence"
+    },
+    {
+      "term":"jaundice",
+      "def":"to color by prejudice or envy, to prejudice"
+    },
+    {
+      "term":"jaunt",
+      "def":"to ramble here and there, to stroll, to make an excursion"
+    },
+    {
+      "term":"jeer",
+      "def":"to utter sarcastic or mocking comments"
+    },
+    {
+      "term":"jettison",
+      "def":"to cast (goods) overboard in order to lighten a vessel"
+    },
+    {
+      "term":"joggle",
+      "def":"to shake slightly, to jostle, to jog"
+    },
+    {
+      "term":"journalize",
+      "def":"to record in a journal"
+    },
+    {
+      "term":"joust",
+      "def":"to engage in mock combat on horseback"
+    },
+    {
+      "term":"juggle",
+      "def":"to manipulate objects, such as balls, clubs, etc  artfully"
+    },
+    {
+      "term":"jut",
+      "def":"to stick out"
+    },
+    {
+      "term":"juxtapose",
+      "def":"to place close together or side by side, esp. for comparison"
+    },
+    {
+      "term":"juxtaposition",
+      "def":"to place in juxtaposition"
+    },
+    {
+      "term":"keen",
+      "def":"to sharpen, to make cold"
+    },
+    {
+      "term":"kindle",
+      "def":"to start (a fire) or light (a torch)"
+    },
+    {
+      "term":"knead",
+      "def":"to work into a mass by repeated pressure with the knuckles"
+    },
+    {
+      "term":"labyrinth",
+      "def":"to enclose in a labyrinth, or as though in a labyrinth"
+    },
+    {
+      "term":"lacerate",
+      "def":"to tear, rip or wound"
+    },
+    {
+      "term":"lackey",
+      "def":"to attend, wait upon, serve obsequiously"
+    },
+    {
+      "term":"ladle",
+      "def":"to serve something with a ladle"
+    },
+    {
+      "term":"lambaste",
+      "def":"to beat or whip severely"
+    },
+    {
+      "term":"lament",
+      "def":"to feel or express sorrow or regret for"
+    },
+    {
+      "term":"lampoon",
+      "def":"to satirize or poke fun at"
+    },
+    {
+      "term":"lance",
+      "def":"to pierce with a lance, or with any similar weapon"
+    },
+    {
+      "term":"landscape",
+      "def":"to do various grounds maintenance"
+    },
+    {
+      "term":"lapse",
+      "def":"to fall away gradually, to subside"
+    },
+    {
+      "term":"laud",
+      "def":"to praise, to glorify"
+    },
+    {
+      "term":"laureate",
+      "def":"to honor with a wreath of laurel"
+    },
+    {
+      "term":"lave",
+      "def":"to pour or throw out, as water, lade out, bail"
+    },
+    {
+      "term":"lavish",
+      "def":"to expend or bestow with profusion, to squander"
+    },
+    {
+      "term":"leaven",
+      "def":"to add a leavening agent"
+    },
+    {
+      "term":"legalize",
+      "def":"alternative spelling of legalise"
+    },
+    {
+      "term":"legging",
+      "def":"present participle of leg"
+    },
+    {
+      "term":"legislate",
+      "def":"to pass laws, incl. the amending or repeal of existing laws"
+    },
+    {
+      "term":"legitimate",
+      "def":"to make legitimate, lawful, or valid"
+    },
+    {
+      "term":"lever",
+      "def":"to move with a lever"
+    },
+    {
+      "term":"leverage",
+      "def":"to use, to exploit, to take full advantage (of something)"
+    },
+    {
+      "term":"levitate",
+      "def":"to cause to rise in the air and float"
+    },
+    {
+      "term":"levy",
+      "def":"to impose a tax or fine, to collect monies due"
+    },
+    {
+      "term":"libel",
+      "def":"to defame someone"
+    },
+    {
+      "term":"liberate",
+      "def":"to free, to release from restraint or bondage"
+    },
+    {
+      "term":"lien",
+      "def":"alternative form of lain"
+    },
+    {
+      "term":"ligature",
+      "def":"The act of binding or tying up"
+    },
+    {
+      "term":"limber",
+      "def":"bending readily, pliant, lithe"
+    },
+    {
+      "term":"lionize",
+      "def":"to treat (a person) as a celebrity"
+    },
+    {
+      "term":"liquefy",
+      "def":"to make into a liquid by condensing a gas or melting a solid"
+    },
+    {
+      "term":"liquidate",
+      "def":"to settle a debt by paying the outstanding amount"
+    },
+    {
+      "term":"liquor",
+      "def":"to drink liquor, usually to excess"
+    },
+    {
+      "term":"lithograph",
+      "def":"to create a copy of an image through lithography"
+    },
+    {
+      "term":"litigate",
+      "def":"to go to law"
+    },
+    {
+      "term":"loathe",
+      "def":"to hate, detest, revile"
+    },
+    {
+      "term":"loll",
+      "def":"to act lazily or indolently, to recline, to lean"
+    },
+    {
+      "term":"loot",
+      "def":"to steal, especially as part of war, riot"
+    },
+    {
+      "term":"louse",
+      "def":"to remove lice from the body of a person or animal"
+    },
+    {
+      "term":"luxuriate",
+      "def":"to enjoy luxury"
+    },
+    {
+      "term":"lynch",
+      "def":"to execute without a proper trial, especially by hanging"
+    },
+    {
+      "term":"macadamize",
+      "def":"to cover with small, broken stones to form a smooth surface"
+    },
+    {
+      "term":"macerate",
+      "def":"to soften or separate (something) into pieces by soaking"
+    },
+    {
+      "term":"madden",
+      "def":"to make angry"
+    },
+    {
+      "term":"magnetize",
+      "def":"to make magnetic"
+    },
+    {
+      "term":"malign",
+      "def":"to make defamatory statements about someone or something"
+    },
+    {
+      "term":"malinger",
+      "def":"to pretend illness, especially in order to shirk one's duty"
+    },
+    {
+      "term":"maltreat",
+      "def":"to treat badly"
+    },
+    {
+      "term":"maneuver",
+      "def":"to move (something) carefully, and often with difficulty"
+    },
+    {
+      "term":"manifest",
+      "def":"to show plainly, to make to appear distinctly"
+    },
+    {
+      "term":"manifold",
+      "def":"to make manifold, multiply"
+    },
+    {
+      "term":"mantle",
+      "def":"to cover or conceal (something)"
+    },
+    {
+      "term":"manumit",
+      "def":"to release from slavery, to free"
+    },
+    {
+      "term":"mar",
+      "def":"to damage or spoil, render less perfect, attractive"
+    },
+    {
+      "term":"maraud",
+      "def":"to roam or go around in quest of plunder"
+    },
+    {
+      "term":"maroon",
+      "def":"to abandon in a remote, desolate place"
+    },
+    {
+      "term":"marred",
+      "def":"impaired appearance"
+    },
+    {
+      "term":"marshal",
+      "def":"to arrange troops etc  in line for inspection or a parade"
+    },
+    {
+      "term":"marvel",
+      "def":"to become filled with wonderment or admiration"
+    },
+    {
+      "term":"masquerade",
+      "def":"to assemble in masks, to take part in a masquerade"
+    },
+    {
+      "term":"massacre",
+      "def":"to kill unnecessarily and indiscriminately"
+    },
+    {
+      "term":"masticate",
+      "def":"to chew"
+    },
+    {
+      "term":"matriculate",
+      "def":"to enroll in a college or university as a degree candidate"
+    },
+    {
+      "term":"matter",
+      "def":"to be important"
+    },
+    {
+      "term":"meander",
+      "def":"to wind, turn, or twist, to make flexuous, to wander"
+    },
+    {
+      "term":"mediate",
+      "def":"to resolve differences between conflicting parties"
+    },
+    {
+      "term":"meliorate",
+      "def":"to make better, to improve, to heal or solve a problem"
+    },
+    {
+      "term":"merge",
+      "def":"to combine into a whole"
+    },
+    {
+      "term":"mesmerize",
+      "def":"to exercise mesmerism on, to spellbind, to enthrall"
+    },
+    {
+      "term":"metamorphose",
+      "def":"to change the form or nature of, transform"
+    },
+    {
+      "term":"mete",
+      "def":"to measure"
+    },
+    {
+      "term":"microphone",
+      "def":"to put one or more microphones on or in"
+    },
+    {
+      "term":"migrate",
+      "def":"to move from one region to another according to the seasons"
+    },
+    {
+      "term":"militate",
+      "def":"to have a substantial effect, weigh heavily"
+    },
+    {
+      "term":"mimic",
+      "def":"to imitate, especially in order to ridicule"
+    },
+    {
+      "term":"minimize",
+      "def":"to make (something) as small or as insignificant as possible"
+    },
+    {
+      "term":"mire",
+      "def":"to weigh down"
+    },
+    {
+      "term":"misapprehend",
+      "def":"to interpret incorrectly, to misunderstand"
+    },
+    {
+      "term":"misbehave",
+      "def":"to act or behave in an inappropriate or improper manner"
+    },
+    {
+      "term":"misconstrue",
+      "def":"to understand incorrectly, to misunderstand"
+    },
+    {
+      "term":"miscount",
+      "def":"to incorrectly count or add up"
+    },
+    {
+      "term":"misinterpret",
+      "def":"to make an incorrect interpretation, to misunderstand"
+    },
+    {
+      "term":"mislay",
+      "def":"to lose temporarily, misplace"
+    },
+    {
+      "term":"mismanage",
+      "def":"to handle a responsibility in a way which is inept"
+    },
+    {
+      "term":"misnomer",
+      "def":"to use a misleading term, to misname"
+    },
+    {
+      "term":"misplace",
+      "def":"to put something somewhere and then forget its location"
+    },
+    {
+      "term":"misrepresent",
+      "def":"to represent falsely, to inaccurately portray something"
+    },
+    {
+      "term":"misrule",
+      "def":"of a trial judge, to make a bad decision in court"
+    },
+    {
+      "term":"mistrust",
+      "def":"to have no confidence in something"
+    },
+    {
+      "term":"misuse",
+      "def":"to use (something) incorrectly"
+    },
+    {
+      "term":"miter",
+      "def":"to finish a material at an angle, as with sides of a frame"
+    },
+    {
+      "term":"mitigate",
+      "def":"to lessen in force or intensity, moderate"
+    },
+    {
+      "term":"moderate",
+      "def":"to reduce the excessiveness of (something)"
+    },
+    {
+      "term":"modify",
+      "def":"to make partial changes to"
+    },
+    {
+      "term":"modulate",
+      "def":"to regulate, adjust or adapt"
+    },
+    {
+      "term":"mollify",
+      "def":"to soften in feeling or temper, as a person, pacify, appease"
+    },
+    {
+      "term":"molt",
+      "def":"to shed hair, feathers, etc  and replace with a fresh layer"
+    },
+    {
+      "term":"moot",
+      "def":"of little or no practical value or meaning, purely academic"
+    },
+    {
+      "term":"mortify",
+      "def":"to humiliate or shame, as by injury to one's pride"
+    },
+    {
+      "term":"mottled",
+      "def":"to mark with spots or blotches of a different color"
+    },
+    {
+      "term":"muddle",
+      "def":"to mix together, to mix up, to confuse"
+    },
+    {
+      "term":"muffle",
+      "def":"to wrap up in fabric for warmth or protection"
+    },
+    {
+      "term":"muse",
+      "def":"to become lost in thought, to ponder"
+    },
+    {
+      "term":"muster",
+      "def":"to gather, summon, rouse (often followed by up )"
+    },
+    {
+      "term":"mutilate",
+      "def":"to injure or make imperfect by irreparably damaging parts"
+    },
+    {
+      "term":"narrate",
+      "def":"to relate a story or series of events by speech or writing"
+    },
+    {
+      "term":"nauseate",
+      "def":"to cause nausea"
+    },
+    {
+      "term":"navigate",
+      "def":"to control the position and course of a vehicle on a journey"
+    },
+    {
+      "term":"negate",
+      "def":"to deny the existence, evidence, or truth of"
+    },
+    {
+      "term":"nestle",
+      "def":"to settle oneself comfortably and snugly"
+    },
+    {
+      "term":"nettle",
+      "def":" to sting causing a rash in someone"
+    },
+    {
+      "term":"network",
+      "def":"to interact for the purpose of connections or advancement"
+    },
+    {
+      "term":"neuter",
+      "def":"to remove sex organs from an animal"
+    },
+    {
+      "term":"niggling",
+      "def":"petty, trivial, inconsequential"
+    },
+    {
+      "term":"nominate",
+      "def":"to appoint to a duty or office"
+    },
+    {
+      "term":"nonplus",
+      "def":"to perplex or bewilder someone, to confound or flummox"
+    },
+    {
+      "term":"nonplussed",
+      "def":"to have been rendered utterly perplexed, puzzle completely"
+    },
+    {
+      "term":"nurture",
+      "def":"to nourish or nurse"
+    },
+    {
+      "term":"nuzzle",
+      "def":"to touch someone or something with the nose"
+    },
+    {
+      "term":"obfuscate",
+      "def":"to confuse, bewilder, or stupefy"
+    },
+    {
+      "term":"obligate",
+      "def":"to compel by a social, legal, or moral tie"
+    },
+    {
+      "term":"obliterate",
+      "def":"to remove or destroy all traces of, do away with"
+    },
+    {
+      "term":"obscure",
+      "def":"to darken, make faint etc"
+    },
+    {
+      "term":"obstruct",
+      "def":"to block or fill (a passage) with obstacles or an obstacle"
+    },
+    {
+      "term":"obtrude",
+      "def":"to impose (something) on someone or into some area"
+    },
+    {
+      "term":"obvert",
+      "def":"to turn so as to show another side"
+    },
+    {
+      "term":"obviate",
+      "def":"to anticipate and prevent or eliminate by effective measures"
+    },
+    {
+      "term":"occlude",
+      "def":"to close, shut, or stop up (a passage, opening, etc )"
+    },
+    {
+      "term":"officiate",
+      "def":"to perform the functions of some office"
+    },
+    {
+      "term":"ogle",
+      "def":"to stare at (someone or something), especially covetously"
+    },
+    {
+      "term":"opaque",
+      "def":"to make, render (more) opaque"
+    },
+    {
+      "term":"opinion",
+      "def":"to have or express as an opinion"
+    },
+    {
+      "term":"opt",
+      "def":"to choose, to select"
+    },
+    {
+      "term":"orate",
+      "def":"to speak formally, to give a speech"
+    },
+    {
+      "term":"ordain",
+      "def":"to invest with ministerial functions or holy orders"
+    },
+    {
+      "term":"oscillate",
+      "def":"to swing back and forth, especially with a regular rhythm"
+    },
+    {
+      "term":"osculate",
+      "def":"to come into close contact or union"
+    },
+    {
+      "term":"ossify",
+      "def":"to convert into or cause to harden like bone"
+    },
+    {
+      "term":"ostracize",
+      "def":"to exclude (a person) from society or from a community"
+    },
+    {
+      "term":"ought",
+      "def":"indicating duty or obligation"
+    },
+    {
+      "term":"oust",
+      "def":"to expel, to remove"
+    },
+    {
+      "term":"outlast",
+      "def":"to live, last or remain longer than something else"
+    },
+    {
+      "term":"outreach",
+      "def":"to exceed"
+    },
+    {
+      "term":"outride",
+      "def":"to ride (a horse, bicycle, etc ) better than (someone)"
+    },
+    {
+      "term":"outstretch",
+      "def":"to extend by stretching"
+    },
+    {
+      "term":"outstrip",
+      "def":"to outrun or leave behind"
+    },
+    {
+      "term":"outweigh",
+      "def":"to exceed in weight or value"
+    },
+    {
+      "term":"overhang",
+      "def":"to hang over (something)"
+    },
+    {
+      "term":"overleap",
+      "def":"to leap over, to jump over, to cross by jumping"
+    },
+    {
+      "term":"overreach",
+      "def":"to reach above or beyond in any direction"
+    },
+    {
+      "term":"overrun",
+      "def":"to defeat an enemy and invade in great numbers"
+    },
+    {
+      "term":"oversee",
+      "def":"to supervise, guide, or direct actions of a person or group"
+    },
+    {
+      "term":"overshadow",
+      "def":"to dominate something and make it seem insignificant"
+    },
+    {
+      "term":"overstride",
+      "def":"to surpass"
+    },
+    {
+      "term":"overthrow",
+      "def":"to bring about the downfall of a government, etc."
+    },
+    {
+      "term":"pacify",
+      "def":"to bring peace by ending war, violence, anger or agitation"
+    },
+    {
+      "term":"palliate",
+      "def":"to relieve the symptoms of"
+    },
+    {
+      "term":"palpitate",
+      "def":"to throb, beat strongly"
+    },
+    {
+      "term":"pander",
+      "def":"to cater to or profit from the weaknesses of others"
+    },
+    {
+      "term":"paralyze",
+      "def":"to afflict with paralysis"
+    },
+    {
+      "term":"paraphrase",
+      "def":"to restate something as, or to compose a paraphrase"
+    },
+    {
+      "term":"parch",
+      "def":"to make extremely, excessively, or completely dry"
+    },
+    {
+      "term":"parchmnet",
+      "def":"the skin of sheep, used as a material on which to write"
+    },
+    {
+      "term":"pare",
+      "def":"to cut off the outer coating, layer or part of"
+    },
+    {
+      "term":"parlay",
+      "def":"to bet or gamble on a subsequent race, contest, etc"
+    },
+    {
+      "term":"parley",
+      "def":"meeting between enemies under a truce to discuss terms"
+    },
+    {
+      "term":"parry",
+      "def":"to avoid, deflect, or ward off (an attack)"
+    },
+    {
+      "term":"parse",
+      "def":"to analyse in terms of grammatical constituents"
+    },
+    {
+      "term":"participate",
+      "def":"to join in, to take part, to involve oneself"
+    },
+    {
+      "term":"patent",
+      "def":"to register an invention with a government agency"
+    },
+    {
+      "term":"patronize",
+      "def":"to behave in an offensively condescending manner toward"
+    },
+    {
+      "term":"patter",
+      "def":"to make a rapid succession of light taps"
+    },
+    {
+      "term":"peculate",
+      "def":"to steal or take dishonestly"
+    },
+    {
+      "term":"pedal",
+      "def":"to operate a pedal attached to a wheel in a circular motion"
+    },
+    {
+      "term":"peddle",
+      "def":"to sell things, especially door to door"
+    },
+    {
+      "term":"penetrate",
+      "def":"to pierce through or pass into"
+    },
+    {
+      "term":"perambulate",
+      "def":"to walk about, roam or stroll"
+    },
+    {
+      "term":"perceive",
+      "def":"to see, to be aware of, to understand"
+    },
+    {
+      "term":"percolate",
+      "def":"to pass a liquid through a porous substance, to filter"
+    },
+    {
+      "term":"perforate",
+      "def":"to pierce, to penetrate"
+    },
+    {
+      "term":"perform",
+      "def":"to do something, to execute "
+    },
+    {
+      "term":"perjure",
+      "def":"to knowingly make a false statement while under oath"
+    },
+    {
+      "term":"permeate",
+      "def":"to penetrate and pass through without causing rupture"
+    },
+    {
+      "term":"perpetuate",
+      "def":"to cause to last indefinitely"
+    },
+    {
+      "term":"perplex",
+      "def":"to cause to be puzzled or bewildered, confuse mentally"
+    },
+    {
+      "term":"persevere",
+      "def":"to persist in anything undertaken"
+    },
+    {
+      "term":"persist",
+      "def":"to go on steadfastly and resolutely"
+    },
+    {
+      "term":"perspire",
+      "def":"to emit sweat or perspiration through the skin's pores"
+    },
+    {
+      "term":"persuade",
+      "def":"to successfully convince (someone) to do something"
+    },
+    {
+      "term":"pert",
+      "def":"boldly forward in speech or behaviour"
+    },
+    {
+      "term":"pertain",
+      "def":"to have reference or relation"
+    },
+    {
+      "term":"perturb",
+      "def":"to disturb, to bother or unsettle"
+    },
+    {
+      "term":"peruse",
+      "def":"to examine or consider with care"
+    },
+    {
+      "term":"pervade",
+      "def":"to become spread through all parts of"
+    },
+    {
+      "term":"pervert",
+      "def":"to lead astray morally"
+    },
+    {
+      "term":"peter",
+      "def":"to dwindle, to trail off, to diminish to nothing"
+    },
+    {
+      "term":"petrify",
+      "def":"to convert into stone or a stony substance"
+    },
+    {
+      "term":"philander",
+      "def":"to make love with a woman one cannot marry"
+    },
+    {
+      "term":"pilfer",
+      "def":"to steal in small quantities"
+    },
+    {
+      "term":"pillage",
+      "def":"to loot or plunder by force, especially in time of war"
+    },
+    {
+      "term":"pinioned",
+      "def":"tie or hold the arms or legs of (someone)"
+    },
+    {
+      "term":"pique",
+      "def":"to affect with irritation and resentment"
+    },
+    {
+      "term":"placate",
+      "def":"to appease or pacify"
+    },
+    {
+      "term":"plod",
+      "def":"to walk or move slowly and heavily"
+    },
+    {
+      "term":"pluck",
+      "def":"to pull something sharply, to pull something out"
+    },
+    {
+      "term":"plummet",
+      "def":"to drop swiftly, in a direct manner, to fall quickly"
+    },
+    {
+      "term":"poise",
+      "def":"calm self-assured dignity, especially in social situations"
+    },
+    {
+      "term":"pollute",
+      "def":"to make foul or unclean"
+    },
+    {
+      "term":"ponder",
+      "def":"to wonder, to think of deeply"
+    },
+    {
+      "term":"pontificate",
+      "def":"to preside as a bishop, especially at mass"
+    },
+    {
+      "term":"portend",
+      "def":"to serve as a warning or omen"
+    },
+    {
+      "term":"posit",
+      "def":"to place, put or set"
+    },
+    {
+      "term":"possess",
+      "def":"to have, to have ownership of"
+    },
+    {
+      "term":"postdate",
+      "def":"to date with a date in the future"
+    },
+    {
+      "term":"postulate",
+      "def":"to ask, demand or claim"
+    },
+    {
+      "term":"prate",
+      "def":"to talk much and to little purpose, to babble"
+    },
+    {
+      "term":"prattle",
+      "def":"to talk incessantly and in a childish manner, to babble"
+    },
+    {
+      "term":"precede",
+      "def":"to go before, go in front of"
+    },
+    {
+      "term":"preclude",
+      "def":"to prevent the occurrence of, make impossible"
+    },
+    {
+      "term":"predispose",
+      "def":"to make someone susceptible to something (such as a disease)"
+    },
+    {
+      "term":"preempt",
+      "def":"to acquire something (before someone else does)"
+    },
+    {
+      "term":"preengage",
+      "def":"to engage beforehand"
+    },
+    {
+      "term":"preestablish",
+      "def":"to establish beforehand"
+    },
+    {
+      "term":"preexist",
+      "def":"to exist before something else"
+    },
+    {
+      "term":"preoccupy",
+      "def":"to distract, to occupy or draw attention elsewhere "
+    },
+    {
+      "term":"preordain",
+      "def":"to determine the fate of something in advance"
+    },
+    {
+      "term":"prepossess",
+      "def":"to occupy beforehand"
+    },
+    {
+      "term":"prescribe",
+      "def":"to order (a drug) for use by a particular patient"
+    },
+    {
+      "term":"preservation",
+      "def":"to keep alive or in existence"
+    },
+    {
+      "term":"preside",
+      "def":"to occupy the place of authority or control"
+    },
+    {
+      "term":"prevail",
+      "def":"to be superior in strength, dominance, influence"
+    },
+    {
+      "term":"prevaricate",
+      "def":"to deviate, transgress, to go astray (from)"
+    },
+    {
+      "term":"privilege",
+      "def":"to grant some particular right or exemption to"
+    },
+    {
+      "term":"probe",
+      "def":"to explore, investigate, or question"
+    },
+    {
+      "term":"proceed",
+      "def":"to go forward or onward, to advance"
+    },
+    {
+      "term":"procrastinate",
+      "def":"to put off, to delay taking action, to wait until later"
+    },
+    {
+      "term":"proctor",
+      "def":"to supervise or monitor"
+    },
+    {
+      "term":"procure",
+      "def":"to obtain through special means"
+    },
+    {
+      "term":"profess",
+      "def":"to make open declaration of, to own or admit freely"
+    },
+    {
+      "term":"proffer",
+      "def":"to offer for acceptance, to propose to give"
+    },
+    {
+      "term":"prognosticate",
+      "def":"to predict or forecast"
+    },
+    {
+      "term":"proliferate",
+      "def":"to grow or produce by multiplication of parts"
+    },
+    {
+      "term":"prolong",
+      "def":"to extend in space or length"
+    },
+    {
+      "term":"promenade",
+      "def":"to walk"
+    },
+    {
+      "term":"promulgate",
+      "def":"to make known or public"
+    },
+    {
+      "term":"propagate",
+      "def":"to cause an organism to multiply"
+    },
+    {
+      "term":"propel",
+      "def":"to cause to move in a certain direction"
+    },
+    {
+      "term":"prophesy",
+      "def":"to speak or write with divine inspiration"
+    },
+    {
+      "term":"propitiate",
+      "def":"to make favourably inclined"
+    },
+    {
+      "term":"propound",
+      "def":"to put forward, to offer for discussion or debate "
+    },
+    {
+      "term":"proscribe",
+      "def":"to forbid or prohibit"
+    },
+    {
+      "term":"proselytize",
+      "def":"to encourage or induce people to join a religious movement"
+    },
+    {
+      "term":"prostrate",
+      "def":"to lie flat or facedown, to throw oneself down"
+    },
+    {
+      "term":"protract",
+      "def":"to draw out or lengthen"
+    },
+    {
+      "term":"protrude",
+      "def":"to bulge outward, to stick out "
+    },
+    {
+      "term":"purl",
+      "def":"to finish with loops or a looped edging"
+    },
+    {
+      "term":"purloin",
+      "def":"to take dishonestly"
+    },
+    {
+      "term":"purport",
+      "def":"to convey, imply, or profess outwardly, often falsely"
+    },
+    {
+      "term":"quack",
+      "def":"to make a noise like a duck"
+    },
+    {
+      "term":"quadruple",
+      "def":"to multiply something by four times"
+    },
+    {
+      "term":"quaff",
+      "def":"to drink something with hearty enjoyment, especially alcohol"
+    },
+    {
+      "term":"quail",
+      "def":"to lose heart or courage in difficulty or danger"
+    },
+    {
+      "term":"qualify",
+      "def":"to describe something by listing its qualities"
+    },
+    {
+      "term":"quarter",
+      "def":"to divide into four parts"
+    },
+    {
+      "term":"quaver",
+      "def":"to shake in a trembling manner"
+    },
+    {
+      "term":"quell",
+      "def":"to suppress or extinguish"
+    },
+    {
+      "term":"query",
+      "def":"to ask, inquire"
+    },
+    {
+      "term":"quibble",
+      "def":"to complain or argue in a trivial or petty manner"
+    },
+    {
+      "term":"radiate",
+      "def":"to extend, send or spread out from a center"
+    },
+    {
+      "term":"rail",
+      "def":"to complain violently (against, about)"
+    },
+    {
+      "term":"ramble",
+      "def":"to move about aimlessly, or on a winding course"
+    },
+    {
+      "term":"ramify",
+      "def":"to divide or spread out into branches or branchlike parts"
+    },
+    {
+      "term":"rankle",
+      "def":"to cause irritation or deep bitterness"
+    },
+    {
+      "term":"rant",
+      "def":"to speak or shout at length in an uncontrollable anger"
+    },
+    {
+      "term":"rapture",
+      "def":"to experience great happiness or excitement"
+    },
+    {
+      "term":"rasp",
+      "def":"to scrape or abrade with a rough instrument"
+    },
+    {
+      "term":"ratify",
+      "def":"to confirm by expressing consent"
+    },
+    {
+      "term":"ravage",
+      "def":"to devastate or destroy something"
+    },
+    {
+      "term":"ravel",
+      "def":"to pull apart (especially cloth or a seam), unravel"
+    },
+    {
+      "term":"raze",
+      "def":"to demolish, to level to the ground"
+    },
+    {
+      "term":"readjust",
+      "def":"adjust again"
+    },
+    {
+      "term":"rearrange",
+      "def":"to change the order or arrangement of (one or more items)"
+    },
+    {
+      "term":"reassure",
+      "def":" to restore confidence to"
+    },
+    {
+      "term":"rebuff",
+      "def":"to refuse, to turn down or shut out"
+    },
+    {
+      "term":"rebuild",
+      "def":"to build again"
+    },
+    {
+      "term":"rebuke",
+      "def":"to criticise harshly, to reprove"
+    },
+    {
+      "term":"rebut",
+      "def":"to refute by evidence or argument"
+    },
+    {
+      "term":"recant",
+      "def":"to withdraw or disavow"
+    },
+    {
+      "term":"recapitulate",
+      "def":"to summarize or repeat in concise form"
+    },
+    {
+      "term":"recapture",
+      "def":"to capture something for a second time"
+    },
+    {
+      "term":"recede",
+      "def":"to move back, to move away"
+    },
+    {
+      "term":"reciprocate",
+      "def":"to give or feel in return"
+    },
+    {
+      "term":"reck",
+      "def":"to care for, to heed, to regard, consider"
+    },
+    {
+      "term":"reclaim",
+      "def":"to demand the return or restoration of something as a right"
+    },
+    {
+      "term":"recline",
+      "def":"to cause to lean back, to bend back"
+    },
+    {
+      "term":"recoil",
+      "def":"to pull back, especially in disgust, horror or astonishment"
+    },
+    {
+      "term":"recollect",
+      "def":"to remember"
+    },
+    {
+      "term":"recompense",
+      "def":"to repay"
+    },
+    {
+      "term":"reconcile",
+      "def":"to recreate friendly relationships"
+    },
+    {
+      "term":"reconnoiter",
+      "def":"to inspect an area in order to gain information"
+    },
+    {
+      "term":"recount",
+      "def":"tell someone about something, give an account of an event"
+    },
+    {
+      "term":"recoup",
+      "def":"to make back, as an investment"
+    },
+    {
+      "term":"recreate",
+      "def":"to give new life, energy or encouragement"
+    },
+    {
+      "term":"recruit",
+      "def":"to enlist a person for service in one of the armed forces"
+    },
+    {
+      "term":"rectify",
+      "def":"to correct or amend something"
+    },
+    {
+      "term":"recuperate",
+      "def":"to get better from an illness"
+    },
+    {
+      "term":"recur",
+      "def":"to occur again"
+    },
+    {
+      "term":"recure",
+      "def":"to cure, heal"
+    },
+    {
+      "term":"redeem",
+      "def":"to recover ownership of something by paying a sum"
+    },
+    {
+      "term":"redound",
+      "def":" to contribute (to a specified situation or consequence)"
+    },
+    {
+      "term":"redress",
+      "def":"to put in order again, to set right, to emend, to revise"
+    },
+    {
+      "term":"reek",
+      "def":"to emanate, as of vapour or perfume"
+    },
+    {
+      "term":"reestablish",
+      "def":"to restore to a previously operational state"
+    },
+    {
+      "term":"refer",
+      "def":"to direct the attention of"
+    },
+    {
+      "term":"reform",
+      "def":"to put into a new and improved form or condition"
+    },
+    {
+      "term":"refract",
+      "def":"to change direction from entering a different medium"
+    },
+    {
+      "term":"refrain",
+      "def":"to hold back from an impulse to say or do something"
+    },
+    {
+      "term":"refurbish",
+      "def":"to rebuild or replenish with all new material"
+    },
+    {
+      "term":"refute",
+      "def":"to prove (something) to be false or incorrect"
+    },
+    {
+      "term":"regale",
+      "def":"to entertain lavishly or agreeably"
+    },
+    {
+      "term":"regenerate",
+      "def":"to construct or create anew"
+    },
+    {
+      "term":"regress",
+      "def":"to move backwards to an earlier stage, to devolve"
+    },
+    {
+      "term":"regurgitate",
+      "def":"to throw up or vomit"
+    },
+    {
+      "term":"rehabilitate",
+      "def":"to restore to a condition of good health"
+    },
+    {
+      "term":"reign",
+      "def":"to exercise sovereign power, or to rule as a monarch"
+    },
+    {
+      "term":"reimburse",
+      "def":"to repay money spent on one's behalf "
+    },
+    {
+      "term":"reinstate",
+      "def":"to restore somebody to a former position or rank"
+    },
+    {
+      "term":"reiterate",
+      "def":"to say or do (something) for a second time"
+    },
+    {
+      "term":"rejoin",
+      "def":"to come again into the company of"
+    },
+    {
+      "term":"rejuvenate",
+      "def":"to make young again"
+    },
+    {
+      "term":"relapse",
+      "def":"to fall back into a former state"
+    },
+    {
+      "term":"relegate",
+      "def":"to send or consign to an inferior position"
+    },
+    {
+      "term":"relent",
+      "def":"to become less severe or intense, to become less hard"
+    },
+    {
+      "term":"relinquish",
+      "def":"to renounce or surrender"
+    },
+    {
+      "term":"relish",
+      "def":"liking or enjoyment of the taste of something"
+    },
+    {
+      "term":"remand",
+      "def":"to send back"
+    },
+    {
+      "term":"reminisce",
+      "def":"to recall the past in a private moment"
+    },
+    {
+      "term":"remit",
+      "def":"to forgive, pardon"
+    },
+    {
+      "term":"remunerate",
+      "def":"to compensate, to pay"
+    },
+    {
+      "term":"rend",
+      "def":"to separate into parts with force or sudden violence"
+    },
+    {
+      "term":"render",
+      "def":"to cause to become"
+    },
+    {
+      "term":"rendezvous",
+      "def":"to meet at an agreed time and place"
+    },
+    {
+      "term":"renege",
+      "def":"to break a promise or commitment, to go back on one's word"
+    },
+    {
+      "term":"renounce",
+      "def":"to give up, resign, surrender"
+    },
+    {
+      "term":"renovate",
+      "def":"to restore to good condition"
+    },
+    {
+      "term":"reorganize",
+      "def":"to organize something again, or in a different manner"
+    },
+    {
+      "term":"repeal",
+      "def":"to cancel, invalidate, annul"
+    },
+    {
+      "term":"repel",
+      "def":"to drive or force back"
+    },
+    {
+      "term":"repine",
+      "def":"to be fretful, discontented"
+    },
+    {
+      "term":"replenish",
+      "def":"to refill, to renew"
+    },
+    {
+      "term":"repose",
+      "def":"to lay, to set down"
+    },
+    {
+      "term":"reprehend",
+      "def":"to criticize, to reprove"
+    },
+    {
+      "term":"repress",
+      "def":"to keep under control, or suppress"
+    },
+    {
+      "term":"reprimand",
+      "def":"to reprove in a formal or official way"
+    },
+    {
+      "term":"reproach",
+      "def":"to criticize or rebuke someone"
+    },
+    {
+      "term":"reprove",
+      "def":"to criticize or correct"
+    },
+    {
+      "term":"repudiate",
+      "def":"to reject the truth or validity of something, to deny"
+    },
+    {
+      "term":"repulse",
+      "def":"to repel or drive back"
+    },
+    {
+      "term":"repute",
+      "def":"to attribute or credit something to something, to impute"
+    },
+    {
+      "term":"requite",
+      "def":"to return in kind, to repay, to recompense, to reward "
+    },
+    {
+      "term":"rescind",
+      "def":"to repeal, annul, or declare void"
+    },
+    {
+      "term":"reseat",
+      "def":"to provide (e g  a room) with more, or new, seats"
+    },
+    {
+      "term":"resent",
+      "def":"to express or exhibit displeasure or indignation"
+    },
+    {
+      "term":"resolve",
+      "def":"to find a solution to (a problem)"
+    },
+    {
+      "term":"resonate",
+      "def":"to vibrate or sound"
+    },
+    {
+      "term":"resuscitate",
+      "def":"to restore consciousness, vigor, or life to"
+    },
+    {
+      "term":"retaliate",
+      "def":"to do something harmful or negative in revenge"
+    },
+    {
+      "term":"retch",
+      "def":"to make an unsuccessful effort to vomit"
+    },
+    {
+      "term":"retort",
+      "def":"to say something sharp or witty in answer to a remark"
+    },
+    {
+      "term":"retrace",
+      "def":"to go back over"
+    },
+    {
+      "term":"retract",
+      "def":"to pull back inside"
+    },
+    {
+      "term":"retrench",
+      "def":"to cut down or reduce something"
+    },
+    {
+      "term":"retrieve",
+      "def":"to regain or get back something"
+    },
+    {
+      "term":"retrograde",
+      "def":"to move backwards, to recede"
+    },
+    {
+      "term":"retrogress",
+      "def":"to return to an earlier, simpler or worse condition"
+    },
+    {
+      "term":"retrospect",
+      "def":"to look or refer back to, to reflect on"
+    },
+    {
+      "term":"reunite",
+      "def":"to unite again, as after separation"
+    },
+    {
+      "term":"revel",
+      "def":"to make merry, to have a gay, lively time "
+    },
+    {
+      "term":"reverberate",
+      "def":"to ring with many echoes"
+    },
+    {
+      "term":"revere",
+      "def":"to regard someone or something with great awe or devotion"
+    },
+    {
+      "term":"revert",
+      "def":"to turn back, or to the contrary, to reverse"
+    },
+    {
+      "term":"revile",
+      "def":"to attack (someone) with abusive language"
+    },
+    {
+      "term":"revise",
+      "def":"to look at again, to reflect on"
+    },
+    {
+      "term":"revoke",
+      "def":"to cancel or invalidate by withdrawing or reversing"
+    },
+    {
+      "term":"rhapsodize",
+      "def":"to talk with extravagant enthusiasm"
+    },
+    {
+      "term":"ridicule",
+      "def":"to criticize or disapprove of scornfully"
+    },
+    {
+      "term":"rue",
+      "def":"to feel sorrow over"
+    },
+    {
+      "term":"ruminate",
+      "def":"to chew cud"
+    },
+    {
+      "term":"rupture",
+      "def":"to burst, break through, or split, as under pressure"
+    },
+    {
+      "term":"salvage",
+      "def":"to save from shipwreck, fire, etc"
+    },
+    {
+      "term":"satiate",
+      "def":"to fill to satisfaction, to satisfy"
+    },
+    {
+      "term":"saturate",
+      "def":"to become completely penetrated, soaked"
+    },
+    {
+      "term":"savor",
+      "def":"to enjoy something with unhurried appreciation"
+    },
+    {
+      "term":"scoff",
+      "def":"to jeer, laugh at with contempt and derision"
+    },
+    {
+      "term":"scope",
+      "def":"to perform a cursory investigation, as to scope out"
+    },
+    {
+      "term":"scorn",
+      "def":"to feel or display contempt or disdain for something"
+    },
+    {
+      "term":"scotch",
+      "def":"to cut or score"
+    },
+    {
+      "term":"scribble",
+      "def":"to write or draw carelessly and in a hurry"
+    },
+    {
+      "term":"scrutinize",
+      "def":"to examine something with great care"
+    },
+    {
+      "term":"scuttle",
+      "def":"to sink a boat deliberately by making openings in the bottom"
+    },
+    {
+      "term":"sear",
+      "def":"to char the surface of something with a hot instrument"
+    },
+    {
+      "term":"secede",
+      "def":"to withdraw formally from an alliance"
+    },
+    {
+      "term":"seclude",
+      "def":"to shut off or keep apart, as from company, society, etc"
+    },
+    {
+      "term":"sedate",
+      "def":"to tranquilize by giving a sedative, to induce sleep"
+    },
+    {
+      "term":"seduce",
+      "def":"to entice someone to engage in a sexual relationship"
+    },
+    {
+      "term":"seethe",
+      "def":"to be in a state of agitation or excitement"
+    },
+    {
+      "term":"seize",
+      "def":"to deliberately take hold of, to grab or capture"
+    },
+    {
+      "term":"sentence",
+      "def":"to declare a sentence on a convicted person"
+    },
+    {
+      "term":"sequence",
+      "def":"to arrange in an order"
+    },
+    {
+      "term":"sequester",
+      "def":"to separate from all external influence"
+    },
+    {
+      "term":"sequestrate",
+      "def":"to sequester"
+    },
+    {
+      "term":"sever",
+      "def":"to cut free"
+    },
+    {
+      "term":"shriek",
+      "def":"to utter a loud, sharp, shrill sound or cry"
+    },
+    {
+      "term":"shrivel",
+      "def":"to collapse inward, to crumble"
+    },
+    {
+      "term":"shunt",
+      "def":"to turn away or aside"
+    },
+    {
+      "term":"sibilate",
+      "def":"to hiss"
+    },
+    {
+      "term":"sic",
+      "def":"written parenthetically to show something quoted verbatim"
+    },
+    {
+      "term":"simulate",
+      "def":"to model or replicate the appearance or properties of"
+    },
+    {
+      "term":"singe",
+      "def":"to burn slightly"
+    },
+    {
+      "term":"skirmish",
+      "def":"to engage in a minor battle or dispute"
+    },
+    {
+      "term":"skulk",
+      "def":"to move in a stealthy manner"
+    },
+    {
+      "term":"slake",
+      "def":"to allay thirst, desire, etc, by satisfying it"
+    },
+    {
+      "term":"slight",
+      "def":"very small in size, degree, amount, or importance"
+    },
+    {
+      "term":"slough",
+      "def":"to shed (skin)"
+    },
+    {
+      "term":"smelt",
+      "def":"to fuse or melt ore in order to separate the metal contained"
+    },
+    {
+      "term":"sojourn",
+      "def":"to reside somewhere temporarily"
+    },
+    {
+      "term":"solicit",
+      "def":"to persistently try to get something or bring about an event"
+    },
+    {
+      "term":"sophisticate",
+      "def":"make worldly-wise"
+    },
+    {
+      "term":"spawn",
+      "def":"to produce or deposit (eggs) in water"
+    },
+    {
+      "term":"speculate",
+      "def":"to think, meditate or reflect on a subject"
+    },
+    {
+      "term":"spurn",
+      "def":"to reject disdainfully, contemn, scorn"
+    },
+    {
+      "term":"squabble",
+      "def":"to participate in a minor fight or argument"
+    },
+    {
+      "term":"squander",
+      "def":"to waste, lavish, splurge"
+    },
+    {
+      "term":"stagnate",
+      "def":"to cease motion, activity, or progress"
+    },
+    {
+      "term":"stanch",
+      "def":"to stop the flow of"
+    },
+    {
+      "term":"staunch",
+      "def":"to stop the flow of (blood)"
+    },
+    {
+      "term":"stifle",
+      "def":"to quell, crush or end by force"
+    },
+    {
+      "term":"stigmatize",
+      "def":"to characterize as disgraceful, to mark with a stigma"
+    },
+    {
+      "term":"stimulate",
+      "def":"to encourage into action"
+    },
+    {
+      "term":"stipulate",
+      "def":"to require (something) as a condition of a contract"
+    },
+    {
+      "term":"stoke",
+      "def":"to stir up and feed, especially, a fire or furnace"
+    },
+    {
+      "term":"strut",
+      "def":"to walk with a vain, pompous bearing"
+    },
+    {
+      "term":"stultify",
+      "def":"to make, or cause to appear, foolish or ridiculous"
+    },
+    {
+      "term":"stupefy",
+      "def":"to dull capacity to think, thereby reducing responsiveness"
+    },
+    {
+      "term":"stymie",
+      "def":"to hinder, block or thwart"
+    },
+    {
+      "term":"subdue",
+      "def":"to overcome, quieten, or bring under control"
+    },
+    {
+      "term":"subjugate",
+      "def":"to forcibly impose obedience or servitude"
+    },
+    {
+      "term":"sublimate",
+      "def":"to change from a solid to a gas without becoming liquid"
+    },
+    {
+      "term":"submerge",
+      "def":"to sink below the surface of water or another medium"
+    },
+    {
+      "term":"subordinate",
+      "def":"to make subservient"
+    },
+    {
+      "term":"subside",
+      "def":"to sink or fall to the bottom, to settle, as lees"
+    },
+    {
+      "term":"subsist",
+      "def":"to survive on a minimum of resources"
+    },
+    {
+      "term":"substantiate",
+      "def":"to establish by proof or competent evidence"
+    },
+    {
+      "term":"subtend",
+      "def":"to extend or stretch underneath or opposite something"
+    },
+    {
+      "term":"subvert",
+      "def":"to overturn from the foundation, to overthrow"
+    },
+    {
+      "term":"succumb",
+      "def":"to yield to an overpowering force or overwhelming desire"
+    },
+    {
+      "term":"suffice",
+      "def":"to be enough or adequate"
+    },
+    {
+      "term":"suffuse",
+      "def":"to spread through or over something, especially as a liquid"
+    },
+    {
+      "term":"sully",
+      "def":"to soil, stain or tarnish"
+    },
+    {
+      "term":"sunder",
+      "def":"to separate"
+    },
+    {
+      "term":"superadd",
+      "def":"to add on top of a previous addition"
+    },
+    {
+      "term":"superannuate",
+      "def":"to allow to retire from office on a pension because of age"
+    },
+    {
+      "term":"superintend",
+      "def":"to oversee the work of others, to supervise"
+    },
+    {
+      "term":"supersede",
+      "def":"to replace in power, effectiveness, use, etc"
+    },
+    {
+      "term":"supervene",
+      "def":"to take place or occur as something additional or extraneous"
+    },
+    {
+      "term":"supplant",
+      "def":"to take the place of, to replace, to supersede"
+    },
+    {
+      "term":"supplicate",
+      "def":"humble oneself before another in making a request, to beg"
+    },
+    {
+      "term":"suppress",
+      "def":"to hold in place, to keep low, to prevent publication"
+    },
+    {
+      "term":"surmise",
+      "def":"a conclusion drawn on limited evidence or intuitive feeling"
+    },
+    {
+      "term":"surmount",
+      "def":"to get over, to overcome"
+    },
+    {
+      "term":"surpass",
+      "def":"exceed; be greater than"
+    },
+    {
+      "term":"surrogate",
+      "def":"to substitute something with something else"
+    },
+    {
+      "term":"surround",
+      "def":"to encircle"
+    },
+    {
+      "term":"suspect",
+      "def":"to suppose (something) to be true without evidence"
+    },
+    {
+      "term":"swathe",
+      "def":"to bind with a swathe, band, bandage, or rollers"
+    },
+    {
+      "term":"tantalize",
+      "def":"to tease by offering something but keeping it out of reach"
+    },
+    {
+      "term":"tantamount",
+      "def":"to amount to as much, to be equivalent"
+    },
+    {
+      "term":"tarnish",
+      "def":"to oxidize or discolor due to oxidation"
+    },
+    {
+      "term":"taunt",
+      "def":"to goad (a person) into responding, often aggressively"
+    },
+    {
+      "term":"teem",
+      "def":"to be stocked to overflowing"
+    },
+    {
+      "term":"temper",
+      "def":"to moderate or control"
+    },
+    {
+      "term":"temporize",
+      "def":"to be indecisive or evasive to gain time"
+    },
+    {
+      "term":"tempt",
+      "def":"to entice to do something often regarded as unwise or wrong"
+    },
+    {
+      "term":"tenure",
+      "def":"the holding or possessing of something"
+    },
+    {
+      "term":"terminate",
+      "def":"to finish or end"
+    },
+    {
+      "term":"terrify",
+      "def":"to frighten greatly, to fill with terror"
+    },
+    {
+      "term":"theorize",
+      "def":"to formulate theories about some specific subject"
+    },
+    {
+      "term":"thrive",
+      "def":"prosper; flourish"
+    },
+    {
+      "term":"thwart",
+      "def":"to prevent, to halt, to cause to fail, to foil, to frustrate"
+    },
+    {
+      "term":"tinge",
+      "def":"to colour slightly"
+    },
+    {
+      "term":"titter",
+      "def":"to laugh or giggle in a somewhat subdued manner"
+    },
+    {
+      "term":"totter",
+      "def":"to walk, move or stand unsteadily or falteringly"
+    },
+    {
+      "term":"traduce",
+      "def":"to slander, or to speak maliciously and falsely of"
+    },
+    {
+      "term":"transact",
+      "def":"to do, carry through, conduct or perform some action"
+    },
+    {
+      "term":"transcend",
+      "def":"to rise above or go beyond"
+    },
+    {
+      "term":"transcribe",
+      "def":"to make a written copy of spoken material"
+    },
+    {
+      "term":"transfigure",
+      "def":"to transform the outward appearance of something"
+    },
+    {
+      "term":"transfuse",
+      "def":"to transfer or pass from one to another"
+    },
+    {
+      "term":"transgress",
+      "def":"to violate a law, command, moral code, etc"
+    },
+    {
+      "term":"transliterate",
+      "def":"to change into corresponding characters of another alphabet"
+    },
+    {
+      "term":"transmit",
+      "def":"to send something from one person, place or thing to another"
+    },
+    {
+      "term":"transmute",
+      "def":"to change from one form into another"
+    },
+    {
+      "term":"transpire",
+      "def":"to occur, happen or take place"
+    },
+    {
+      "term":"transplant",
+      "def":"to transfer something from one place to another"
+    },
+    {
+      "term":"traverse",
+      "def":"to pass or move over, along or through"
+    },
+    {
+      "term":"tremor",
+      "def":"to shake or quiver excessively and rapidly or involuntarily"
+    },
+    {
+      "term":"triplicate",
+      "def":"to make three identical copies of something"
+    },
+    {
+      "term":"trisect",
+      "def":"to cut into three pieces"
+    },
+    {
+      "term":"truckle",
+      "def":"to submit or yield tamely"
+    },
+    {
+      "term":"truncate",
+      "def":"to shorten something as if by cutting off part of it"
+    },
+    {
+      "term":"typify",
+      "def":"to embody, exemplify, to represent by an image"
+    },
+    {
+      "term":"undeceive",
+      "def":"to free from misconception, deception or error"
+    },
+    {
+      "term":"undercharge",
+      "def":"to charge less than the correct amount"
+    },
+    {
+      "term":"underexpose",
+      "def":"expose (film or an image) for too short a time"
+    },
+    {
+      "term":"underlie",
+      "def":"to lie in a position directly beneath"
+    },
+    {
+      "term":"undermine",
+      "def":"to attempt to subvert through stealth"
+    },
+    {
+      "term":"underrate",
+      "def":"to underestimate, to make too low a rate or estimate"
+    },
+    {
+      "term":"underscore",
+      "def":"to underline, to mark a line beneath text"
+    },
+    {
+      "term":"undersell",
+      "def":"to sell goods for a lower price than a competitor"
+    },
+    {
+      "term":"understate",
+      "def":"to minimise or downplay"
+    },
+    {
+      "term":"underwrite",
+      "def":"to write under, especially under other written matter"
+    },
+    {
+      "term":"undulate",
+      "def":"to cause to move in a wavelike motion"
+    },
+    {
+      "term":"unfetter",
+      "def":"free from restraint"
+    },
+    {
+      "term":"unfrock",
+      "def":"to remove from status as a member of a clergy"
+    },
+    {
+      "term":"unify",
+      "def":"to become one, merge, combine"
+    },
+    {
+      "term":"unravel",
+      "def":"to separate the threads (of)"
+    },
+    {
+      "term":"unsettle",
+      "def":"to make upset or uncomfortable"
+    },
+    {
+      "term":"unyoke",
+      "def":"to release something from a yoke or harness"
+    },
+    {
+      "term":"upbraid",
+      "def":"to find fault with or reproach severely"
+    },
+    {
+      "term":"upcast",
+      "def":"to cast or throw up, to turn upward"
+    },
+    {
+      "term":"upheave",
+      "def":"to heave or lift up, raise up or aloft"
+    },
+    {
+      "term":"uproot",
+      "def":"to tear away from a native place or environment"
+    },
+    {
+      "term":"upstart",
+      "def":"to rise suddenly, to spring"
+    },
+    {
+      "term":"upturn",
+      "def":"to turn (something) up or over"
+    },
+    {
+      "term":"usurp",
+      "def":"to seize power from another, usually by illegitimate means"
+    },
+    {
+      "term":"vacate",
+      "def":"to move out of a dwelling, either by choice or by eviction"
+    },
+    {
+      "term":"vaccinate",
+      "def":"treat with a vaccine to produce immunity against a disease"
+    },
+    {
+      "term":"vacillate",
+      "def":"to waver in opinion"
+    },
+    {
+      "term":"validate",
+      "def":"to confirm"
+    },
+    {
+      "term":"variegate",
+      "def":"to make varied in appearance"
+    },
+    {
+      "term":"veer",
+      "def":"to change from one course or direction to another"
+    },
+    {
+      "term":"vegetate",
+      "def":"to grow or sprout"
+    },
+    {
+      "term":"venerate",
+      "def":"to regard or treat with reverence"
+    },
+    {
+      "term":"venture",
+      "def":"to undertake a risky or daring journey"
+    },
+    {
+      "term":"verify",
+      "def":"to substantiate or prove the truth of something"
+    },
+    {
+      "term":"vex",
+      "def":"to irritate"
+    },
+    {
+      "term":"vie",
+      "def":"to contend for superiority"
+    },
+    {
+      "term":"vilify",
+      "def":"to say defamatory things about someone or something"
+    },
+    {
+      "term":"vindicate",
+      "def":"to clear from an accusation, suspicion or criticism"
+    },
+    {
+      "term":"vitiate",
+      "def":"to impair the quality of"
+    },
+    {
+      "term":"vituperate",
+      "def":"to criticize in a harsh or abusive manner"
+    },
+    {
+      "term":"vivify",
+      "def":"to bring to life"
+    },
+    {
+      "term":"vociferate",
+      "def":"to speak or cry out loudly"
+    },
+    {
+      "term":"vouchsafe",
+      "def":"to grant or give, as by favor, graciousness or condescension"
+    },
+    {
+      "term":"waft",
+      "def":"to carry lightly and smoothly through the air or over water"
+    },
+    {
+      "term":"waive",
+      "def":"to refrain from claiming or insisting on"
+    },
+    {
+      "term":"wallow",
+      "def":" to move lazily or heavily"
+    },
+    {
+      "term":"wane",
+      "def":"to decrease in strength, intensity, etc"
+    },
+    {
+      "term":"warp",
+      "def":"to bend or twist out of shape"
+    },
+    {
+      "term":"waver",
+      "def":"to sway back and forth, to totter or reel"
+    },
+    {
+      "term":"waylay",
+      "def":"to lie in wait for and attack from ambush"
+    },
+    {
+      "term":"wean",
+      "def":"to accustom a child to food other than mother's milk"
+    },
+    {
+      "term":"welter",
+      "def":"to roll, toss or heave"
+    },
+    {
+      "term":"wheedle",
+      "def":"to influence a person by smooth, flattering words or acts"
+    },
+    {
+      "term":"whelp",
+      "def":"to give birth"
+    },
+    {
+      "term":"whet",
+      "def":"to sharpen by grinding or friction"
+    },
+    {
+      "term":"whine",
+      "def":"to utter a complaining cry or sound"
+    },
+    {
+      "term":"wield",
+      "def":"to command, rule over, to possess or own"
+    },
+    {
+      "term":"winnow",
+      "def":"to remove lighter particles from grain"
+    },
+    {
+      "term":"wither",
+      "def":"to shrivel"
+    },
+    {
+      "term":"wizen",
+      "def":"to become wrinkled by shrinkage as from age or illness"
+    },
+    {
+      "term":"wrangle",
+      "def":"to bicker, or quarrel angrily and noisily"
+    },
+    {
+      "term":"wreak",
+      "def":"to inflict, especially if causing harm or injury"
+    },
+    {
+      "term":"wrench",
+      "def":"to twist suddenly and forcibly"
+    },
+    {
+      "term":"wrest",
+      "def":"to pull or twist violently"
+    },
+    {
+      "term":"writhe",
+      "def":" to twist or turn so as to distort, to wring"
+    },
+    {
+      "term":"yearn",
+      "def":"to have earnest or strong desire"
+    }
+  ]
+}
