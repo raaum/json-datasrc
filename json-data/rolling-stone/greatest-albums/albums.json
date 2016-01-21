@@ -1,0 +1,3002 @@
+[
+  {
+    "Rank": 1,
+    "Album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "Artist": "The Beatles",
+    "Year": 1967
+  },
+  {
+    "Rank": 2,
+    "Album": "Pet Sounds",
+    "Artist": "Beach Boys",
+    "Year": 1966
+  },
+  {
+    "Rank": 3,
+    "Album": "Revolver",
+    "Artist": "The Beatles",
+    "Year": 1966
+  },
+  {
+    "Rank": 4,
+    "Album": "Highway 61 Revisited",
+    "Artist": "Bob Dylan",
+    "Year": 1965
+  },
+  {
+    "Rank": 5,
+    "Album": "Rubber Soul",
+    "Artist": "The Beatles",
+    "Year": 1965
+  },
+  {
+    "Rank": 6,
+    "Album": "What's Going On",
+    "Artist": "Marvin Gaye",
+    "Year": 1971
+  },
+  {
+    "Rank": 7,
+    "Album": "Exile On Main St.",
+    "Artist": "Rolling Stones",
+    "Year": 1972
+  },
+  {
+    "Rank": 8,
+    "Album": "London Calling",
+    "Artist": "The Clash",
+    "Year": 1979
+  },
+  {
+    "Rank": 9,
+    "Album": "Blonde On Blonde",
+    "Artist": "Bob Dylan",
+    "Year": 1966
+  },
+  {
+    "Rank": 10,
+    "Album": "The Beatles (The White Album)",
+    "Artist": "The Beatles",
+    "Year": 1968
+  },
+  {
+    "Rank": 11,
+    "Album": "The Sun Sessions",
+    "Artist": "Elvis Presley",
+    "Year": 1976
+  },
+  {
+    "Rank": 12,
+    "Album": "Kind Of Blue",
+    "Artist": "Miles Davis",
+    "Year": 1959
+  },
+  {
+    "Rank": 13,
+    "Album": "Velvet Underground & Nico",
+    "Artist": "Velvet Underground",
+    "Year": 1967
+  },
+  {
+    "Rank": 14,
+    "Album": "Abbey Road",
+    "Artist": "The Beatles",
+    "Year": 1969
+  },
+  {
+    "Rank": 15,
+    "Album": "Are You Experienced?",
+    "Artist": "Jimi Hendrix Experience",
+    "Year": 1967
+  },
+  {
+    "Rank": 16,
+    "Album": "Blood On The Tracks",
+    "Artist": "Bob Dylan",
+    "Year": 1975
+  },
+  {
+    "Rank": 17,
+    "Album": "Nevermind",
+    "Artist": "Nirvana",
+    "Year": 1991
+  },
+  {
+    "Rank": 18,
+    "Album": "Born To Run",
+    "Artist": "Bruce Springsteen",
+    "Year": 1975
+  },
+  {
+    "Rank": 19,
+    "Album": "Astral Weeks",
+    "Artist": "Van Morrison",
+    "Year": 1968
+  },
+  {
+    "Rank": 20,
+    "Album": "Thriller",
+    "Artist": "Michael Jackson",
+    "Year": 1982
+  },
+  {
+    "Rank": 21,
+    "Album": "The Great Twenty-Eight",
+    "Artist": "Chuck Berry",
+    "Year": 1982
+  },
+  {
+    "Rank": 22,
+    "Album": "Plastic Ono Band",
+    "Artist": "John Lennon",
+    "Year": 1970
+  },
+  {
+    "Rank": 23,
+    "Album": "Innervisions",
+    "Artist": "Stevie Wonder",
+    "Year": 1973
+  },
+  {
+    "Rank": 24,
+    "Album": "Live At The Apollo",
+    "Artist": "James Brown",
+    "Year": 1963
+  },
+  {
+    "Rank": 25,
+    "Album": "Rumours",
+    "Artist": "Fleetwood Mac",
+    "Year": 1977
+  },
+  {
+    "Rank": 26,
+    "Album": "The Joshua Tree",
+    "Artist": "U2",
+    "Year": 1987
+  },
+  {
+    "Rank": 27,
+    "Album": "King Of The Delta Blues Singers, Vol. 1",
+    "Artist": "Robert Johnson",
+    "Year": 1961
+  },
+  {
+    "Rank": 28,
+    "Album": "Who's Next",
+    "Artist": "The Who",
+    "Year": 1971
+  },
+  {
+    "Rank": 29,
+    "Album": "Led Zeppelin I",
+    "Artist": "Led Zeppelin",
+    "Year": 1969
+  },
+  {
+    "Rank": 30,
+    "Album": "Blue",
+    "Artist": "Joni Mitchell",
+    "Year": 1971
+  },
+  {
+    "Rank": 31,
+    "Album": "Bringing It All Back Home",
+    "Artist": "Bob Dylan",
+    "Year": 1965
+  },
+  {
+    "Rank": 32,
+    "Album": "Let It Bleed",
+    "Artist": "Rolling Stones",
+    "Year": 1969
+  },
+  {
+    "Rank": 33,
+    "Album": "Ramones",
+    "Artist": "Ramones",
+    "Year": 1976
+  },
+  {
+    "Rank": 34,
+    "Album": "Music From Big Pink",
+    "Artist": "The Band",
+    "Year": 1968
+  },
+  {
+    "Rank": 35,
+    "Album": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+    "Artist": "David Bowie",
+    "Year": 1972
+  },
+  {
+    "Rank": 36,
+    "Album": "Tapestry",
+    "Artist": "Carole King",
+    "Year": 1971
+  },
+  {
+    "Rank": 37,
+    "Album": "Hotel California",
+    "Artist": "The Eagles",
+    "Year": 1976
+  },
+  {
+    "Rank": 38,
+    "Album": "The Anthology, 1947 - 1972",
+    "Artist": "Muddy Waters",
+    "Year": 2001
+  },
+  {
+    "Rank": 39,
+    "Album": "Please Please Me",
+    "Artist": "The Beatles",
+    "Year": 1963
+  },
+  {
+    "Rank": 40,
+    "Album": "Forever Changes",
+    "Artist": "Love",
+    "Year": 1968
+  },
+  {
+    "Rank": 41,
+    "Album": "Never Mind The Bollocks, Here's The Sex Pistols",
+    "Artist": "Sex Pistols",
+    "Year": 1977
+  },
+  {
+    "Rank": 42,
+    "Album": "The Doors",
+    "Artist": "The Doors",
+    "Year": 1967
+  },
+  {
+    "Rank": 43,
+    "Album": "Dark Side Of The Moon",
+    "Artist": "Pink Floyd",
+    "Year": 1973
+  },
+  {
+    "Rank": 44,
+    "Album": "Horses",
+    "Artist": "Patti Smith",
+    "Year": 1975
+  },
+  {
+    "Rank": 45,
+    "Album": "The Band",
+    "Artist": "The Band",
+    "Year": 1969
+  },
+  {
+    "Rank": 46,
+    "Album": "Legend",
+    "Artist": "Bob Marley & The Wailers",
+    "Year": 1984
+  },
+  {
+    "Rank": 47,
+    "Album": "A Love Supreme",
+    "Artist": "John Coltrane",
+    "Year": 1964
+  },
+  {
+    "Rank": 48,
+    "Album": "It Takes a Nation of Millions to Hold Us Back",
+    "Artist": "Public Enemy",
+    "Year": 1988
+  },
+  {
+    "Rank": 49,
+    "Album": "At Fillmore East",
+    "Artist": "Allman Brothers Band",
+    "Year": 1971
+  },
+  {
+    "Rank": 50,
+    "Album": "Here's Little Richard",
+    "Artist": "Little Richard",
+    "Year": 1957
+  },
+  {
+    "Rank": 51,
+    "Album": "Bridge Over Troubled Water",
+    "Artist": "Simon & Garfunkel",
+    "Year": 1970
+  },
+  {
+    "Rank": 52,
+    "Album": "Greatest Hits",
+    "Artist": "Al Green",
+    "Year": 1975
+  },
+  {
+    "Rank": 53,
+    "Album": "The Birth of Soul: The Complete Atlantic Rhythm and Blues Recordings, 1952 - 1959",
+    "Artist": "Ray Charles",
+    "Year": 1991
+  },
+  {
+    "Rank": 54,
+    "Album": "Electric Ladyland",
+    "Artist": "Jimi Hendrix Experience",
+    "Year": 1968
+  },
+  {
+    "Rank": 55,
+    "Album": "Elvis Presley",
+    "Artist": "Elvis Presley",
+    "Year": 1956
+  },
+  {
+    "Rank": 56,
+    "Album": "Songs In The Key Of Life",
+    "Artist": "Stevie Wonder",
+    "Year": 1976
+  },
+  {
+    "Rank": 57,
+    "Album": "Beggars Banquet",
+    "Artist": "Rolling Stones",
+    "Year": 1968
+  },
+  {
+    "Rank": 58,
+    "Album": "Trout Mask Replica",
+    "Artist": "Captain Beefheart & His Magic Band",
+    "Year": 1969
+  },
+  {
+    "Rank": 59,
+    "Album": "Meet The Beatles!",
+    "Artist": "The Beatles",
+    "Year": 1964
+  },
+  {
+    "Rank": 60,
+    "Album": "Greatest Hits",
+    "Artist": "Sly & The Family Stone",
+    "Year": 1970
+  },
+  {
+    "Rank": 61,
+    "Album": "Appetite For Destruction",
+    "Artist": "Guns N' Roses",
+    "Year": 1987
+  },
+  {
+    "Rank": 62,
+    "Album": "Achtung Baby",
+    "Artist": "U2",
+    "Year": 1991
+  },
+  {
+    "Rank": 63,
+    "Album": "Sticky Fingers",
+    "Artist": "Rolling Stones",
+    "Year": 1971
+  },
+  {
+    "Rank": 64,
+    "Album": "Phil Spector, Back to Mono (1958 - 1969)",
+    "Artist": "various artists",
+    "Year": 1991
+  },
+  {
+    "Rank": 65,
+    "Album": "Moondance",
+    "Artist": "Van Morrison",
+    "Year": 1970
+  },
+  {
+    "Rank": 66,
+    "Album": "Led Zeppelin IV",
+    "Artist": "Led Zeppelin",
+    "Year": 1971
+  },
+  {
+    "Rank": 67,
+    "Album": "The Stranger",
+    "Artist": "Billy Joel",
+    "Year": 1977
+  },
+  {
+    "Rank": 68,
+    "Album": "Off The Wall",
+    "Artist": "Michael Jackson",
+    "Year": 1979
+  },
+  {
+    "Rank": 69,
+    "Album": "Superfly",
+    "Artist": "Curtis Mayfield",
+    "Year": 1972
+  },
+  {
+    "Rank": 70,
+    "Album": "Physical Graffiti",
+    "Artist": "Led Zeppelin",
+    "Year": 1975
+  },
+  {
+    "Rank": 71,
+    "Album": "After The Gold Rush",
+    "Artist": "Neil Young",
+    "Year": 1970
+  },
+  {
+    "Rank": 72,
+    "Album": "Purple Rain",
+    "Artist": "Prince",
+    "Year": 1984
+  },
+  {
+    "Rank": 73,
+    "Album": "Back In Black",
+    "Artist": "AC/DC",
+    "Year": 1980
+  },
+  {
+    "Rank": 74,
+    "Album": "Otis Blue: Otis Redding Singles Soul",
+    "Artist": "Otis Redding",
+    "Year": 1965
+  },
+  {
+    "Rank": 75,
+    "Album": "Led Zeppelin II",
+    "Artist": "Led Zeppelin",
+    "Year": 1969
+  },
+  {
+    "Rank": 76,
+    "Album": "Imagine",
+    "Artist": "John Lennon",
+    "Year": 1971
+  },
+  {
+    "Rank": 77,
+    "Album": "The Clash",
+    "Artist": "The Clash",
+    "Year": 1977
+  },
+  {
+    "Rank": 78,
+    "Album": "Harvest",
+    "Artist": "Neil Young",
+    "Year": 1972
+  },
+  {
+    "Rank": 79,
+    "Album": "Star Time",
+    "Artist": "James Brown",
+    "Year": 1991
+  },
+  {
+    "Rank": 80,
+    "Album": "Odessey & Oracle",
+    "Artist": "The Zombies",
+    "Year": 1968
+  },
+  {
+    "Rank": 81,
+    "Album": "Graceland",
+    "Artist": "Paul Simon",
+    "Year": 1986
+  },
+  {
+    "Rank": 82,
+    "Album": "Axis: Bold As Love",
+    "Artist": "Jimi Hendrix Experience",
+    "Year": 1968
+  },
+  {
+    "Rank": 83,
+    "Album": "I Never Loved A Man The Way I Love You",
+    "Artist": "Aretha Franklin",
+    "Year": 1967
+  },
+  {
+    "Rank": 84,
+    "Album": "Lady Soul",
+    "Artist": "Aretha Franklin",
+    "Year": 1968
+  },
+  {
+    "Rank": 85,
+    "Album": "Born In The U.S.A.",
+    "Artist": "Bruce Springsteen",
+    "Year": 1984
+  },
+  {
+    "Rank": 86,
+    "Album": "Let It Be",
+    "Artist": "The Beatles",
+    "Year": 1970
+  },
+  {
+    "Rank": 87,
+    "Album": "The Wall",
+    "Artist": "Pink Floyd",
+    "Year": 1979
+  },
+  {
+    "Rank": 88,
+    "Album": "Johnny Cash At Folsom Prison",
+    "Artist": "Johnny Cash",
+    "Year": 1968
+  },
+  {
+    "Rank": 89,
+    "Album": "Dusty In Memphis",
+    "Artist": "Dusty Springfield",
+    "Year": 1968
+  },
+  {
+    "Rank": 90,
+    "Album": "Talking Book",
+    "Artist": "Stevie Wonder",
+    "Year": 1972
+  },
+  {
+    "Rank": 91,
+    "Album": "Goodbye Yellow Brick Road",
+    "Artist": "Elton John",
+    "Year": 1973
+  },
+  {
+    "Rank": 92,
+    "Album": "20 Golden Greats",
+    "Artist": "Buddy Holly",
+    "Year": 1978
+  },
+  {
+    "Rank": 93,
+    "Album": "Sign O' The Times",
+    "Artist": "Prince",
+    "Year": 1987
+  },
+  {
+    "Rank": 94,
+    "Album": "Bitches Brew",
+    "Artist": "Miles Davis",
+    "Year": 1970
+  },
+  {
+    "Rank": 95,
+    "Album": "Green River",
+    "Artist": "Creedence Clearwater Revival",
+    "Year": 1969
+  },
+  {
+    "Rank": 96,
+    "Album": "Tommy",
+    "Artist": "The Who",
+    "Year": 1969
+  },
+  {
+    "Rank": 97,
+    "Album": "The Freewheelin' Bob Dylan",
+    "Artist": "Bob Dylan",
+    "Year": 1963
+  },
+  {
+    "Rank": 98,
+    "Album": "This Year's Model",
+    "Artist": "Elvis Costello",
+    "Year": 1978
+  },
+  {
+    "Rank": 99,
+    "Album": "There's A Riot Goin' On",
+    "Artist": "Sly & The Family Stone",
+    "Year": 1972
+  },
+  {
+    "Rank": 100,
+    "Album": "In The Wee Small Hours",
+    "Artist": "Frank Sinatra",
+    "Year": 1954
+  },
+  {
+    "Rank": 101,
+    "Album": "Fresh Cream",
+    "Artist": "Cream",
+    "Year": 1966
+  },
+  {
+    "Rank": 102,
+    "Album": "Giant Steps",
+    "Artist": "John Coltrane",
+    "Year": 1959
+  },
+  {
+    "Rank": 103,
+    "Album": "Sweet Baby James",
+    "Artist": "James Taylor",
+    "Year": 1970
+  },
+  {
+    "Rank": 104,
+    "Album": "Modern Sounds in Country and Western Music",
+    "Artist": "Ray Charles",
+    "Year": 1962
+  },
+  {
+    "Rank": 105,
+    "Album": "Rocket to Russia",
+    "Artist": "Ramones",
+    "Year": 1977
+  },
+  {
+    "Rank": 106,
+    "Album": "Portrait Of A Legend 1951 - 1964",
+    "Artist": "Sam Cooke",
+    "Year": 2003
+  },
+  {
+    "Rank": 107,
+    "Album": "Hunky Dory",
+    "Artist": "David Bowie",
+    "Year": 1971
+  },
+  {
+    "Rank": 108,
+    "Album": "Aftermath",
+    "Artist": "Rolling Stones",
+    "Year": 1966
+  },
+  {
+    "Rank": 109,
+    "Album": "Loaded",
+    "Artist": "Velvet Underground",
+    "Year": 1970
+  },
+  {
+    "Rank": 110,
+    "Album": "The Bends",
+    "Artist": "Radiohead",
+    "Year": 1995
+  },
+  {
+    "Rank": 111,
+    "Album": "Court And Spark",
+    "Artist": "Joni Mitchell",
+    "Year": 1974
+  },
+  {
+    "Rank": 112,
+    "Album": "Disraeli Gears",
+    "Artist": "Cream",
+    "Year": 1967
+  },
+  {
+    "Rank": 113,
+    "Album": "The Who Sell Out",
+    "Artist": "The Who",
+    "Year": 1967
+  },
+  {
+    "Rank": 114,
+    "Album": "Out Of Our Heads",
+    "Artist": "Rolling Stones",
+    "Year": 1965
+  },
+  {
+    "Rank": 115,
+    "Album": "Layla And Other Assorted Love Songs",
+    "Artist": "Derek & The Dominos",
+    "Year": 1970
+  },
+  {
+    "Rank": 116,
+    "Album": "At Last",
+    "Artist": "Etta James",
+    "Year": 1961
+  },
+  {
+    "Rank": 117,
+    "Album": "Sweetheart Of The Rodeo",
+    "Artist": "The Byrds",
+    "Year": 1968
+  },
+  {
+    "Rank": 118,
+    "Album": "Stand!",
+    "Artist": "Sly & The Family Stone",
+    "Year": 1969
+  },
+  {
+    "Rank": 119,
+    "Album": "The Harder They Come soundtrack",
+    "Artist": "Jimmy Cliff",
+    "Year": 1973
+  },
+  {
+    "Rank": 120,
+    "Album": "Raising Hell",
+    "Artist": "Run-D.M.C.",
+    "Year": 1986
+  },
+  {
+    "Rank": 121,
+    "Album": "Moby Grape",
+    "Artist": "Moby Grape",
+    "Year": 1967
+  },
+  {
+    "Rank": 122,
+    "Album": "Pearl",
+    "Artist": "Janis Joplin",
+    "Year": 1971
+  },
+  {
+    "Rank": 123,
+    "Album": "Catch a Fire",
+    "Artist": "Bob Marley & The Wailers",
+    "Year": 1973
+  },
+  {
+    "Rank": 124,
+    "Album": "Younger Than Yesterday",
+    "Artist": "The Byrds",
+    "Year": 1967
+  },
+  {
+    "Rank": 125,
+    "Album": "Raw Power",
+    "Artist": "The Stooges",
+    "Year": 1973
+  },
+  {
+    "Rank": 126,
+    "Album": "Remain in Light",
+    "Artist": "Talking Heads",
+    "Year": 1980
+  },
+  {
+    "Rank": 127,
+    "Album": "If You Can Believe Your Eyes And Ears",
+    "Artist": "The Mamas & The Papas",
+    "Year": 1966
+  },
+  {
+    "Rank": 128,
+    "Album": "Marquee Moon",
+    "Artist": "Television",
+    "Year": 1977
+  },
+  {
+    "Rank": 129,
+    "Album": "40 Greatest Hits",
+    "Artist": "Hank Williams, Sr.",
+    "Year": 1978
+  },
+  {
+    "Rank": 130,
+    "Album": "Paranoid",
+    "Artist": "Black Sabbath",
+    "Year": 1971
+  },
+  {
+    "Rank": 131,
+    "Album": "Saturday Night Fever soundtrack",
+    "Artist": "Bee Gees",
+    "Year": 1977
+  },
+  {
+    "Rank": 132,
+    "Album": "The Wild, The Innocent & The E Street Shuffle",
+    "Artist": "Bruce Springsteen",
+    "Year": 1973
+  },
+  {
+    "Rank": 133,
+    "Album": "Ready To Die",
+    "Artist": "The Notorious B.I.G.",
+    "Year": 1994
+  },
+  {
+    "Rank": 134,
+    "Album": "Slanted And Enchanted",
+    "Artist": "Pavement",
+    "Year": 1992
+  },
+  {
+    "Rank": 135,
+    "Album": "Greatest Hits",
+    "Artist": "Elton John",
+    "Year": 1974
+  },
+  {
+    "Rank": 136,
+    "Album": "Tim",
+    "Artist": "The Replacements",
+    "Year": 1985
+  },
+  {
+    "Rank": 137,
+    "Album": "The Chronic",
+    "Artist": "Dr. Dre",
+    "Year": 1993
+  },
+  {
+    "Rank": 138,
+    "Album": "Rejuvenation",
+    "Artist": "The Meters",
+    "Year": 1974
+  },
+  {
+    "Rank": 139,
+    "Album": "All That You Can't Leave Behind",
+    "Artist": "U2",
+    "Year": 2000
+  },
+  {
+    "Rank": 140,
+    "Album": "Parallel Lines",
+    "Artist": "Blondie",
+    "Year": 1978
+  },
+  {
+    "Rank": 141,
+    "Album": "Live At The Regal",
+    "Artist": "B.B. King",
+    "Year": 1965
+  },
+  {
+    "Rank": 142,
+    "Album": "Phil Spector, A Christmas Gift for You",
+    "Artist": "various artists",
+    "Year": 1963
+  },
+  {
+    "Rank": 143,
+    "Album": "Gris-Gris",
+    "Artist": "Dr. John",
+    "Year": 1968
+  },
+  {
+    "Rank": 144,
+    "Album": "Straight Outta Compton",
+    "Artist": "N.W.A.",
+    "Year": 1988
+  },
+  {
+    "Rank": 145,
+    "Album": "Aja",
+    "Artist": "Steely Dan",
+    "Year": 1977
+  },
+  {
+    "Rank": 146,
+    "Album": "Surrealistic Pillow",
+    "Artist": "Jefferson Airplane",
+    "Year": 1967
+  },
+  {
+    "Rank": 147,
+    "Album": "Dreams to Remember - The Otis Redding Anthology",
+    "Artist": "Otis Redding",
+    "Year": 1998
+  },
+  {
+    "Rank": 148,
+    "Album": "Deja Vu",
+    "Artist": "Crosby, Stills, Nash & Young",
+    "Year": 1970
+  },
+  {
+    "Rank": 149,
+    "Album": "Houses Of The Holy",
+    "Artist": "Led Zeppelin",
+    "Year": 1973
+  },
+  {
+    "Rank": 150,
+    "Album": "Santana",
+    "Artist": "Santana",
+    "Year": 1969
+  },
+  {
+    "Rank": 151,
+    "Album": "Darkness On The Edge Of Town",
+    "Artist": "Bruce Springsteen",
+    "Year": 1978
+  },
+  {
+    "Rank": 152,
+    "Album": "The B-52's",
+    "Artist": "The B-52's",
+    "Year": 1979
+  },
+  {
+    "Rank": 153,
+    "Album": "Moanin' In The Moonlight",
+    "Artist": "Howlin' Wolf",
+    "Year": 1959
+  },
+  {
+    "Rank": 154,
+    "Album": "The Low End Theory",
+    "Artist": "A Tribe Called Quest",
+    "Year": 1991
+  },
+  {
+    "Rank": 155,
+    "Album": "The Pretenders",
+    "Artist": "The Pretenders",
+    "Year": 1980
+  },
+  {
+    "Rank": 156,
+    "Album": "Paul's Boutique",
+    "Artist": "Beastie Boys",
+    "Year": 1989
+  },
+  {
+    "Rank": 157,
+    "Album": "Closer",
+    "Artist": "Joy Division",
+    "Year": 1980
+  },
+  {
+    "Rank": 158,
+    "Album": "Captain Fantastic And The Brown Dirt Cowboy",
+    "Artist": "Elton John",
+    "Year": 1975
+  },
+  {
+    "Rank": 159,
+    "Album": "Alive",
+    "Artist": "Kiss",
+    "Year": 1975
+  },
+  {
+    "Rank": 160,
+    "Album": "Electric Warrior",
+    "Artist": "T. Rex",
+    "Year": 1971
+  },
+  {
+    "Rank": 161,
+    "Album": "The Dock Of The Bay",
+    "Artist": "Otis Redding",
+    "Year": 1968
+  },
+  {
+    "Rank": 162,
+    "Album": "O.K. Computer",
+    "Artist": "Radiohead",
+    "Year": 1997
+  },
+  {
+    "Rank": 163,
+    "Album": 1999,
+    "Artist": "Prince",
+    "Year": 1982
+  },
+  {
+    "Rank": 164,
+    "Album": "Heart Like A Wheel",
+    "Artist": "Linda Ronstadt",
+    "Year": 1974
+  },
+  {
+    "Rank": 165,
+    "Album": "Let's Get It On",
+    "Artist": "Marvin Gaye",
+    "Year": 1973
+  },
+  {
+    "Rank": 166,
+    "Album": "Imperial Bedroom",
+    "Artist": "Elvis Costello",
+    "Year": 1982
+  },
+  {
+    "Rank": 167,
+    "Album": "Master Of Puppets",
+    "Artist": "Metallica",
+    "Year": 1986
+  },
+  {
+    "Rank": 168,
+    "Album": "My Aim Is True",
+    "Artist": "Elvis Costello",
+    "Year": 1977
+  },
+  {
+    "Rank": 169,
+    "Album": "Exodus",
+    "Artist": "Bob Marley & The Wailers",
+    "Year": 1977
+  },
+  {
+    "Rank": 170,
+    "Album": "Live At Leeds",
+    "Artist": "The Who",
+    "Year": 1970
+  },
+  {
+    "Rank": 171,
+    "Album": "The Notorious Byrd Brothers",
+    "Artist": "The Byrds",
+    "Year": 1968
+  },
+  {
+    "Rank": 172,
+    "Album": "Every Picture Tells A Story",
+    "Artist": "Rod Stewart",
+    "Year": 1971
+  },
+  {
+    "Rank": 173,
+    "Album": "Something/Anything?",
+    "Artist": "Todd Rundgren",
+    "Year": 1972
+  },
+  {
+    "Rank": 174,
+    "Album": "Desire",
+    "Artist": "Bob Dylan",
+    "Year": 1976
+  },
+  {
+    "Rank": 175,
+    "Album": "Close To You",
+    "Artist": "The Carpenters",
+    "Year": 1970
+  },
+  {
+    "Rank": 176,
+    "Album": "Rocks",
+    "Artist": "Aerosmith",
+    "Year": 1976
+  },
+  {
+    "Rank": 177,
+    "Album": "One Nation Under A Groove",
+    "Artist": "Parliament/Funkadelic",
+    "Year": 1978
+  },
+  {
+    "Rank": 178,
+    "Album": "Greatest Hits",
+    "Artist": "The Byrds",
+    "Year": 1967
+  },
+  {
+    "Rank": 179,
+    "Album": "The Anthology 1961 - 1977",
+    "Artist": "Curtis Mayfield & The Impressions",
+    "Year": 1992
+  },
+  {
+    "Rank": 180,
+    "Album": "The Definitive Collection",
+    "Artist": "ABBA",
+    "Year": 2001
+  },
+  {
+    "Rank": 181,
+    "Album": "The Rolling Stones, Now!",
+    "Artist": "Rolling Stones",
+    "Year": 1965
+  },
+  {
+    "Rank": 182,
+    "Album": "Natty Dread",
+    "Artist": "Bob Marley & The Wailers",
+    "Year": 1974
+  },
+  {
+    "Rank": 183,
+    "Album": "Fleetwood Mac",
+    "Artist": "Fleetwood Mac",
+    "Year": 1975
+  },
+  {
+    "Rank": 184,
+    "Album": "Red Headed Stranger",
+    "Artist": "Willie Nelson",
+    "Year": 1975
+  },
+  {
+    "Rank": 185,
+    "Album": "The Stooges",
+    "Artist": "The Stooges",
+    "Year": 1969
+  },
+  {
+    "Rank": 186,
+    "Album": "Fresh",
+    "Artist": "Sly & The Family Stone",
+    "Year": 1973
+  },
+  {
+    "Rank": 187,
+    "Album": "So",
+    "Artist": "Peter Gabriel",
+    "Year": 1986
+  },
+  {
+    "Rank": 188,
+    "Album": "Buffalo Springfield Again",
+    "Artist": "Buffalo Springfield",
+    "Year": 1967
+  },
+  {
+    "Rank": 189,
+    "Album": "Happy Trails",
+    "Artist": "Quicksilver Messenger Service",
+    "Year": 1969
+  },
+  {
+    "Rank": 190,
+    "Album": "From Elvis In Memphis",
+    "Artist": "Elvis Presley",
+    "Year": 1969
+  },
+  {
+    "Rank": 191,
+    "Album": "Fun House",
+    "Artist": "The Stooges",
+    "Year": 1970
+  },
+  {
+    "Rank": 192,
+    "Album": "The Gilded Palace Of Sin",
+    "Artist": "The Flying Burrito Brothers",
+    "Year": 1969
+  },
+  {
+    "Rank": 193,
+    "Album": "Dookie",
+    "Artist": "Green Day",
+    "Year": 1994
+  },
+  {
+    "Rank": 194,
+    "Album": "Transformer",
+    "Artist": "Lou Reed",
+    "Year": 1972
+  },
+  {
+    "Rank": 195,
+    "Album": "Bluesbreakers",
+    "Artist": "John Mayall and The Bluesbreakers",
+    "Year": 1966
+  },
+  {
+    "Rank": 196,
+    "Album": "Nuggets: Original Artyfacts From The First Psychedelic Era 1965 - 1968",
+    "Artist": "various artists",
+    "Year": 1972
+  },
+  {
+    "Rank": 197,
+    "Album": "Murmur",
+    "Artist": "R.E.M.",
+    "Year": 1983
+  },
+  {
+    "Rank": 198,
+    "Album": "The Best Of Little Walter",
+    "Artist": "Little Walter",
+    "Year": 1964
+  },
+  {
+    "Rank": 199,
+    "Album": "Highway To Hell",
+    "Artist": "AC/DC",
+    "Year": 1979
+  },
+  {
+    "Rank": 200,
+    "Album": "The Downward Spiral",
+    "Artist": "Nine Inch Nails",
+    "Year": 1994
+  },
+  {
+    "Rank": 201,
+    "Album": "Parsley, Sage, Rosemary & Thyme",
+    "Artist": "Simon & Garfunkel",
+    "Year": 1966
+  },
+  {
+    "Rank": 202,
+    "Album": "Bad",
+    "Artist": "Michael Jackson",
+    "Year": 1987
+  },
+  {
+    "Rank": 203,
+    "Album": "Wheels Of Fire",
+    "Artist": "Cream",
+    "Year": 1968
+  },
+  {
+    "Rank": 204,
+    "Album": "Dirty Mind",
+    "Artist": "Prince",
+    "Year": 1980
+  },
+  {
+    "Rank": 205,
+    "Album": "Abraxas",
+    "Artist": "Santana",
+    "Year": 1970
+  },
+  {
+    "Rank": 206,
+    "Album": "Tea For The Tillerman",
+    "Artist": "Cat Stevens",
+    "Year": 1970
+  },
+  {
+    "Rank": 207,
+    "Album": "Ten",
+    "Artist": "Pearl Jam",
+    "Year": 1991
+  },
+  {
+    "Rank": 208,
+    "Album": "Everybody Knows This Is Nowhere",
+    "Artist": "Neil Young with Crazy Horse",
+    "Year": 1969
+  },
+  {
+    "Rank": 209,
+    "Album": "Wish You Were Here",
+    "Artist": "Pink Floyd",
+    "Year": 1975
+  },
+  {
+    "Rank": 210,
+    "Album": "Crooked Rain, Crooked Rain",
+    "Artist": "Pavement",
+    "Year": 1994
+  },
+  {
+    "Rank": 211,
+    "Album": "Tattoo You",
+    "Artist": "Rolling Stones",
+    "Year": 1981
+  },
+  {
+    "Rank": 212,
+    "Album": "Proud Mary: The Best Of Ike & Tina Turner",
+    "Artist": "Ike & Tina Turner",
+    "Year": 1991
+  },
+  {
+    "Rank": 213,
+    "Album": "New York Dolls",
+    "Artist": "New York Dolls",
+    "Year": 1973
+  },
+  {
+    "Rank": 214,
+    "Album": "Bo Diddley/Go Bo Diddley",
+    "Artist": "Bo Diddley",
+    "Year": 1959
+  },
+  {
+    "Rank": 215,
+    "Album": "Two Steps From The Blues",
+    "Artist": "Bobby Bland",
+    "Year": 1961
+  },
+  {
+    "Rank": 216,
+    "Album": "The Queen Is Dead",
+    "Artist": "The Smiths",
+    "Year": 1986
+  },
+  {
+    "Rank": 217,
+    "Album": "Licensed To Ill",
+    "Artist": "Beastie Boys",
+    "Year": 1986
+  },
+  {
+    "Rank": 218,
+    "Album": "Look-Ka Py Py",
+    "Artist": "The Meters",
+    "Year": 1970
+  },
+  {
+    "Rank": 219,
+    "Album": "Loveless",
+    "Artist": "My Bloody Valentine",
+    "Year": 1991
+  },
+  {
+    "Rank": 220,
+    "Album": "New Orleans Piano",
+    "Artist": "Professor Longhair",
+    "Year": 1972
+  },
+  {
+    "Rank": 221,
+    "Album": "War",
+    "Artist": "U2",
+    "Year": 1983
+  },
+  {
+    "Rank": 222,
+    "Album": "The Neil Diamond Collection",
+    "Artist": "Neil Diamond",
+    "Year": 1999
+  },
+  {
+    "Rank": 223,
+    "Album": "Howlin' Wolf",
+    "Artist": "Howlin' Wolf",
+    "Year": 1962
+  },
+  {
+    "Rank": 224,
+    "Album": "Nebraska",
+    "Artist": "Bruce Springsteen",
+    "Year": 1982
+  },
+  {
+    "Rank": 225,
+    "Album": "The Complete Hank Williams, Jr.",
+    "Artist": "Hank Williams, Jr.",
+    "Year": 1998
+  },
+  {
+    "Rank": 226,
+    "Album": "Doolittle",
+    "Artist": "Pixies",
+    "Year": 1989
+  },
+  {
+    "Rank": 227,
+    "Album": "Paid In Full",
+    "Artist": "Eric B. & Rakim",
+    "Year": 1987
+  },
+  {
+    "Rank": 228,
+    "Album": "Toys In The Attic",
+    "Artist": "Aerosmith",
+    "Year": 1975
+  },
+  {
+    "Rank": 229,
+    "Album": "Nick Of Time",
+    "Artist": "Bonnie Raitt",
+    "Year": 1989
+  },
+  {
+    "Rank": 230,
+    "Album": "A Night At The Opera",
+    "Artist": "Queen",
+    "Year": 1975
+  },
+  {
+    "Rank": 231,
+    "Album": "The Kink Kronikles",
+    "Artist": "The Kinks",
+    "Year": 1972
+  },
+  {
+    "Rank": 232,
+    "Album": "Mr. Tambourine Man",
+    "Artist": "The Byrds",
+    "Year": 1965
+  },
+  {
+    "Rank": 233,
+    "Album": "Bookends",
+    "Artist": "Simon & Garfunkel",
+    "Year": 1968
+  },
+  {
+    "Rank": 234,
+    "Album": "The Ultimate Collection",
+    "Artist": "Patsy Cline",
+    "Year": 2000
+  },
+  {
+    "Rank": 235,
+    "Album": "Mr. Excitement!",
+    "Artist": "Jackie Wilson",
+    "Year": 1992
+  },
+  {
+    "Rank": 236,
+    "Album": "The Who Sings My Generation",
+    "Artist": "The Who",
+    "Year": 1965
+  },
+  {
+    "Rank": 237,
+    "Album": "Like A Prayer",
+    "Artist": "Madonna",
+    "Year": 1989
+  },
+  {
+    "Rank": 238,
+    "Album": "Can't Buy a Thrill",
+    "Artist": "Steely Dan",
+    "Year": 1972
+  },
+  {
+    "Rank": 239,
+    "Album": "Let It Be",
+    "Artist": "The Replacements",
+    "Year": 1984
+  },
+  {
+    "Rank": 240,
+    "Album": "Run-D.M.C.",
+    "Artist": "Run-D.M.C.",
+    "Year": 1984
+  },
+  {
+    "Rank": 241,
+    "Album": "Black Sabbath",
+    "Artist": "Black Sabbath",
+    "Year": 1970
+  },
+  {
+    "Rank": 242,
+    "Album": "The Jerry Lee Lewis Anthology: All Killer No Filler!",
+    "Artist": "Jerry Lee Lewis",
+    "Year": 1993
+  },
+  {
+    "Rank": 243,
+    "Album": "Freak Out!",
+    "Artist": "Frank Zappa & The Mothers Of Invention",
+    "Year": 1966
+  },
+  {
+    "Rank": 244,
+    "Album": "Live/Dead",
+    "Artist": "Grateful Dead",
+    "Year": 1969
+  },
+  {
+    "Rank": 245,
+    "Album": "Bryter Layter",
+    "Artist": "Nick Drake",
+    "Year": 1970
+  },
+  {
+    "Rank": 246,
+    "Album": "The Shape Of Jazz To Come",
+    "Artist": "Ornette Coleman",
+    "Year": 1959
+  },
+  {
+    "Rank": 247,
+    "Album": "Automatic For The People",
+    "Artist": "R.E.M.",
+    "Year": 1992
+  },
+  {
+    "Rank": 248,
+    "Album": "Reasonable Doubt",
+    "Artist": "Jay-Z",
+    "Year": 1996
+  },
+  {
+    "Rank": 249,
+    "Album": "Low",
+    "Artist": "David Bowie",
+    "Year": 1977
+  },
+  {
+    "Rank": 250,
+    "Album": "The River",
+    "Artist": "Bruce Springsteen",
+    "Year": 1980
+  },
+  {
+    "Rank": 251,
+    "Album": "The Otis Redding Dictionary Of Soul",
+    "Artist": "Otis Redding",
+    "Year": 1966
+  },
+  {
+    "Rank": 252,
+    "Album": "Metallica",
+    "Artist": "Metallica",
+    "Year": 1991
+  },
+  {
+    "Rank": 253,
+    "Album": "Trans-Europe Express",
+    "Artist": "Kraftwerk",
+    "Year": 1977
+  },
+  {
+    "Rank": 254,
+    "Album": "Whitney Houston",
+    "Artist": "Whitney Houston",
+    "Year": 1985
+  },
+  {
+    "Rank": 255,
+    "Album": "The Kinks Are The Village Green Preservation Society",
+    "Artist": "The Kinks",
+    "Year": 1968
+  },
+  {
+    "Rank": 256,
+    "Album": "The Velvet Rope",
+    "Artist": "Janet Jackson",
+    "Year": 1997
+  },
+  {
+    "Rank": 257,
+    "Album": "Stardust",
+    "Artist": "Willie Nelson",
+    "Year": 1978
+  },
+  {
+    "Rank": 258,
+    "Album": "American Beauty",
+    "Artist": "Grateful Dead",
+    "Year": 1970
+  },
+  {
+    "Rank": 259,
+    "Album": "Crosby Stills & Nash",
+    "Artist": "Crosby, Stills & Nash",
+    "Year": 1969
+  },
+  {
+    "Rank": 260,
+    "Album": "Buena Vista Social Club",
+    "Artist": "Buena Vista Social Club",
+    "Year": 1997
+  },
+  {
+    "Rank": 261,
+    "Album": "Tracy Chapman",
+    "Artist": "Tracy Chapman",
+    "Year": 1988
+  },
+  {
+    "Rank": 262,
+    "Album": "Workingman's Dead",
+    "Artist": "Grateful Dead",
+    "Year": 1970
+  },
+  {
+    "Rank": 263,
+    "Album": "The Genius of Ray Charles",
+    "Artist": "Ray Charles",
+    "Year": 1959
+  },
+  {
+    "Rank": 264,
+    "Album": "Child Is Father To The Man",
+    "Artist": "Blood, Sweat & Tears",
+    "Year": 1968
+  },
+  {
+    "Rank": 265,
+    "Album": "Cosmo's Factory",
+    "Artist": "Creedence Clearwater Revival",
+    "Year": 1970
+  },
+  {
+    "Rank": 266,
+    "Album": "Quadrophenia",
+    "Artist": "The Who",
+    "Year": 1973
+  },
+  {
+    "Rank": 267,
+    "Album": "There Goes Rhymin' Simon",
+    "Artist": "Paul Simon",
+    "Year": 1973
+  },
+  {
+    "Rank": 268,
+    "Album": "Psycho Candy",
+    "Artist": "Jesus & Mary Chain",
+    "Year": 1985
+  },
+  {
+    "Rank": 269,
+    "Album": "Some Girls",
+    "Artist": "Rolling Stones",
+    "Year": 1978
+  },
+  {
+    "Rank": 270,
+    "Album": "The Beach Boys Today!",
+    "Artist": "Beach Boys",
+    "Year": 1965
+  },
+  {
+    "Rank": 271,
+    "Album": "Going To A Go-Go",
+    "Artist": "Smokey Robinson & The Miracles",
+    "Year": 1965
+  },
+  {
+    "Rank": 272,
+    "Album": "Nightbirds",
+    "Artist": "LaBelle",
+    "Year": 1974
+  },
+  {
+    "Rank": 273,
+    "Album": "Slim Shady",
+    "Artist": "Eminem",
+    "Year": 1999
+  },
+  {
+    "Rank": 274,
+    "Album": "Mothership Connection",
+    "Artist": "Parliament",
+    "Year": 1976
+  },
+  {
+    "Rank": 275,
+    "Album": "Rhythm Nation 1814",
+    "Artist": "Janet Jackson",
+    "Year": 1989
+  },
+  {
+    "Rank": 276,
+    "Album": "Anthology Of American Folk Music",
+    "Artist": "various artists",
+    "Year": 1952
+  },
+  {
+    "Rank": 277,
+    "Album": "Aladdin Sane",
+    "Artist": "David Bowie",
+    "Year": 1973
+  },
+  {
+    "Rank": 278,
+    "Album": "The Immaculate Collection",
+    "Artist": "Madonna",
+    "Year": 1990
+  },
+  {
+    "Rank": 279,
+    "Album": "My Life",
+    "Artist": "Mary J. Blige",
+    "Year": 1994
+  },
+  {
+    "Rank": 280,
+    "Album": "Folk Singer",
+    "Artist": "Muddy Waters",
+    "Year": 1964
+  },
+  {
+    "Rank": 281,
+    "Album": "Can't Get Enough",
+    "Artist": "Barry White",
+    "Year": 1974
+  },
+  {
+    "Rank": 282,
+    "Album": "The Cars",
+    "Artist": "The Cars",
+    "Year": 1978
+  },
+  {
+    "Rank": 283,
+    "Album": "Five Leaves Left",
+    "Artist": "Nick Drake",
+    "Year": 1969
+  },
+  {
+    "Rank": 284,
+    "Album": "Music Of My Mind",
+    "Artist": "Stevie Wonder",
+    "Year": 1972
+  },
+  {
+    "Rank": 285,
+    "Album": "I'm Still In Love With You",
+    "Artist": "Al Green",
+    "Year": 1972
+  },
+  {
+    "Rank": 286,
+    "Album": "Los Angeles",
+    "Artist": "X",
+    "Year": 1980
+  },
+  {
+    "Rank": 287,
+    "Album": "Anthem Of The Sun",
+    "Artist": "Grateful Dead",
+    "Year": 1968
+  },
+  {
+    "Rank": 288,
+    "Album": "Something Else By The Kinks",
+    "Artist": "The Kinks",
+    "Year": 1967
+  },
+  {
+    "Rank": 289,
+    "Album": "Call Me",
+    "Artist": "Al Green",
+    "Year": 1973
+  },
+  {
+    "Rank": 290,
+    "Album": "Talking Heads: 77",
+    "Artist": "Talking Heads",
+    "Year": 1977
+  },
+  {
+    "Rank": 291,
+    "Album": "The Basement Tapes",
+    "Artist": "Bob Dylan",
+    "Year": 1975
+  },
+  {
+    "Rank": 292,
+    "Album": "White Light / White Heat",
+    "Artist": "Velvet Underground",
+    "Year": 1967
+  },
+  {
+    "Rank": 293,
+    "Album": "Greatest Hits",
+    "Artist": "Simon & Garfunkel",
+    "Year": 1972
+  },
+  {
+    "Rank": 294,
+    "Album": "Kick Out The Jams",
+    "Artist": "MC5",
+    "Year": 1969
+  },
+  {
+    "Rank": 295,
+    "Album": "Meat Is Murder",
+    "Artist": "The Smiths",
+    "Year": 1985
+  },
+  {
+    "Rank": 296,
+    "Album": "We're Only In It For The Money",
+    "Artist": "Frank Zappa & The Mothers Of Invention",
+    "Year": 1968
+  },
+  {
+    "Rank": 297,
+    "Album": "Weezer",
+    "Artist": "Weezer",
+    "Year": 1994
+  },
+  {
+    "Rank": 298,
+    "Album": "Master Of Reality",
+    "Artist": "Black Sabbath",
+    "Year": 1971
+  },
+  {
+    "Rank": 299,
+    "Album": "Coat Of Many Colors",
+    "Artist": "Dolly Parton",
+    "Year": 1971
+  },
+  {
+    "Rank": 300,
+    "Album": "Fear Of A Black Planet",
+    "Artist": "Public Enemy",
+    "Year": 1990
+  },
+  {
+    "Rank": 301,
+    "Album": "John Wesley Harding",
+    "Artist": "Bob Dylan",
+    "Year": 1967
+  },
+  {
+    "Rank": 302,
+    "Album": "The Marshall Mathers LP",
+    "Artist": "Eminem",
+    "Year": 2000
+  },
+  {
+    "Rank": 303,
+    "Album": "Grace",
+    "Artist": "Jeff Buckley",
+    "Year": 1994
+  },
+  {
+    "Rank": 304,
+    "Album": "Car Wheels On A Gravel Road",
+    "Artist": "Lucinda Williams",
+    "Year": 1998
+  },
+  {
+    "Rank": 305,
+    "Album": "Odelay",
+    "Artist": "Beck",
+    "Year": 1996
+  },
+  {
+    "Rank": 306,
+    "Album": "Songs For Swingin' Lovers",
+    "Artist": "Frank Sinatra",
+    "Year": 1955
+  },
+  {
+    "Rank": 307,
+    "Album": "Avalon",
+    "Artist": "Roxy Music",
+    "Year": 1982
+  },
+  {
+    "Rank": 308,
+    "Album": "The Sun Records Collection",
+    "Artist": "various artists",
+    "Year": 1994
+  },
+  {
+    "Rank": 309,
+    "Album": "Nothing's Shocking",
+    "Artist": "Jane's Addiction",
+    "Year": 1988
+  },
+  {
+    "Rank": 310,
+    "Album": "Blood Sugar Sex Magik",
+    "Artist": "Red Hot Chili Peppers",
+    "Year": 1991
+  },
+  {
+    "Rank": 311,
+    "Album": "MTV Unplugged In New York",
+    "Artist": "Nirvana",
+    "Year": 1994
+  },
+  {
+    "Rank": 312,
+    "Album": "The Miseducation Of Lauryn Hill",
+    "Artist": "Lauryn Hill",
+    "Year": 1998
+  },
+  {
+    "Rank": 313,
+    "Album": "Damn The Torpedoes",
+    "Artist": "Tom Petty & The Heartbreakers",
+    "Year": 1979
+  },
+  {
+    "Rank": 314,
+    "Album": "The Velvet Underground",
+    "Artist": "Velvet Underground",
+    "Year": 1969
+  },
+  {
+    "Rank": 315,
+    "Album": "Surfer Rosa",
+    "Artist": "Pixies",
+    "Year": 1988
+  },
+  {
+    "Rank": 316,
+    "Album": "Rock Steady",
+    "Artist": "No Doubt",
+    "Year": 2001
+  },
+  {
+    "Rank": 317,
+    "Album": "The Eminem Show",
+    "Artist": "Eminem",
+    "Year": 2002
+  },
+  {
+    "Rank": 318,
+    "Album": "Back Stabbers",
+    "Artist": "The O'Jays",
+    "Year": 1972
+  },
+  {
+    "Rank": 319,
+    "Album": "Burnin'",
+    "Artist": "Bob Marley & The Wailers",
+    "Year": 1973
+  },
+  {
+    "Rank": 320,
+    "Album": "Pink Moon",
+    "Artist": "Nick Drake",
+    "Year": 1972
+  },
+  {
+    "Rank": 321,
+    "Album": "Sail Away",
+    "Artist": "Randy Newman",
+    "Year": 1972
+  },
+  {
+    "Rank": 322,
+    "Album": "Ghost In The Machine",
+    "Artist": "The Police",
+    "Year": 1981
+  },
+  {
+    "Rank": 323,
+    "Album": "Station To Station",
+    "Artist": "David Bowie",
+    "Year": 1976
+  },
+  {
+    "Rank": 324,
+    "Album": "The Very Best Of Linda Ronstadt",
+    "Artist": "Linda Ronstadt",
+    "Year": 2002
+  },
+  {
+    "Rank": 325,
+    "Album": "Slowhand",
+    "Artist": "Eric Clapton",
+    "Year": 1977
+  },
+  {
+    "Rank": 326,
+    "Album": "Disintegration",
+    "Artist": "The Cure",
+    "Year": 1989
+  },
+  {
+    "Rank": 327,
+    "Album": "Jagged Little Pill",
+    "Artist": "Alanis Morissette",
+    "Year": 1995
+  },
+  {
+    "Rank": 328,
+    "Album": "Exile In Guyville",
+    "Artist": "Liz Phair",
+    "Year": 1993
+  },
+  {
+    "Rank": 329,
+    "Album": "Daydream Nation",
+    "Artist": "Sonic Youth",
+    "Year": 1988
+  },
+  {
+    "Rank": 330,
+    "Album": "In The Jungle Groove",
+    "Artist": "James Brown",
+    "Year": 1986
+  },
+  {
+    "Rank": 331,
+    "Album": "Tonight's The Night",
+    "Artist": "Neil Young",
+    "Year": 1975
+  },
+  {
+    "Rank": 332,
+    "Album": "Help!",
+    "Artist": "The Beatles",
+    "Year": 1965
+  },
+  {
+    "Rank": 333,
+    "Album": "Shoot Out The Lights",
+    "Artist": "Richard & Linda Thompson",
+    "Year": 1982
+  },
+  {
+    "Rank": 334,
+    "Album": "Wild Gift",
+    "Artist": "X",
+    "Year": 1981
+  },
+  {
+    "Rank": 335,
+    "Album": "Squeezing Out Sparks",
+    "Artist": "Graham Parker",
+    "Year": 1979
+  },
+  {
+    "Rank": 336,
+    "Album": "Superunknown",
+    "Artist": "Soundgarden",
+    "Year": 1994
+  },
+  {
+    "Rank": 337,
+    "Album": "Aqualung",
+    "Artist": "Jethro Tull",
+    "Year": 1971
+  },
+  {
+    "Rank": 338,
+    "Album": "Cheap Thrills",
+    "Artist": "Big Brother & The Holding Company",
+    "Year": 1968
+  },
+  {
+    "Rank": 339,
+    "Album": "The Heart Of Saturday Night",
+    "Artist": "Tom Waits",
+    "Year": 1974
+  },
+  {
+    "Rank": 340,
+    "Album": "Damaged",
+    "Artist": "Black Flag",
+    "Year": 1981
+  },
+  {
+    "Rank": 341,
+    "Album": "Play",
+    "Artist": "Moby",
+    "Year": 1999
+  },
+  {
+    "Rank": 342,
+    "Album": "Violator",
+    "Artist": "Depeche Mode",
+    "Year": 1990
+  },
+  {
+    "Rank": 343,
+    "Album": "Bat Out Of Hell",
+    "Artist": "Meat Loaf",
+    "Year": 1977
+  },
+  {
+    "Rank": 344,
+    "Album": "Berlin",
+    "Artist": "Lou Reed",
+    "Year": 1973
+  },
+  {
+    "Rank": 345,
+    "Album": "Stop Making Sense",
+    "Artist": "Talking Heads",
+    "Year": 1984
+  },
+  {
+    "Rank": 346,
+    "Album": "3 Feet High And Rising",
+    "Artist": "De La Soul",
+    "Year": 1989
+  },
+  {
+    "Rank": 347,
+    "Album": "Piper At The Gates Of Dawn",
+    "Artist": "Pink Floyd",
+    "Year": 1967
+  },
+  {
+    "Rank": 348,
+    "Album": "At Newport 1960",
+    "Artist": "Muddy Waters",
+    "Year": 1960
+  },
+  {
+    "Rank": 349,
+    "Album": "Roger The Engineer",
+    "Artist": "The Yardbirds",
+    "Year": 1966
+  },
+  {
+    "Rank": 350,
+    "Album": "Rust Never Sleeps",
+    "Artist": "Neil Young & Crazy Horse",
+    "Year": 1979
+  },
+  {
+    "Rank": 351,
+    "Album": "Brothers In Arms",
+    "Artist": "Dire Straits",
+    "Year": 1985
+  },
+  {
+    "Rank": 352,
+    "Album": "52nd Street",
+    "Artist": "Billy Joel",
+    "Year": 1978
+  },
+  {
+    "Rank": 353,
+    "Album": "Having A Rave Up With The Yardbirds",
+    "Artist": "The Yardbirds",
+    "Year": 1965
+  },
+  {
+    "Rank": 354,
+    "Album": "12 Songs",
+    "Artist": "Randy Newman",
+    "Year": 1970
+  },
+  {
+    "Rank": 355,
+    "Album": "Between The Buttons",
+    "Artist": "Rolling Stones",
+    "Year": 1967
+  },
+  {
+    "Rank": 356,
+    "Album": "Sketches Of Spain",
+    "Artist": "Miles Davis",
+    "Year": 1960
+  },
+  {
+    "Rank": 357,
+    "Album": "Honky Chateau",
+    "Artist": "Elton John",
+    "Year": 1972
+  },
+  {
+    "Rank": 358,
+    "Album": "Singles Going Steady",
+    "Artist": "Buzzcocks",
+    "Year": 1979
+  },
+  {
+    "Rank": 359,
+    "Album": "Stankonia",
+    "Artist": "Outkast",
+    "Year": 2000
+  },
+  {
+    "Rank": 360,
+    "Album": "Siamese Dream",
+    "Artist": "Smashing Pumpkins",
+    "Year": 1993
+  },
+  {
+    "Rank": 361,
+    "Album": "Substance",
+    "Artist": "New Order",
+    "Year": 1987
+  },
+  {
+    "Rank": 362,
+    "Album": "L.A. Woman",
+    "Artist": "The Doors",
+    "Year": 1971
+  },
+  {
+    "Rank": 363,
+    "Album": "Ray Of Light",
+    "Artist": "Madonna",
+    "Year": 1998
+  },
+  {
+    "Rank": 364,
+    "Album": "American Recordings",
+    "Artist": "Johnny Cash",
+    "Year": 1994
+  },
+  {
+    "Rank": 365,
+    "Album": "Louder Than Bombs",
+    "Artist": "The Smiths",
+    "Year": 1987
+  },
+  {
+    "Rank": 366,
+    "Album": "Mott",
+    "Artist": "Mott The Hoople",
+    "Year": 1973
+  },
+  {
+    "Rank": 367,
+    "Album": "Is This It",
+    "Artist": "The Strokes",
+    "Year": 2001
+  },
+  {
+    "Rank": 368,
+    "Album": "Rage Against The Machine",
+    "Artist": "Rage Against The Machine",
+    "Year": 1992
+  },
+  {
+    "Rank": 369,
+    "Album": "Reggatta de Blanc",
+    "Artist": "The Police",
+    "Year": 1979
+  },
+  {
+    "Rank": 370,
+    "Album": "Volunteers",
+    "Artist": "Jefferson Airplane",
+    "Year": 1969
+  },
+  {
+    "Rank": 371,
+    "Album": "Siren",
+    "Artist": "Roxy Music",
+    "Year": 1975
+  },
+  {
+    "Rank": 372,
+    "Album": "Late For The Sky",
+    "Artist": "Jackson Browne",
+    "Year": 1974
+  },
+  {
+    "Rank": 373,
+    "Album": "Post",
+    "Artist": "Bj√∂rk",
+    "Year": 1995
+  },
+  {
+    "Rank": 374,
+    "Album": "The Eagles",
+    "Artist": "The Eagles",
+    "Year": 1972
+  },
+  {
+    "Rank": 375,
+    "Album": "The Ultimate Collection (1948 - 1990)",
+    "Artist": "John Lee Hooker",
+    "Year": 1991
+  },
+  {
+    "Rank": 376,
+    "Album": "(What's The Story) Morning Glory",
+    "Artist": "Oasis",
+    "Year": 1995
+  },
+  {
+    "Rank": 377,
+    "Album": "CrazySexyCool",
+    "Artist": "TLC",
+    "Year": 1994
+  },
+  {
+    "Rank": 378,
+    "Album": "Funky Kingston",
+    "Artist": "Toots & The Maytals",
+    "Year": 1973
+  },
+  {
+    "Rank": 379,
+    "Album": "Greetings From Asbury Park, N.J.",
+    "Artist": "Bruce Springsteen",
+    "Year": 1973
+  },
+  {
+    "Rank": 380,
+    "Album": "Sunflower",
+    "Artist": "Beach Boys",
+    "Year": 1970
+  },
+  {
+    "Rank": 381,
+    "Album": "Modern Lovers",
+    "Artist": "Modern Lovers",
+    "Year": 1976
+  },
+  {
+    "Rank": 382,
+    "Album": "More Songs About Buildings And Food",
+    "Artist": "Talking Heads",
+    "Year": 1978
+  },
+  {
+    "Rank": 383,
+    "Album": "A Quick One (Happy Jack)",
+    "Artist": "The Who",
+    "Year": 1966
+  },
+  {
+    "Rank": 384,
+    "Album": "Pyromania",
+    "Artist": "Def Leppard",
+    "Year": 1984
+  },
+  {
+    "Rank": 385,
+    "Album": "Pretzel Logic",
+    "Artist": "Steely Dan",
+    "Year": 1974
+  },
+  {
+    "Rank": 386,
+    "Album": "Enter The Wu-Tang: 36 Chambers",
+    "Artist": "Wu-Tang Clan",
+    "Year": 1993
+  },
+  {
+    "Rank": 387,
+    "Album": "Country Life",
+    "Artist": "Roxy Music",
+    "Year": 1974
+  },
+  {
+    "Rank": 388,
+    "Album": "A Hard Day's Night",
+    "Artist": "The Beatles",
+    "Year": 1964
+  },
+  {
+    "Rank": 389,
+    "Album": "The End Of The Innocence",
+    "Artist": "Don Henley",
+    "Year": 1989
+  },
+  {
+    "Rank": 390,
+    "Album": "Elephant",
+    "Artist": "White Stripes",
+    "Year": 2003
+  },
+  {
+    "Rank": 391,
+    "Album": "The Pretender",
+    "Artist": "Jackson Browne",
+    "Year": 1976
+  },
+  {
+    "Rank": 392,
+    "Album": "Willy And The Poor Boys",
+    "Artist": "Creedence Clearwater Revival",
+    "Year": 1970
+  },
+  {
+    "Rank": 393,
+    "Album": "Good Old Boys",
+    "Artist": "Randy Newman",
+    "Year": 1974
+  },
+  {
+    "Rank": 394,
+    "Album": "For Your Pleasure",
+    "Artist": "Roxy Music",
+    "Year": 1973
+  },
+  {
+    "Rank": 395,
+    "Album": "Blue Lines",
+    "Artist": "Massive Attack",
+    "Year": 1991
+  },
+  {
+    "Rank": 396,
+    "Album": "Eliminator",
+    "Artist": "ZZ Top",
+    "Year": 1983
+  },
+  {
+    "Rank": 397,
+    "Album": "Rain Dogs",
+    "Artist": "Tom Waits",
+    "Year": 1985
+  },
+  {
+    "Rank": 398,
+    "Album": "Anthology",
+    "Artist": "The Temptations",
+    "Year": 1995
+  },
+  {
+    "Rank": 399,
+    "Album": "Californication",
+    "Artist": "Red Hot Chili Peppers",
+    "Year": 1999
+  },
+  {
+    "Rank": 400,
+    "Album": "Illmatic",
+    "Artist": "Nas",
+    "Year": 1994
+  },
+  {
+    "Rank": 401,
+    "Album": "(Pronounced Leh-Nerd Skin-Nerd)",
+    "Artist": "Lynyrd Skynyrd",
+    "Year": 1973
+  },
+  {
+    "Rank": 402,
+    "Album": "Dr. John's Gumbo",
+    "Artist": "Dr. John",
+    "Year": 1972
+  },
+  {
+    "Rank": 403,
+    "Album": "Radio City",
+    "Artist": "Big Star",
+    "Year": 1974
+  },
+  {
+    "Rank": 404,
+    "Album": "Sandinista",
+    "Artist": "The Clash",
+    "Year": 1980
+  },
+  {
+    "Rank": 405,
+    "Album": "Rid Of Me",
+    "Artist": "PJ Harvey",
+    "Year": 1993
+  },
+  {
+    "Rank": 406,
+    "Album": "I Do Not Want What I Haven't Got",
+    "Artist": "Sin√©ad O'Connor",
+    "Year": 1990
+  },
+  {
+    "Rank": 407,
+    "Album": "Strange Days",
+    "Artist": "The Doors",
+    "Year": 1967
+  },
+  {
+    "Rank": 408,
+    "Album": "Time Out Of Mind",
+    "Artist": "Bob Dylan",
+    "Year": 1997
+  },
+  {
+    "Rank": 409,
+    "Album": "461 Ocean Boulevard",
+    "Artist": "Eric Clapton",
+    "Year": 1974
+  },
+  {
+    "Rank": 410,
+    "Album": "Pink Flag",
+    "Artist": "Wire",
+    "Year": 1977
+  },
+  {
+    "Rank": 411,
+    "Album": "Double Nickels On The Dime",
+    "Artist": "Minutemen",
+    "Year": 1984
+  },
+  {
+    "Rank": 412,
+    "Album": "Mezzanine",
+    "Artist": "Massive Attack",
+    "Year": 1998
+  },
+  {
+    "Rank": 413,
+    "Album": "Beauty And The Beat",
+    "Artist": "The Go-Go's",
+    "Year": 1981
+  },
+  {
+    "Rank": 414,
+    "Album": "Greatest Hits",
+    "Artist": "James Brown",
+    "Year": 1991
+  },
+  {
+    "Rank": 415,
+    "Album": "Van Halen",
+    "Artist": "Van Halen",
+    "Year": 1978
+  },
+  {
+    "Rank": 416,
+    "Album": "Mule Variations",
+    "Artist": "Tom Waits",
+    "Year": 1999
+  },
+  {
+    "Rank": 417,
+    "Album": "Boy",
+    "Artist": "U2",
+    "Year": 1980
+  },
+  {
+    "Rank": 418,
+    "Album": "Band On The Run",
+    "Artist": "Wings",
+    "Year": 1973
+  },
+  {
+    "Rank": 419,
+    "Album": "Dummy",
+    "Artist": "Portishead",
+    "Year": 1994
+  },
+  {
+    "Rank": 420,
+    "Album": "With The Beatles",
+    "Artist": "The Beatles",
+    "Year": 1963
+  },
+  {
+    "Rank": 421,
+    "Album": "The",
+    "Artist": "Buddy Holly and the Crickets",
+    "Year": 1957
+  },
+  {
+    "Rank": 422,
+    "Album": "The Best Of The Girl Groups, Volumes 1 & 2",
+    "Artist": "various artists",
+    "Year": 1990
+  },
+  {
+    "Rank": 423,
+    "Album": "Greatest Hits",
+    "Artist": "Mamas & The Papas",
+    "Year": 1998
+  },
+  {
+    "Rank": 424,
+    "Album": "King Of The Delta Blues Singers, Vol. 2",
+    "Artist": "Robert Johnson",
+    "Year": 1966
+  },
+  {
+    "Rank": 425,
+    "Album": "Changes",
+    "Artist": "David Bowie",
+    "Year": 1976
+  },
+  {
+    "Rank": 426,
+    "Album": "The Battle Of Los Angeles",
+    "Artist": "Rage Against The Machine",
+    "Year": 1999
+  },
+  {
+    "Rank": 427,
+    "Album": "Presenting The Fabulous Ronettes Featuring Veronica",
+    "Artist": "The Ronettes",
+    "Year": 1964
+  },
+  {
+    "Rank": 428,
+    "Album": "Kid A",
+    "Artist": "Radiohead",
+    "Year": 2000
+  },
+  {
+    "Rank": 429,
+    "Album": "Grievous Angel",
+    "Artist": "Gram Parsons",
+    "Year": 1973
+  },
+  {
+    "Rank": 430,
+    "Album": "At Budokan",
+    "Artist": "Cheap Trick",
+    "Year": 1979
+  },
+  {
+    "Rank": 431,
+    "Album": "Anthology",
+    "Artist": "Diana Ross & The Supremes",
+    "Year": 1974
+  },
+  {
+    "Rank": 432,
+    "Album": "Sleepless",
+    "Artist": "Peter Wolf",
+    "Year": 2002
+  },
+  {
+    "Rank": 433,
+    "Album": "Another Green World",
+    "Artist": "Brian Eno",
+    "Year": 1975
+  },
+  {
+    "Rank": 434,
+    "Album": "Outlandos d'Amour",
+    "Artist": "The Police",
+    "Year": 1978
+  },
+  {
+    "Rank": 435,
+    "Album": "To Bring You My Love",
+    "Artist": "PJ Harvey",
+    "Year": 1995
+  },
+  {
+    "Rank": 436,
+    "Album": "Here Come The Warm Jets",
+    "Artist": "Brian Eno",
+    "Year": 1974
+  },
+  {
+    "Rank": 437,
+    "Album": "All Things Must Pass",
+    "Artist": "George Harrison",
+    "Year": 1970
+  },
+  {
+    "Rank": 438,
+    "Album": "#1 Record",
+    "Artist": "Big Star",
+    "Year": 1972
+  },
+  {
+    "Rank": 439,
+    "Album": "In Utero",
+    "Artist": "Nirvana",
+    "Year": 1993
+  },
+  {
+    "Rank": 440,
+    "Album": "Sea Change",
+    "Artist": "Beck",
+    "Year": 2002
+  },
+  {
+    "Rank": 441,
+    "Album": "Tragic Kingdom",
+    "Artist": "No Doubt",
+    "Year": 1995
+  },
+  {
+    "Rank": 442,
+    "Album": "Boys Don't Cry",
+    "Artist": "The Cure",
+    "Year": 1980
+  },
+  {
+    "Rank": 443,
+    "Album": "Live At The Harlem Square Club, 1963",
+    "Artist": "Sam Cooke",
+    "Year": 1985
+  },
+  {
+    "Rank": 444,
+    "Album": "Criminal Minded",
+    "Artist": "Boogie Down Productions",
+    "Year": 1987
+  },
+  {
+    "Rank": 445,
+    "Album": "Rum Sodomy And The Lash",
+    "Artist": "The Pogues",
+    "Year": 1985
+  },
+  {
+    "Rank": 446,
+    "Album": "Suicide",
+    "Artist": "Suicide",
+    "Year": 1977
+  },
+  {
+    "Rank": 447,
+    "Album": "Q: Are We Not Men? A: We Are Devo!",
+    "Artist": "Devo",
+    "Year": 1978
+  },
+  {
+    "Rank": 448,
+    "Album": "In Color",
+    "Artist": "Cheap Trick",
+    "Year": 1977
+  },
+  {
+    "Rank": 449,
+    "Album": "The World Is A Ghetto",
+    "Artist": "War",
+    "Year": 1972
+  },
+  {
+    "Rank": 450,
+    "Album": "Fly Like An Eagle",
+    "Artist": "Steve Miller Band",
+    "Year": 1976
+  },
+  {
+    "Rank": 451,
+    "Album": "Back In The USA",
+    "Artist": "MC5",
+    "Year": 1970
+  },
+  {
+    "Rank": 452,
+    "Album": "Music",
+    "Artist": "Madonna",
+    "Year": 2000
+  },
+  {
+    "Rank": 453,
+    "Album": "Ritual de lo Habitual",
+    "Artist": "Jane's Addiction",
+    "Year": 1990
+  },
+  {
+    "Rank": 454,
+    "Album": "Getz/Gilberto",
+    "Artist": "Stan Getz & Joao Gilberto",
+    "Year": 1964
+  },
+  {
+    "Rank": 455,
+    "Album": "Synchronicity",
+    "Artist": "The Police",
+    "Year": 1983
+  },
+  {
+    "Rank": 456,
+    "Album": "Third/Sister Lovers",
+    "Artist": "Big Star",
+    "Year": 1978
+  },
+  {
+    "Rank": 457,
+    "Album": "For Everyman",
+    "Artist": "Jackson Browne",
+    "Year": 1973
+  },
+  {
+    "Rank": 458,
+    "Album": "John Prine",
+    "Artist": "John Prine",
+    "Year": 1971
+  },
+  {
+    "Rank": 459,
+    "Album": "Strictly Business",
+    "Artist": "EPMD",
+    "Year": 1988
+  },
+  {
+    "Rank": 460,
+    "Album": "Love It To Death",
+    "Artist": "Alice Cooper",
+    "Year": 1971
+  },
+  {
+    "Rank": 461,
+    "Album": "How Will The Wolf Survive?",
+    "Artist": "Los Lobos",
+    "Year": 1984
+  },
+  {
+    "Rank": 462,
+    "Album": "Here, My Dear",
+    "Artist": "Marvin Gaye",
+    "Year": 1978
+  },
+  {
+    "Rank": 463,
+    "Album": "Tumbleweed Connection",
+    "Artist": "Elton John",
+    "Year": 1971
+  },
+  {
+    "Rank": 464,
+    "Album": "The Blueprint",
+    "Artist": "Jay-Z",
+    "Year": 2001
+  },
+  {
+    "Rank": 465,
+    "Album": "Golden Hits",
+    "Artist": "The Drifters",
+    "Year": 1968
+  },
+  {
+    "Rank": 466,
+    "Album": "Live Through This",
+    "Artist": "Hole",
+    "Year": 1994
+  },
+  {
+    "Rank": 467,
+    "Album": "Love & Theft",
+    "Artist": "Bob Dylan",
+    "Year": 2001
+  },
+  {
+    "Rank": 468,
+    "Album": "Elton John",
+    "Artist": "Elton John",
+    "Year": 1970
+  },
+  {
+    "Rank": 469,
+    "Album": "Metal Box",
+    "Artist": "Public Image Ltd.",
+    "Year": 1979
+  },
+  {
+    "Rank": 470,
+    "Album": "Document",
+    "Artist": "R.E.M.",
+    "Year": 1987
+  },
+  {
+    "Rank": 471,
+    "Album": "Heaven Up Here",
+    "Artist": "Echo & The Bunnymen",
+    "Year": 1981
+  },
+  {
+    "Rank": 472,
+    "Album": "Hysteria",
+    "Artist": "Def Leppard",
+    "Year": 1987
+  },
+  {
+    "Rank": 473,
+    "Album": "A Rush Of Blood To The Head",
+    "Artist": "Coldplay",
+    "Year": 2002
+  },
+  {
+    "Rank": 474,
+    "Album": "Live In Europe",
+    "Artist": "Otis Redding",
+    "Year": 1967
+  },
+  {
+    "Rank": 475,
+    "Album": "Tunnel Of Love",
+    "Artist": "Bruce Springsteen",
+    "Year": 1987
+  },
+  {
+    "Rank": 476,
+    "Album": "The Paul Butterfield Blues Band",
+    "Artist": "The Paul Butterfield Blues Band",
+    "Year": 1965
+  },
+  {
+    "Rank": 477,
+    "Album": "The Score",
+    "Artist": "Fugees",
+    "Year": 1996
+  },
+  {
+    "Rank": 478,
+    "Album": "Radio",
+    "Artist": "LL Cool J",
+    "Year": 1985
+  },
+  {
+    "Rank": 479,
+    "Album": "I Want To See The Bright Lights Tonight",
+    "Artist": "Richard & Linda Thompson",
+    "Year": 1974
+  },
+  {
+    "Rank": 480,
+    "Album": "Faith",
+    "Artist": "George Michael",
+    "Year": 1987
+  },
+  {
+    "Rank": 481,
+    "Album": "The Smiths",
+    "Artist": "The Smiths",
+    "Year": 1984
+  },
+  {
+    "Rank": 482,
+    "Album": "Armed Forces",
+    "Artist": "Elvis Costello & The Attractions",
+    "Year": 1979
+  },
+  {
+    "Rank": 483,
+    "Album": "Life After Death",
+    "Artist": "The Notorious B.I.G.",
+    "Year": 1997
+  },
+  {
+    "Rank": 484,
+    "Album": "Branded Man",
+    "Artist": "Merle Haggard",
+    "Year": 1967
+  },
+  {
+    "Rank": 485,
+    "Album": "All Time Greatest Hits",
+    "Artist": "Loretta Lynn",
+    "Year": 2002
+  },
+  {
+    "Rank": 486,
+    "Album": "Maggot Brain",
+    "Artist": "Funkadelic",
+    "Year": 1971
+  },
+  {
+    "Rank": 487,
+    "Album": "Mellon Collie And The Infinite Sadness",
+    "Artist": "Smashing Pumpkins",
+    "Year": 1995
+  },
+  {
+    "Rank": 488,
+    "Album": "Voodoo",
+    "Artist": "D'Angelo",
+    "Year": 2000
+  },
+  {
+    "Rank": 489,
+    "Album": "Guitar Town",
+    "Artist": "Steve Earle",
+    "Year": 1986
+  },
+  {
+    "Rank": 490,
+    "Album": "Entertainment!",
+    "Artist": "Gang Of Four",
+    "Year": 1979
+  },
+  {
+    "Rank": 491,
+    "Album": "All The Young Dudes",
+    "Artist": "Mott The Hoople",
+    "Year": 1972
+  },
+  {
+    "Rank": 492,
+    "Album": "Vitalogy",
+    "Artist": "Pearl Jam",
+    "Year": 1994
+  },
+  {
+    "Rank": 493,
+    "Album": "That's The Way Of The World",
+    "Artist": "Earth, Wind & Fire",
+    "Year": 1975
+  },
+  {
+    "Rank": 494,
+    "Album": "She's So Unusual",
+    "Artist": "Cyndi Lauper",
+    "Year": 1984
+  },
+  {
+    "Rank": 495,
+    "Album": "New Day Rising",
+    "Artist": "Husker Du",
+    "Year": 1985
+  },
+  {
+    "Rank": 496,
+    "Album": "Destroyer",
+    "Artist": "Kiss",
+    "Year": 1976
+  },
+  {
+    "Rank": 497,
+    "Album": "Yo! Bum Rush The Show",
+    "Artist": "Public Enemy",
+    "Year": 1987
+  },
+  {
+    "Rank": 498,
+    "Album": "Tres Hombres",
+    "Artist": "ZZ Top",
+    "Year": 1973
+  },
+  {
+    "Rank": 499,
+    "Album": "Born Under A Bad Sign",
+    "Artist": "Albert King",
+    "Year": 1967
+  },
+  {
+    "Rank": 500,
+    "Album": "Touch",
+    "Artist": "Eurythmics",
+    "Year": 1983
+  }
+]
